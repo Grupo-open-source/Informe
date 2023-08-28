@@ -1,3 +1,23 @@
+**Universidad Peruana de Ciencias Aplicadas**
+
+**Ingeniería de Software**
+
+# <div align="center"> Desarrollo de Aplicaciones Open Soure </div>
+
+### TB1
+
+### Startup: Odyssey <br>
+### Product: TravelPlanner
+
+**Integrantes**
+* Quito Igreda, Cristian Andrés u202121882
+* Esquivel Aguayo, Diego Martín
+* Baldeon Fabian, Aldo
+* Cipriano, Bruce
+* Loarte, Anthony
+
+### <div align="center"> Ciclo 2023-2 </div>
+
 # Registro de Versiones del Informe
 
 # Project Report Collaboration Insights
