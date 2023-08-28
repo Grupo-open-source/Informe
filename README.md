@@ -2,22 +2,21 @@
 
 **Ingeniería de Software**
 
-# Desarrollo de Aplicaciones Open Soure
+# <div align="center"> Desarrollo de Aplicaciones Open Soure </div>
 
-<p style="font-size: 2em; font-weight: bold;"> TB1 </p>
+## TB1
 
-<p style="font-size: 2em;">
-Startup: Odyssey <br>
-Product: TravelPlanner </p>
+### Startup: Odyssey <br>
+### Product: TravelPlanner
 
 **Integrantes**
-Quito Igreda, Cristian Andrés u202121882
-Esquivel Aguayo, Diego Martín
-Baldeon Fabian, Aldo
-Cipriano, Bruce
-Loarte, Anthony
+* Quito Igreda, Cristian Andrés u202121882
+* Esquivel Aguayo, Diego Martín
+* Baldeon Fabian, Aldo
+* Cipriano, Bruce
+* Loarte, Anthony
 
-<p style="font-size: 2em; font-weight: bold; text-align: center;"> Ciclo 2023-2 </p>
+### <div align="center"> Ciclo 2023-2 </div>
 
 # Registro de Versiones del Informe
 
