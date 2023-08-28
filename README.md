@@ -2,7 +2,7 @@
 
 **Ingeniería de Software**
 
-# <div align="center"> Desarrollo de Aplicaciones Open Soure </div>
+# <div align="center"> Desarrollo de Aplicaciones Open Source </div>
 
 ### TB1
 
@@ -124,7 +124,97 @@
 ### 1.1.2. Perfiles de integrantes del equipo
 <table>
   <tr>
-    <td rowspan="3"> <img src="" alt="Cristian Quito"/> </td>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Cristian Andrés Quito Igreda
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
+        de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
+        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en            C++, Python y SQL Server, además de contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+      </p>  
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1145446948267118775/Diego-Uchiha.png" alt="Diego Esquivel" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Diego Martin Esquivel Aguayo
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Tengo 19 años, me encuentro en el quinto ciclo de Ingeniería de Software. Soy una persona amigable, tranquila, responsable y ordenada. Cumplo con entregar los trabajos en los plazos establecidos y me adapto fácilmente a las condiciones del trabajo en equipo.
+      </p>  
+    </td>
+  </tr>
+ <tr>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Cristian Andrés Quito Igreda
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
+        de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
+        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en            C++, Python y SQL Server, además de contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+      </p>  
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Cristian Andrés Quito Igreda
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
+        de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
+        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en            C++, Python y SQL Server, además de contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+      </p>  
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Cristian Andrés Quito Igreda
@@ -163,8 +253,141 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+En esta sección se definieron las preguntas más importantes para cada segmento objetivo con la finalidad de extraer las necesidades y opiniones del usuario. De esta manera, podremos desarrollar una aplicación que ayude a resolver las diversas problemáticas que afronta el cliente.
+
+**Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+* **Preguntas Generales:**
+  - ¿Cuál es su nombre completo? 
+  - ¿Cuántos años tienes? 
+  - ¿Cuál es su estado civil? 
+  - ¿A qué te dedicas? ¿Trabajas? ¿Estudias? 
+  - ¿En qué ciudad resides?
+ 
+* **Preguntas sobre el negocio**
+  - ¿Qué tipos de servicios ofrece?
+  - ¿Cómo promociona su servicio para los turistas?
+  - ¿Cuáles son las dificultades para expandir su negocio?
+  - ¿Te agradaría la posibilidad de promocionar tu negocio a miles de usuarios para que formen su itinerario de viajes?
+
+* **Preguntas después de contarle en qué consiste nuestra app**
+  - ¿Qué es lo que no le gustaría de una app con esas características?
+  - ¿Qué le gustaría de una app que le ayude a publicar sus servicios turísticos a un alcance nacional?
+  - ¿Cree qué un aplicativo con estas capacidades ayudaría a potenciar a empresas turísticas que recién se están adentrando en el mercado?
+  - ¿Recomendarías nuestra aplicación a otras personas? ¿Por qué?
+ 
+**Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+* **Preguntas Generales:**
+  - ¿Cuál es su nombre completo? 
+  - ¿Cuántos años tienes? 
+  - ¿Cuál es su estado civil? 
+  - ¿A qué te dedicas? ¿Trabajas? ¿Estudias? 
+  - ¿En qué ciudad resides?
+ 
+* **Experiencias:**
+  - ¿Con qué frecuencia viajas?
+  - ¿A qué lugares turísticos le gustaría viajar?
+  - ¿Alguna vez has tratado de buscar servicios turísticos en el lugar de destino? ¿Cómo fue tu experiencia?
+  - ¿Prefiere adquirir servicios turísticos de forma virtual o presencial?
+
+* **Sobre una posible App**
+  - ¿Te agradaría la posibilidad de adquirir un paquete turístico con un horario predeterminado con tan solo un click? ¿Por qué?
+  - ¿Conoces alguna app que brinda diversos servicios turísticos y organizarlos en un calendario?
+
+ * **Preguntas después de contarle en qué consiste nuestra app**
+  - ¿Cómo crees que te beneficiaría una aplicación que también te permite armar tus propios itinerarios con diversos servicios turísticos?
+  - ¿Qué es lo que le gustaría de un aplicativo que ayude a organizar y adquirir servicios turísticos al instante?
+  - ¿Qué es lo que no le gustaría de una app con esas características?
+  - ¿Cree qué un aplicativo con estas capacidades ayudaría a mejorar la experiencia de viajes de millones de turistas que apenas conocen su lugar de destino?
+  - ¿Recomendarías nuestra aplicación a otras personas? ¿Por qué?
+
 ### 2.2.2. Registro de entrevistas.
+**Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+
+* **Entrevista 1** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: 
+  - Duración:  minutos 
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+ * **Entrevista 2** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: 
+  - Duración:  minutos 
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+* **Entrevista 3** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: 
+  - Duración:  minutos 
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+**Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+
+* **Entrevista 1** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: 
+  - Duración:  minutos 
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+ * **Entrevista 2** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: 
+  - Duración:  minutos 
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+* **Entrevista 3** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: 
+  - Duración:  minutos 
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
 ### 2.2.3. Análisis de entrevistas.
+**Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+
+**Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
