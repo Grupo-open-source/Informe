@@ -19,17 +19,50 @@
 ### <div align="center"> Ciclo 2023-2 </div>
 
 # Registro de Versiones del Informe
+| Versión | Fecha | Autor | Descrición de modificación |
+|---------|-------|-------| ---------------------------|
+| | | | |
 
 # Project Report Collaboration Insights
 
 # Contenido
 
 # Student Outcome
+| Criterio específico | Acciones realizadas | Conclusiones | 
+|---------------------|---------------------|--------------|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|||
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|||
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
+<table>
+  <tr>
+    <td rowspan="3"> <img src="" alt="Cristian Quito"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Cristian Andrés Quito Igreda
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
+        de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
+        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en            C++, Python y SQL Server, además de contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+      </p>  
+    </td>
+  </tr>
+</table>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
