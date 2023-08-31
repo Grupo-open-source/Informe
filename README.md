@@ -177,10 +177,10 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
     </td>
   </tr>
  <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
+    <td rowspan="3"> <img src= "https://media.discordapp.net/attachments/991473069942120498/1142581333189722212/xd.jpg?width=423&height=564" alt="Aldo Baldeon" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
-      Cristian Andrés Quito Igreda
+      Aldo Alberto Baldeon Fabian
     </td>
   </tr>
   <tr>
@@ -195,7 +195,8 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
       <p>
         Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
         de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
-        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en            C++, Python y SQL Server, además de contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en C++, Python y SQL Server, además de 
+        contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
       </p>  
     </td>
   </tr>
