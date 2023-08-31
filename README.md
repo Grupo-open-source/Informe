@@ -12,7 +12,7 @@
 **Integrantes**
 * Quito Igreda, Cristian Andrés u202121882
 * Esquivel Aguayo, Diego Martín
-* Baldeon Fabian, Aldo
+* Baldeon Fabian, Aldo Alberto u202122633
 * Cipriano, Bruce
 * Loarte, Anthony
 
@@ -249,9 +249,93 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+* **What?**  
+Hemos identificado como problema principal la planificación ineficiente de viajes. Esto conlleva a que los viajeros se enfrenten a dificultades para organizar itinerarios completos y explorar todas los lugares y experiencias que una   región turística tiene para ofrecer. La falta de una estructura adecuada en la planificación de viajes limita la capacidad de los turistas para aprovechar al máximo su tiempo y disfrutar de una experiencia enriquecedora y satisfactoria.
+
+* **When?**  
+Este problema se presenta cada vez que los viajeros se enfrentan a la tarea de organizar sus planes turísticos, ya sea para vacaciones, viajes de negocios u otras ocasiones. La necesidad de planificar eficientemente surge en todas las etapas de la preparación del viaje, desde la selección de destinos hasta la reserva de alojamiento y actividades. 
+
+* **Where?**  
+Este problema surge en cualquier destino turístico alrededor del mundo. Dondequiera que los viajeros busquen explorar y disfrutar de nuevas experiencias, se enfrentan a la cuestión de cómo diseñar un itinerario que se ajuste a sus intereses y tiempo disponible.
+
+* **Who?**  
+Este problema afecta a una amplia gama de personas, desde aquellos que viajan por placer hasta aquellos que viajan por negocios. Los viajeros que desean maximizar su experiencia y aprovechar al máximo su tiempo en un lugar determinado pueden verse frustrados por la falta de herramientas y recursos efectivos para planificar sus actividades de manera adecuada. 
+
+* **Why?**  
+La planificación ineficiente de viajes puede llevar a que los viajeros se pierdan oportunidades valiosas de explorar y experimentar las atracciones y actividades de una región turística. No poder optimizar el tiempo puede resultar en experiencias incompletas y la sensación de haber dejado cosas por descubrir, lo que afecta negativamente la satisfacción general del viaje.
+
+* **How?**  
+Este problema surge debido a la falta de una plataforma o herramienta que permita a los viajeros planificar de manera efectiva su itinerario. La falta de información centralizada, recursos personalizados y asesoramiento experto contribuye a la ineficiencia en la planificación de viajes. 
+
+* **How much?**  
+La magnitud de este problema es significativa, ya que puede afectar la calidad de la experiencia de viaje de los turistas. No hay un costo financiero directo asociado, pero la falta de una planificación adecuada puede resultar en oportunidades perdidas, gastos innecesarios y una experiencia de viaje menos satisfactoria en términos generales.  
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+
+En el contexto actual, la planificación de viajes se enfrenta a obstáculos considerables que afectan negativamente la experiencia de los viajeros. A medida que el turismo se expande y la variedad de destinos y actividades crece, surge una serie de desafíos que dificultan la organización y el disfrute completo de las escapadas. Los viajeros se encuentran con problemas al intentar diseñar itinerarios que se adapten a sus necesidades y deseos, ya que se ven bombardeados por una sobrecarga de información en la web, guías turísticas y blogs que a menudo carece de coherencia y actualización. Esto conduce a la dificultad de encontrar datos confiables y específicos sobre destinos, actividades y servicios turísticos, lo que puede resultar en decisiones desinformadas o inadecuadas. 
+
+Además, la falta de opciones personalizadas y el exceso de alternativas hacen que los viajeros luchen por descubrir experiencias auténticas que se alineen con sus intereses. La planificación estructurada de itinerarios es una tarea que consume tiempo y energía adicional, agotando a aquellos que ya tienen horarios ocupados. La carencia de visibilidad en ofertas y descuentos especiales limita la capacidad de los viajeros para mantenerse dentro de sus presupuestos planificados, lo que puede resultar en gastos innecesarios. 
+
+El problema de seguridad y confianza se suma a la ecuación, ya que los viajeros a menudo no se sienten seguros al interactuar con proveedores de servicios turísticos desconocidos, especialmente en destinos extranjeros. La falta de información sobre experiencias locales auténticas también limita la capacidad de los viajeros para sumergirse en la cultura y el ambiente del destino, lo que disminuye la calidad de la experiencia general. 
+
+La imprevisibilidad de factores externos puede desencadenar cambios en los itinerarios planificados, causando situaciones estresantes y frustrantes si no se abordan adecuadamente. Las confirmaciones de reservas y recordatorios de actividades resultan desafiantes, lo que puede llevar a olvidos y malentendidos importantes. 
+
+Por lo tanto, el desafío clave radica en cómo brindar a los viajeros una solución que aborde estas problemáticas de manera efectiva y les permita organizar itinerarios coherentes, personalizados y enriquecedores. ¿Cómo podemos proporcionar a los viajeros una plataforma que les ayude a superar la sobrecarga de información, a diseñar itinerarios flexibles y auténticos, a mantenerse dentro de sus presupuestos, a interactuar con proveedores de servicios con confianza y a gestionar los cambios imprevistos, todo mientras aseguran una experiencia de viaje satisfactoria y memorable? 
+
 #### 1.2.2.2. Lean UX Assumptions.
+* **Business Assumptions**  
+  * Creemos que los viajeros enfrentan desafíos significativos en la planificación de sus viajes debido a la sobrecarga de información en línea y la falta de recursos coherentes y actualizados.
+  * Suponemos que los viajeros buscan experiencias únicas y personalizadas que se adapten a sus intereses y preferencias, pero actualmente carecen de opciones adecuadas para satisfacer estas necesidades.
+  * Consideramos que la falta de visibilidad sobre ofertas y descuentos especiales en servicios turísticos limita la capacidad de los viajeros para mantenerse dentro de sus presupuestos planificados.
+  * Asumimos que los viajeros están interesados en sumergirse en experiencias locales auténticas, pero la falta de información los limita en esta búsqueda.
+  * Creemos que la gestión del tiempo y la organización de detalles de viaje, como confirmaciones de reservas y recordatorios de actividades, representan una carga adicional para los viajeros.
+  * Suponemos que los viajeros pueden sentir inseguridad al interactuar con proveedores de servicios turísticos desconocidos, especialmente en destinos extranjeros.
+  * Consideramos que la amplia gama de opciones para actividades, alojamiento y restaurantes puede abrumar a los viajeros y dificultar la toma de decisiones informadas.
+  * Asumimos que los viajeros estarían dispuestos a utilizar una plataforma que aborde estos problemas y les brinde herramientas para planificar itinerarios efectivos y enriquecedores.
+  * Suponemos que la adquisición de clientes se puede lograr principalmente a través de anuncios en redes sociales y páginas web, debido a la naturaleza digital de la audiencia objetivo.
+  * Creemos que los usuarios estarían dispuestos a pagar por beneficios adicionales mediante suscripciones premium mensuales o anuales.
+  * Suponemos que la competencia principal estará representada por aplicaciones de planificación de viajes existentes y servicios turísticos en línea.
+  * Consideramos que podemos superar a la competencia a través de la simplicidad y eficacia de nuestra plataforma, proporcionando una experiencia de usuario más fluida y satisfactoria.
+  * Asumimos que uno de los mayores riesgos del producto es la incapacidad del usuario para vincular sus tarjetas o recibir notificaciones importantes.
+  * Creemos que podemos resolver este riesgo mediante la colaboración y las conversaciones con diversas entidades bancarias para garantizar una integración fluida y notificaciones confiables.
+* **User Assumptions**
+  
+  * **¿Quién es el usuario?**
+    
+      El usuario es un viajero que busca planificar y disfrutar de su viaje.  Esto incluye tanto a viajeros por placer como por negocios, de diferentes edades y antecedentes. El usuario puede tener diversas preferencias y necesidades en 
+      cuanto a destinos, actividades y alojamiento.
+  * **¿Dónde encaja nuestro producto, en su trabajo o vida?**
+    
+      Nuestro producto encaja en la vida del usuario como una herramienta esencial para la planificación y organización de sus viajes. Se integra en el proceso de selección de destinos, la creación de itinerarios, la reserva de 
+      alojamiento y actividades, y la administración de detalles importantes. 
+  * **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+    * Problema: Los viajeros se enfrentan a la sobrecarga de información en línea y la falta de recursos coherentes.
+    * Solución: Proporcionar una plataforma que reúna información confiable y actualizada sobre destinos, actividades y servicios turísticos.
+
+    * Problema: Los usuarios desean experiencias personalizadas, pero tienen dificultades para encontrar opciones adecuadas.
+    * Solución: Ofrecer recomendaciones y herramientas de personalización que se ajusten a los intereses y preferencias de los usuarios.
+
+    * Problema: Los viajeros tienen dificultades para mantenerse dentro de su presupuesto debido a la falta de visibilidad sobre ofertas y descuentos.
+    * Solución: Integrar información sobre ofertas y descuentos especiales en servicios turísticos en la plataforma. 
+  * **¿Cuándo y cómo es usado nuestro producto?**
+    
+      El producto es utilizado en todas las etapas de la planificación de viajes, desde la inspiración y selección de destinos hasta la creación detallada de itinerarios. Los usuarios pueden acceder a la plataforma en línea a través de  
+      sus dispositivos móviles o computadoras. 
+
+  * **¿Qué características son importantes?**
+
+    Reúnir y muestra información turística confiable.
+    Herramientas de personalización y recomendaciones.
+    Notificaciones y recordatorios para actividades y reservas.
+    Información sobre ofertas y descuentos.
+    Comunicación con proveedores de servicios turísticos.
+    
+  * **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
+    El producto debe tener una interfaz intuitiva y fácil de usar, con un diseño atractivo que invite a la exploración. Debe comportarse de manera fluida, ofreciendo respuestas rápidas a las acciones del usuario y proporcionando 
+    información relevante de manera eficiente. La plataforma debe ser adaptable a dispositivos móviles y computadoras para una experiencia coherente en diferentes dispositivos. 
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo
