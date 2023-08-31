@@ -390,7 +390,78 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+**Segmento 1 (Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1146498166989017228/Francisco_Ferre_1.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
+**Segmento 2 (Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1146495098847244378/Adela_Garrido_2.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p> 
+
 ### 2.3.2. User Task Matrix.
+
+<table align="center">
+    <thead>
+        <tr>
+            <th rowspan=2>User Task Matrix</th>
+            <th colspan=2>Francisco Ferre</th>
+            <th colspan=2>Adela Garrido</th>
+         <tr>
+            <th rowspan=1 align="center">Frecuencia</td>
+            <th rowspan=1 align="center">Importancia</td>
+            <th rowspan=1 align="center">Frecuencia</td>
+            <th rowspan=1 align="center">Importancia</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">Organizar un itinerario de viaje</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Investigar destino</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Medium</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Buscar alojamiento</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Low</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Hablar distintos idiomas</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Buscar información</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">High</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Medium</td>
+        </tr>
+         <tr>
+            <td rowspan=1 align="center">Gestionar reseñas</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">Low</td>
+            <td rowspan=1 align="center">Medium</td>
+            <td rowspan=1 align="center">High</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
