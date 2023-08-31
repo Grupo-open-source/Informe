@@ -121,6 +121,15 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+Durante los últimos años, los viajes se han convertido en una parte esencial de la vida de muchas personas, pero planificar un itinerario de viaje personalizado puede ser desafiante y abrumador. Los viajeros a menudo se sienten perdidos entre la multitud de opciones y servicios disponibles en el mercado. Además, la falta de información confiable y personalizada puede llevar a experiencias de viaje insatisfactorias. 
+Por eso, Odyssey prioriza brindar soluciones innovadoras y convenientes que permitan a los viajeros planificar sus itinerarios de viaje de una forma efectiva y en línea considerando sus preferencias y necesidades.  
+
+* **Misión de Odyssey:**  
+Tenemos por misión simplificar y enriquecer la planificación de viajes para todos los viajeros, ofreciendo herramientas personalizadas que garanticen una experiencia de viaje gratificante y memorables. Queremos eliminar los malos ratos en la planificación de viajes, permitiendo así a nuestros usuarios concentrarse en disfrutar cada momento de su aventura. 
+
+* **Visión de Odyssey:**  
+Aspiramos a ser una empresa líder y respetada a nivel global en la industria del turismo y los viajes. Queremos transformar la forma en que las personas planifican sus viajes, ofreciendo una plataforma que se adapte a las necesidades de cada viajero a través de un enfoque centrado en el usuario. Permitiendo así la creación de recuerdos inolvidables.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 <table>
   <tr>
