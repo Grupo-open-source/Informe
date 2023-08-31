@@ -337,6 +337,18 @@ Por lo tanto, el desafío clave radica en cómo brindar a los viajeros una soluc
     información relevante de manera eficiente. La plataforma debe ser adaptable a dispositivos móviles y computadoras para una experiencia coherente en diferentes dispositivos. 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+* Creemos que al desarrollar nuestra plataforma de planificación de viajes y podamos mostrar información turística simple y personalizada permitirá a los viajeros organizar itinerarios de manera más eficiente. Sabremos que hemos tenido 
+  éxito cuando el porcentaje de usuarios que informen una mejora en la satisfacción general sea superior al 80%.
+  
+* Creemos que, al proporcionar notificaciones y recordatorios de actividades y reservas cercanas a la fecha de viaje, ayudaremos a los viajeros a evitar olvidos y disfrutar de una experiencia de viaje más reconfortante. Sabremos que 
+ hemos tenido éxito cuando observemos una disminución significativa en los informes de usuarios que perdieron actividades o reservas debido a la falta de recordatorios, y cuando el uso de esta función sea alto. 
+
+* Creemos que al incorporar una herramienta que permita a los usuarios comparar y analizar sus gastos de viaje mensuales facilitará la creación de presupuestos y el seguimiento financiero durante sus viajes. Sabremos que hemos tenido 
+éxito cuando veamos un aumento en el número de usuarios que utilizan activamente esta función y cuando recopilemos comentarios positivos sobre su utilidad. 
+
+* Creemos que desarrollar una interfaz de usuario atractiva y fácil de usar para nuestra plataforma de planificación de viajes permitirá a los usuarios familiarizarse rápidamente con las funcionalidades y disfrutar de una experiencia 
+ fluida. Sabremos que hemos tenido éxito cuando recibamos retroalimentación positiva sobre el diseño y la usabilidad, y cuando veamos un aumento en la retención de usuarios y en las recomendaciones.
+
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo
 
