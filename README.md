@@ -496,6 +496,8 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 
 
 ## 4.3. Landing Page UI Design.
+### 4.3.1. Landing Page Wireframe.
+
 
 **Será una idea de la representación de cómo se verá nuestra landing page.**
 
@@ -509,15 +511,75 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 
 **En la parte inferior de la página (Pie de Página), se encuentra el logo de la plataforma nuevamente, junto con enlaces a las secciones principales, como Inicio, Sobre Nosotros, Proyecto y Contacto.** 
 
-<p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1142665210063237140/1146663461875630122/image.png" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041526661271624/Wireframe_Presentacion.png?width=910&height=513" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041526933889077/Wireframe_Inicio_1.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041527151984741/Wireframe_Inicio_3.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041527412051999/Wireframe_Inicio_4.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041527634337822/Wireframe_Inicio_5.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041527873404958/Wireframe_Inicio_6.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041528087334912/Wireframe_Inicio_7.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041528330592296/Wireframe_Inicio_8.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041528544493640/Wireframe_Inicio_9.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041526455730226/Wireframe_Inicio_10.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
     </p>
 
+    
 **Este es solo un ejemplo de cómo se vería el landing page de nuestra plataforma de itinerarios de viaje. La combinación de imágenes llamativas, texto descriptivo y botones de llamada a la acción garantizarán que los usuarios tengan una experiencia atractiva y informativa al visitar nuestra página web.**
 
-
-### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
+
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045246404923412/Mockp_Presentacion.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045246732095488/Wireframe_Inicio_1.png?width=881&height=500" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045247101186128/Wireframe_Inicio_3.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045247428350064/Wireframe_Inicio_4.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045247742914591/Wireframe_Inicio_5.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045248254611496/Wireframe_Inicio_6.png?width=881&height=500" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045248581783563/Wireframe_Inicio_7.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+    <p align="center">
+     <img src="![image](https://github.com/Odyssey-UPC/Informe/assets/94207655/a4add2c2-1c2a-4d87-9382-5fdec252679a)
+" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045249353519184/Wireframe_Inicio_9.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045249714245632/Wireframe_Inicio_10.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+   
+   
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
