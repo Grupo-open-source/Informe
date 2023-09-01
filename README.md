@@ -606,6 +606,9 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 ### 4.7.2. Class Dictionary.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+<p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1147300616499109988/TravelPlanner-db-2023-09-01_17-40.png" alt="TPlaner-db" style="margin-bottom: 5px;" width="1020px"/>
+</p>
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
