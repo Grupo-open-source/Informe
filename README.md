@@ -575,6 +575,1308 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            texto
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
 
