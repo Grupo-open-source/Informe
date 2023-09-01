@@ -171,27 +171,6 @@
     <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
-      Bruce Andres Cipriano Chumbes
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Carrera:</strong> <br>
-      Ingeniería de Software
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Acerca de:</strong> <br>
-      <p>
-        Soy Bruce Actualmente estudio Ingeniería de Software en UPC (Universidad Peruana de Ciencias Aplicadas). Me gustó la carrera porque siempre quería saber sobre cómo funcionaban las computadoras, teléfonos, todos los aparatos electrónicos. Por esta razón, decidí elegir la carrera de ingeniería de software.
-      </p>  
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
-    <td> 
-      <strong>Nombres y apellidos:</strong> <br>
       Cristian Andrés Quito Igreda
     </td>
   </tr>
@@ -208,6 +187,27 @@
         Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
         de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
         principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en            C++, Python y SQL Server, además de contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+      </p>  
+    </td>
+  </tr>
+  <tr>
+     <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
+    <td> 
+      <strong>Nombres y apellidos:</strong> <br>
+      Bruce Andres Cipriano Chumbes
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Carrera:</strong> <br>
+      Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Soy Bruce Actualmente estudio Ingeniería de Software en UPC (Universidad Peruana de Ciencias Aplicadas). Me gustó la carrera porque siempre quería saber sobre cómo funcionaban las computadoras, teléfonos, todos los aparatos electrónicos. Por esta razón, decidí elegir la carrera de ingeniería de software.
       </p>  
     </td>
   </tr>
