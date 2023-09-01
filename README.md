@@ -590,7 +590,57 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
+            US01
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
             texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            US02
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US03
         </td>
         <td>
             <b>Owner</b>
@@ -640,7 +690,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US04
         </td>
         <td>
             <b>Owner</b>
@@ -690,7 +740,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US05
         </td>
         <td>
             <b>Owner</b>
@@ -740,7 +790,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US06
         </td>
         <td>
             <b>Owner</b>
@@ -790,57 +840,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
-        </td>
-        <td>
-            <b>Owner</b>
-        </td>
-        <td>
-            texto
-        </td>
-    </tr>
-        <tr align="left">
-        <td colspan=2>
-            <b>Título HU</b>
-        </td>
-        <td colspan=2>
-            texto
-        </td>
-    </tr>
-    <tr align="left">
-        <td colspan=4>
-            <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
-        </td>
-    </tr>
-    <tr align="left">
-        <td colspan=4>
-            <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
-        </td>
-    </tr>
-    </tr>
-</table>
-</br>
-
-<table align="center" border="1" width="90%" style="text-align:center;">
-    <tr align="left">
-        <td colspan=2>
-            <b>Épica</b>
-        </td>
-        <td colspan=2>
-            texto
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>ID-HU</b>
-        </td>
-        <td>
-            texto
+            US07
         </td>
         <td>
             <b>Owner</b>
@@ -891,7 +891,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US08
         </td>
         <td>
             <b>Owner</b>
@@ -941,7 +941,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US09
         </td>
         <td>
             <b>Owner</b>
@@ -991,7 +991,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US10
         </td>
         <td>
             <b>Owner</b>
@@ -1041,7 +1041,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US11
         </td>
         <td>
             <b>Owner</b>
@@ -1091,7 +1091,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US12
         </td>
         <td>
             <b>Owner</b>
@@ -1141,7 +1141,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US13
         </td>
         <td>
             <b>Owner</b>
@@ -1191,7 +1191,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US14
         </td>
         <td>
             <b>Owner</b>
@@ -1241,7 +1241,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US15
         </td>
         <td>
             <b>Owner</b>
@@ -1291,7 +1291,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US16
         </td>
         <td>
             <b>Owner</b>
@@ -1341,7 +1341,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US17
         </td>
         <td>
             <b>Owner</b>
@@ -1391,7 +1391,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US18
         </td>
         <td>
             <b>Owner</b>
@@ -1441,7 +1441,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US19
         </td>
         <td>
             <b>Owner</b>
@@ -1491,7 +1491,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US20
         </td>
         <td>
             <b>Owner</b>
@@ -1541,7 +1541,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US21
         </td>
         <td>
             <b>Owner</b>
@@ -1591,7 +1591,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US22
         </td>
         <td>
             <b>Owner</b>
@@ -1641,7 +1641,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US23
         </td>
         <td>
             <b>Owner</b>
@@ -1691,7 +1691,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
+            US24
         </td>
         <td>
             <b>Owner</b>
@@ -1741,107 +1741,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            texto
-        </td>
-        <td>
-            <b>Owner</b>
-        </td>
-        <td>
-            texto
-        </td>
-    </tr>
-        <tr align="left">
-        <td colspan=2>
-            <b>Título HU</b>
-        </td>
-        <td colspan=2>
-            texto
-        </td>
-    </tr>
-    <tr align="left">
-        <td colspan=4>
-            <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
-        </td>
-    </tr>
-    <tr align="left">
-        <td colspan=4>
-            <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
-        </td>
-    </tr>
-    </tr>
-</table>
-</br>
-
-<table align="center" border="1" width="90%" style="text-align:center;">
-    <tr align="left">
-        <td colspan=2>
-            <b>Épica</b>
-        </td>
-        <td colspan=2>
-            texto
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>ID-HU</b>
-        </td>
-        <td>
-            texto
-        </td>
-        <td>
-            <b>Owner</b>
-        </td>
-        <td>
-            texto
-        </td>
-    </tr>
-        <tr align="left">
-        <td colspan=2>
-            <b>Título HU</b>
-        </td>
-        <td colspan=2>
-            texto
-        </td>
-    </tr>
-    <tr align="left">
-        <td colspan=4>
-            <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
-        </td>
-    </tr>
-    <tr align="left">
-        <td colspan=4>
-            <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
-        </td>
-    </tr>
-    </tr>
-</table>
-</br>
-
-<table align="center" border="1" width="90%" style="text-align:center;">
-    <tr align="left">
-        <td colspan=2>
-            <b>Épica</b>
-        </td>
-        <td colspan=2>
-            texto
-        </td>
-    </tr>
-    <tr align="left">
-        <td>
-            <b>ID-HU</b>
-        </td>
-        <td>
-            texto
+            US25
         </td>
         <td>
             <b>Owner</b>
