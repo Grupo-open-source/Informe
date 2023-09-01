@@ -548,37 +548,37 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 ### 4.3.2. Landing Page Mock-up.
 
  <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045246404923412/Mockp_Presentacion.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064111901974538/Mockp_Presentacion.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+
+ <p align="center">
+     <img src="" alt="https://media.discordapp.net/attachments/1146654443220242462/1147064108835938335/Wireframe_Inicio_1.png?width=881&height=500" style="margin-bottom: 5px;" width="1800px" align="center"/>
    </p>
  <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045246732095488/Wireframe_Inicio_1.png?width=881&height=500" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064109213438052/Wireframe_Inicio_3.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
    </p>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045247101186128/Wireframe_Inicio_3.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064109532188702/Wireframe_Inicio_4.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
    </p>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045247428350064/Wireframe_Inicio_4.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064109809016862/Wireframe_Inicio_5.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
    </p>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045247742914591/Wireframe_Inicio_5.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064110165545010/Wireframe_Inicio_6.png?width=881&height=500" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
    </p>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045248254611496/Wireframe_Inicio_6.png?width=881&height=500" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064110509461524/Wireframe_Inicio_7.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
    </p>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045248581783563/Wireframe_Inicio_7.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064110962450472/Wireframe_Inicio_8.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
    </p>
-    <p align="center">
-     <img src="![image](https://github.com/Odyssey-UPC/Informe/assets/94207655/a4add2c2-1c2a-4d87-9382-5fdec252679a)
-" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064111209926727/Wireframe_Inicio_9.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>   
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064111503511593/Wireframe_Inicio_10.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
    </p>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045249353519184/Wireframe_Inicio_9.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
-   </p>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147045249714245632/Wireframe_Inicio_10.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
-   </p>
-   
    
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
