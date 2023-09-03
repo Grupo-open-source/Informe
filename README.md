@@ -576,13 +576,13 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
 
-<table align="center" border="1" width="90%" style="text-align:center;">
+<table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Gestión de perfiles y personalización
         </td>
     </tr>
     <tr align="left">
@@ -590,13 +590,13 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            US01
+            01
         </td>
         <td>
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Diego Esquivel
         </td>
     </tr>
         <tr align="left">
@@ -604,26 +604,94 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            US02
+            Crear perfil de turista
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> turista <b>quiero</b> poder crear un perfil con mis datos relevantes como mis intereses o preferencias de viaje, <b>para</b> que la plataforma pueda recomendarme paquetes de viaje.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b> Creación de perfil de turista exitosa </br>
+            <b>Dado</b> que el cliente quiere crear un perfil como turista en la plataforma </br>
+            <b>Cuando</b> el cliente selecciona la opción de crear perfil como turista </br>
+            <b>Y </b>se registra en la plataforma con sus respectivos datos </br>
+            <b>Entonces</b> el sistema creará automaticamente el perfil del cliente como turista con los datos proporcionados. </br> 
+            </br>
+            <b>Scenario 02:</b> Creación de perfil de turista fallida </br>
+            <b>Dado</b> que el cliente quiere crear un perfil como turista en la plataforma </br>
+            <b>Cuando</b> el cliente selecciona la opción de crear perfil como turista </br>
+            <b>Y </b>se registra en la plataforma con datos incompletos</br>
+            <b>Entonces</b> el sistema no permitirá que el cliente cree su perfil </br>
+            <b>Y </b>mostrará un mensaje de error indicando que no colocó todos los datos solicitados.</br>
         </td>
     </tr>
     </tr>
 </table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de perfiles y personalización
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            02
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Crear perfil de negocio
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> proveedor de servicios turísticos <b>quiero</b> crear perfiles para mi agencia o negocio, <b>para</b> para mostrar información relevante sobre el servicio.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Creación de perfil de negocio exitosa </br>
+            <b>Dado</b> que el cliente quiere crear un perfil de negocio en la plataforma </br>
+            <b>Cuando</b> el cliente selecciona la opción de crear perfil de negocio </br>
+            <b>Y </b>se registra en la plataforma con los respectivos datos de la empresa </br>
+            <b>Entonces</b> el sistema creará automaticamente el perfil de negocio con los datos proporcionados. </br> 
+            </br>
+            <b>Scenario 02:</b> Creación de perfil de negocio fallida </br>
+            <b>Dado</b> que el cliente quiere crear un perfil de negocio en la plataforma </br>
+            <b>Cuando</b> el cliente selecciona la opción de crear perfil de negocio </br>
+            <b>Y </b>se registra en la plataforma con datos incompletos</br>
+            <b>Entonces</b> el sistema no permitirá que el cliente cree su perfil </br>
+            <b>Y </b>mostrará un mensaje de error indicando que no colocó todos los datos solicitados.</br>         
+        </td>
+    </tr>
+    </tr>
+</table>
+
 </br>
 
 <table align="center" border="1" width="90%" style="text-align:center;">
