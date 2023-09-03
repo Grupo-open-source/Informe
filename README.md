@@ -1483,7 +1483,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Publicidad y Promoción
         </td>
     </tr>
     <tr align="left">
@@ -1497,7 +1497,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Cristian Quito
         </td>
     </tr>
         <tr align="left">
@@ -1505,22 +1505,33 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Publicar anuncios
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> proveedor de servicios turísticos <b>quiero</b> promocionar mi negocio en la plataforma mediante anuncios <b>para</b> atraer más clientes
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01: Publicación de anuncio exitoso</b></br>
+            <b>Dado</b> que el proveedor se encuentra en el apartado de mis servicios </br>
+            <b>Y</b> seleccione uno de ellos </br>
+            <b>Cuando</b> le de click a la opción de publicitar </br>
+            <b>Y</b> Llene los campos "Nombre de la publicidad" y "monto"</br>
+            <b>Y</b> suba una imagen de la publicidad con un tamaño 50x50px</br>
+            <b>Entonces</b> el sistema los redirigirá a la sección "Mis anuncios publicitarios"</br>
+            <b>Y</b> le mostrará un mensaje de confirmación</br></br>
+            <b>Scenario 02: Publicación de anuncio fallido</b></br>
+            <b>Dado</b> que el proveedor se encuentra en el apartado de mis servicios </br>
+            <b>Y</b> seleccione uno de ellos </br>
+            <b>Cuando</b> le de click a la opción de publicitar </br>
+            <b>Y</b> Llene los campos "Nombre de la publicidad" y "monto"</br>
+            <b>Y</b> suba una imagen de la publicidad con el tamaño incorrecto </br>
+            <b>Entonces</b> el sistema le notificará que el tamaño de la imagen es incorrecto"</br>
         </td>
     </tr>
     </tr>
@@ -1533,7 +1544,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Publicidad y Promoción
         </td>
     </tr>
     <tr align="left">
@@ -1547,7 +1558,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Cristian Quito
         </td>
     </tr>
         <tr align="left">
@@ -1555,22 +1566,22 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Obtener datos estadísticos de publicidad
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> proveedor de servicios turísticos, <b>quiero</b> recolectar datos precisos de mi publicidad <b>para</b> evaluar la efectividad de mis estrategias de marketing
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b> Mostrar estadísticas de la publicidad</br>
+            <b>Dado</b> que el proveedor se encuentra en el menu principal </br>
+            <b>Cuando</b> entre la sección "Mis anuncios publicitarios" </br>
+            <b>Entonces visualizará un listado de todos sus anuncios con la cantidad de interacciones y clicks realizados</b>            
         </td>
     </tr>
     </tr>
@@ -1583,7 +1594,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Publicidad y Promoción
         </td>
     </tr>
     <tr align="left">
@@ -1597,7 +1608,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Cristian Quito
         </td>
     </tr>
         <tr align="left">
@@ -1605,22 +1616,32 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Publicar servicios de la empresa turística
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> proveedor de servicios turísticos, <b>quiero</b> publicar mis servicios turísticos que proporciona mi empresa <b>para</b> que los turistas puedan visualizar de manera certera y atractiva las experiencias que ofrezco.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b> Abrir formulario para nuevo servicio </br>
+            <b>Dado</b> que el usuario se encuentra en la sección mis servicios </br>
+            <b>Cuando</b> le de click al botón "Agregar"</br>
+            <b>Entonces</b> Se generará un formulario con los campos a llenar del servicio </br> </br>  
+            <b>Scenario 02:</b> Publicación de nuevo servicio exitosa </br>
+            <b>Dado</b> que el usuario se encuentra en el formulario con los campos a llenar del servicio </br>
+            <b>Cuando</b> llena los campos "nombre", "descripcion", "fecha de inicio", "fecha de finalización", "precio", "cupos" y "categoría" </br>
+            <b>Entonces</b> el sistema lanzará un mensaje de confirmación</br>
+            <b>Y</b> Eliminará el formulario</br></br>
+            <b>Scenario 03:</b> Publicación de nuevo servicio fallido </br>
+            <b>Dado</b> que el usuario se encuentra en el formulario con los campos a llenar del servicio </br>
+            <b>Cuando</b> llena incorrectamente algunos de los campos "nombre", "descripcion", "fecha de inicio", "fecha de finalización", "precio", "cupos" y "categoría" </br>
+            <b>Entonces</b> el sistema lanzará un mensaje de error</br>
+            <b>Y</b> Se mostará en rojo la regla de validación debajo campo erróneo</br> </br> 
         </td>
     </tr>
     </tr>
