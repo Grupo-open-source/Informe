@@ -1572,7 +1572,6 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Cuando</b> el usuario accede a la sección de preguntas frecuentes y tutoriales </br>
             <b>Entonces</b> el sistema desplegará una lista con las preguntas más frecuentes, con su respuesta detallada </br> 
             <b>Y</b> además mostrará tutoriales que guien paso a paso como funciona la plataforma. </br>
-            </br>
         </td>
     </tr>
     </tr>
