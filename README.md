@@ -900,7 +900,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Interacción y comunicación
         </td>
     </tr>
     <tr align="left">
@@ -914,7 +914,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Cristian Quito
         </td>
     </tr>
         <tr align="left">
@@ -922,28 +922,38 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Contactar con proveedores
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> turista, <b>quiero</b> comunicarme con el proveedor del servicio turístico dentro de la plataforma <b>para</b> aclarar mis dudas.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01: Chatear con el proveedor</b></br>
+            <b>Dado</b> que el usuario se encuentra en centro de mensajes </br>
+            <b>Cuando</b> cuando seleccione al usuario con el que quiera establecer comunicación </br>
+            <b>Entonces</b> se aperturará un chat donde el usuario podrá escribir y mandar su mensaje mediante un input box.</br></br>
+            <b>Scenario 02: Turista manda un mensaje al proveedor</b></br>
+            <b>Dado</b> que el turista abrió el chat con el proveedor</br>
+            <b>Cuando</b> escriba su mensaje en el input box </br>
+            <b>Y</b> le de al botón enviar </br>
+            <b>Entonces</b> se generará un globo de texto en el lado izquierdo con su mensaje. </br></br>
+            <b>Scenario 03: Proveedor recibe mensaje del turista</b></br>
+            <b>Dado</b> que el proveedor se encuentra en centro de mensajes </br>
+            <b>Y</b> Observa una notificación en rojo en la derecha del perfil del turista </br>
+            <b>Cuando</b> le de al chat con el turista </br>
+            <b>Entonces</b> la notificación en forma de circulo rojo desaparecerá </br>
+            <b>Y</b> Se mostrará el mensaje enviado por el turista. </br>
         </td>
     </tr>
     </tr>
 </table>
 </br>
-
 
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -1001,7 +1011,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Interacción y comunicación
         </td>
     </tr>
     <tr align="left">
@@ -1015,7 +1025,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Cristian Quito
         </td>
     </tr>
         <tr align="left">
@@ -1023,27 +1033,33 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Calificar y comentar sobre servicios
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> turista, <b>quiero</b> dejar mi calificación y comentarios sobre los servicios turísticos que experimenté <b>para</b> compartir mis opiniones con otros usuarios.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01: Calificar un servicio</b></br>
+            <b>Dado</b> que el turista ha concluido con su servico </br>
+            <b>Cuando</b> intente calificar el servicio que ha experimentado</br>
+            <b>Entonces</b> podrá asignar una puntuación numérica del 1 al 5 al servicio.
+            <b>Y</b> podrá proporcionar un comentario sobre su experiencia.
+            <b>Y</b> la calificación y el comentario deben registrarse correctamente en el sistema.</br></br>
+            <b>Scenario 02: Ver calificaciones y comentarios</b></br>
+            <b>Dado</b> que el usuario se encuentra en el menu principal </br>
+            <b>Cuando</b> visita la página de un servicio turístico </br>
+            <b>Entonces</b> se mostrará la puntuación promedio otorgada por los usuarios</br>
+            <b>Y</b> ver los comentarios previos dejados por otros usuarios.
         </td>
     </tr>
     </tr>
 </table>
-</br>
 
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr align="left">
