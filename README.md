@@ -356,7 +356,139 @@ Por lo tanto, el desafío clave radica en cómo brindar a los viajeros una soluc
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+<table>
+    <tr>
+      <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+    </tr>
+    <tr>
+      <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+    </tr>
+    <tr>
+      <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+    </tr>
+    <tr>
+      <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+          Odyssey
+          <br>
+          <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://media.discordapp.net/attachments/1142665210063237140/1148373547090198619/image.png" alt="ChambeaPe" width="60px">
+          </div>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        Despegar.com
+      <div style="text-align: center;">
+                  <img src="https://media.discordapp.net/attachments/1142665210063237140/1148371980169527306/2560px-Despegar.png?width=1112&height=322" alt="Despegar.com" width="60px">
+          </div>
+      </td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        Rappi Travel 
+        <div style="text-align: center; margin-top: 20px;">
+                  <img src="https://media.discordapp.net/attachments/1142665210063237140/1148372233266397194/TRAVEL_1.png" alt="Rappitravel" width="60px">
+              </div>
+        </td>
+      <td colspan="1" valign="top" style="font-weight: bold;" >
+        Almundo 
+        <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://media.discordapp.net/attachments/1142665210063237140/1148372870372786296/Logo-almundo.png" alt="Almundo.com" width="60px">
+              </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil</p></td>
+      <td colspan="2">Overview</td>
+      <td colspan="1" valign="top">Odyssey es una plataforma de planificación de viajes centrada en proporcionar soluciones personalizadas para viajeros.<br>Ofrecemos herramientas para planificar itinerarios de viaje teniendo en cuenta las preferencias individuales.  </td>
+      <td colspan="1" valign="top">Despegar es una plataforma de viajes en línea que opera en varios países de América Latina.<br> Ofrece una amplia gama de servicios, que incluyen la reserva de vuelos, hoteles, paquetes de viaje, alquiler de autos y más. </td>
+      <td colspan="1" valign="top">Rappi Travel es una extensión de la popular aplicación de entrega a domicilio Rappi. Permite a los usuarios buscar y reservar vuelos y hoteles. </td>
+      <td colspan="1" valign="top">Almundo es una agencia de viajes en línea que opera en América Latina. Ofrece servicios de reserva de vuelos, hoteles, paquetes turísticos, cruceros y más. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ventaja competitiva</td>
+      <td colspan="1" valign="top">Ofrece un valor diferenciado al centrarse en la personalización y la resolución de problemas clave en la planificación de viajes. Los clientes pueden esperar itinerarios de viaje adaptados a sus intereses y necesidades específicos. Esto se traduce en una experiencia de viaje más satisfactoria y enriquecedora. Además, puede proporcionar herramientas específicas para facilitar la organización y la gestión de viajes, lo que agrega valor adicional. </td>
+      <td colspan="1" valign="top">Ofrece un valor significativo a los clientes al proporcionar una amplia gama de servicios de viaje en un solo lugar. Los clientes pueden reservar vuelos, hoteles, paquetes turísticos y más, lo que les brinda comodidad y opciones. Además, la confianza en la marca Despegar.com juega un papel importante, ya que es una plataforma establecida en la región. </td>
+      <td colspan="1" valign="top">Rappi Travel ofrece comodidad a sus clientes al integrar servicios de viaje en la aplicación Rappi existente. Los usuarios pueden reservar vuelos, hoteles y actividades dentro de la misma aplicación que utilizan para entregas a domicilio y otras compras. Además, Rappi a menudo ofrece descuentos y promociones especiales para los usuarios de Rappi Travel. </td>
+      <td colspan="1" valign="top">Almundo ofrece un valor a los clientes mediante una amplia oferta de servicios de viaje y una presencia global. Los clientes pueden acceder a una variedad de opciones de vuelos, hoteles y más, y la empresa tiene un programa de lealtad que recompensa a los clientes recurrentes. Esto puede resultar en ahorros y beneficios adicionales para los viajeros frecuentes. </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+      <td colspan="2">Mercado objetivo</td>
+      <td colspan="1" valign="top">Viajeros que buscan experiencias de viaje personalizadas y herramientas eficaces para planificar sus itinerarios. </td>
+      <td colspan="1" valign="top">Viajeros que buscan una plataforma consolidada y variada para reservar todos los aspectos de su viaje en un solo lugar. </td>
+      <td colspan="1" valign="top">Usuarios de Rappi que buscan una experiencia de reserva de viaje integrada en la misma aplicación. </td>
+      <td colspan="1" valign="top">Viajeros que buscan una plataforma de viaje con una amplia gama de servicios y una presencia global. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Estrategias de marketing</td>
+      <td colspan="1" valign="top">Hacer hincapié en los beneficios de la suscripción premium de Odyssey, como la posibilidad de crear múltiples itinerarios y la acumulación de puntos para descuentos exclusivos.<br>Ofrecer pruebas gratuitas para que los usuarios experimenten estos beneficios. </td>
+      <td colspan="1" valign="top">Ofrecen promociones y ofertas especiales para atraer a los viajeros y fomentar las reservas a través de su plataforma. </td>
+      <td colspan="1" valign="top">Rappi Travel se integra con la aplicación principal de Rappi, lo que les permite llegar a una base de usuarios existente y ofrecer servicios de viaje dentro de la aplicación de entrega a domicilio. </td>
+      <td colspan="1" valign="top">Almundo se enfoca en brindar asesoría personalizada a través de asesores de viaje para ayudar a los usuarios a planificar viajes a medida. </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+      <td colspan="2">Productos & Servicios</td>
+      <td colspan="1" valign="top">Los usuarios pueden adquirir paquetes de viaje predeterminados que incluyen guías turísticas, alojamiento y restaurantes, con ofertas y descuentos exclusivos. <br> Los usuarios pueden compartir sus itinerarios y ganar comisiones según la cantidad de usuarios que los utilice. </td>
+      <td colspan="1" valign="top">Rappi Travel permite a los usuarios buscar y reservar vuelos a través de la aplicación principal de Rappi. <br> Los usuarios pueden reservar alojamiento en hoteles y otras opciones. </td>
+      <td colspan="1" valign="top">Almundo se destaca por brindar asesoría personalizada a través de asesores de viaje. <br> Ofrecen opciones de alojamiento en hoteles y otros tipos de alojamiento. <br> Los usuarios pueden reservar actividades y experiencias en sus destinos. </td>
+      <td colspan="1" valign="top">Almundo se destaca por brindar asesoría personalizada a través de asesores de viaje. <br> Ofrecen opciones de alojamiento en hoteles y otros tipos de alojamiento. <br> Los usuarios pueden reservar actividades y experiencias en sus destinos. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Precios & Costos</td>
+      <td colspan="1" valign="top">La aplicación cuenta con una versión gratuita y otra de pago que costará S./12.50. </td>
+      <td colspan="1" valign="top">La aplicación es totalmente gratuita. </td>
+      <td colspan="1" valign="top">La aplicación es totalmente gratuita. </td>
+      <td colspan="1" valign="top">La aplicación es totalmente gratuita. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+      <td colspan="1" valign="top"><br>El canal de distribución principalmente será Web. </td>
+      <td colspan="1" valign="top"><br>Los canales de distribución son móviles y Web. </td>
+      <td colspan="1" valign="top"><br>Los canales de distribución son móviles y Web. </td>
+      <td colspan="1" valign="top"><br>Los canales de distribución son móviles y Web. </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+      <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Fortalezas</td>
+      <td colspan="1" valign="top">Destacarnos por ofrecer a los usuarios la capacidad de crear itinerarios de viaje altamente personalizados. <br> Permitir a los usuarios contactar directamente con los proveedores. <br> Ofrecer una versión premium de la plataforma con características adicionales. </td>
+      <td colspan="1" valign="top">Despegar.com es una de las marcas más reconocidas en la industria de viajes en América Latina. <br> Ofrecen una amplia gama de servicios de viaje, desde vuelos y hoteles hasta paquetes completos. </td>
+      <td colspan="1" valign="top">Ofrecen una variedad de opciones de viaje, incluyendo vuelos, hoteles y actividades. <br> La integración con la popular aplicación Rappi puede atraer a usuarios que ya están familiarizados con la marca </td>
+      <td colspan="1" valign="top">Almundo opera en varios países de América Latina. <br> Tienen una experiencia significativa en la industria de viajes </td>
+    </tr>
+    <tr>
+      <td colspan="2">Debilidades</td>
+      <td colspan="1" valign="top">No tener el mismo nivel de reconocimiento de marca que los competidores. <br> Pueden surgir desafíos financieros y de recursos para competir a gran escala con jugadores más grandes en la industria de viajes. </td>
+      <td colspan="1" valign="top">A pesar de su reconocimiento de marca, enfrenta una competencia feroz en la industria de viajes en línea. <br> La personalización puede no ser tan avanzada como en startups más nuevas. </td>
+      <td colspan="1" valign="top">Rappi Travel puede estar más enfocado en ciertos mercados específicos donde opera Rappi como plataforma de entrega. </td>
+      <td colspan="1" valign="top">Se enfrenta a competidores establecidos y startups emergentes. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Oportunidades</td>
+      <td colspan="1" valign="top">La demanda de viajes personalizados y únicos se alinea con la capacidad de Odyssey para ofrecer itinerarios adaptados a las preferencias individuales. <br> Establecer colaboraciones con proveedores de servicios turísticos puede abrir oportunidades para ofrecer ofertas exclusivas a los usuarios. </td>
+      <td colspan="1" valign="top">La oportunidad de expandirse a otros mercados internacionales puede ser una estrategia de crecimiento. <br> La adopción de tecnologías emergentes, como la inteligencia artificial, puede mejorar la experiencia del usuario. </td>
+      <td colspan="1" valign="top">La base de usuarios de Rappi puede proporcionar oportunidades para expandirse en el mercado de viajes en línea. </td>
+      <td colspan="1" valign="top">Puede aprovechar su presencia en América Latina para expandirse a nuevos mercados. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Amenazas</td>
+      <td colspan="1" valign="top">La industria de viajes en línea es altamente competitiva, con jugadores establecidos y startups emergentes compitiendo por la atención de los usuarios. </td>
+      <td colspan="1" valign="top">Los cambios en la industria de viajes, como regulaciones gubernamentales o eventos inesperados, pueden tener un impacto negativo en Despegar.com. </td>
+      <td colspan="1" valign="top">La integración de viajes con la aplicación principal de Rappi puede no ser tan efectiva como una plataforma de viajes independiente. </td>
+      <td colspan="1" valign="top">Los cambios en la industria pueden afectar su posición en el mercado. </td>
+    </tr>
+  </table>
+  
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+*  Adoptaremos una serie de estrategias y tácticas destinadas a posicionar a Odyssey de manera sólida y diferenciada.  
+*  La primera estrategia es la Educación del Consumidor, donde enseñaremos a los usuarios sobre cómo aprovechar al máximo las características y beneficios de nuestra plataforma. Para ello, hemos implementado tácticas que incluyen la        provisión de tutoriales y guías directamente en la aplicación. 
+* Además de la educación, hemos elaborado una estrategia de Marketing Diferenciado para destacarnos frente a la competencia en términos de tecnología, personalización y ventajas premium. Para llevar a cabo esta estrategia, hemos           desarrollado tácticas que implican la creación de anuncios centradas en resaltar las características únicas de Odyssey. Además, hemos optado por comparar directamente las ventajas que ofrece nuestra plataforma con las ofertas de         nuestros competidores en nuestras campañas publicitarias, enfatizando así nuestra posición única en el mercado. 
+* El Feedback Activo de Usuarios también juega un papel crucial en nuestro enfoque competitivo. Nuestra estrategia se basa en utilizar la retroalimentación de los usuarios para mejorar de manera constante la plataforma. Esto se logra      mediante la recopilación activa de comentarios de los usuarios y la toma de medidas concretas para abordar sus sugerencias y preocupaciones. Además, nos esforzamos por comunicarnos regularmente con los usuarios, demostrando cómo sus     comentarios se han utilizado para realizar mejoras significativas en Odyssey. 
+* Para generar ingresos y fomentar la lealtad del usuario, hemos implementado la estrategia de Oferta de Membresías Premium. Esta estrategia se traduce en tácticas tales como ofrecer una versión gratuita de la plataforma con               limitaciones y una versión premium que incluye funciones adicionales. También incentivamos a los usuarios con la acumulación de puntos por cada paquete comprado, estos puntos podrán ser canjeados en tiendas y por descuentos en           paquetes en nuestra plataforma.  
+* Finalmente, destacar la Personalización es esencial en nuestra estrategia para ganar una ventaja competitiva. Nuestra estrategia se basa en el uso de la personalización como un diferenciador clave en el mercado. Para lograr esto,        hemos implementado tácticas que refuerzan la capacidad de personalización de itinerarios y recomendaciones en nuestra plataforma. 
+
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 En esta sección se definieron las preguntas más importantes para cada segmento objetivo con la finalidad de extraer las necesidades y opiniones del usuario. De esta manera, podremos desarrollar una aplicación que ayude a resolver las diversas problemáticas que afronta el cliente.
