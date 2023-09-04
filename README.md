@@ -11,7 +11,7 @@
 
 **Integrantes**
 * Quito Igreda, Cristian Andrés u202121882
-* Esquivel Aguayo, Diego Martín
+* Esquivel Aguayo, Diego Martín u202116749
 * Baldeon Fabian, Aldo Alberto u202122633
 * Cipriano, Bruce
 * Loarte, Anthony
@@ -1413,13 +1413,13 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 </table>
 </br>
 
-<table align="center" border="1" width="90%" style="text-align:center;">
+<table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Soporte y Asistencia
         </td>
     </tr>
     <tr align="left">
@@ -1427,13 +1427,13 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            US17
+            17
         </td>
         <td>
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Diego Esquivel
         </td>
     </tr>
         <tr align="left">
@@ -1441,35 +1441,44 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Crear un soporte en línea con IA
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> turista <b>quiero</b> contar con un sistema de soporte en línea mediante un chatbot con IA que esté disponible <b>para</b> resolver dudas y problemas durante la planificación y el viaje.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b> Uso del chat bot para disipar dudas durante la planificación </br>
+            <b>Dado</b> que el turista se encuentra dentro de la plataforma </br>
+            <b>Cuando</b> el usuario clickea al chat bot </br>
+            <b>Y </b>redacta una pregunta relacionada a la aplicación </br>
+            <b>Entonces</b> el sistema proporcionará una respuesta precisa a la pregunta </br> 
+            <b>Y, </b> si en caso no se soluciona, el sistema brindará el contacto de algún asesor de la plataforma.</br>
+            </br>
+            <b>Scenario 02:</b> Uso del chat bot para resolver problemas durante el viaje </br>
+            <b>Dado</b> que el turista se encuentra dentro de la plataforma </br>
+            <b>Cuando</b> el usuario clickea al chat bot </br>
+            <b>Y </b>redacta el problema que esta teniendo durante su viaje </br>
+            <b>Entonces</b> el sistema proporcionará opciones de ayudar y asistencia para abordarlo. </br> 
+            <b>Y, </b> si en caso no se soluciona, el sistema mostrará una opción para contactar con algún un asesor de la plataforma en vivo.</br>
         </td>
     </tr>
     </tr>
 </table>
 </br>
 
-<table align="center" border="1" width="90%" style="text-align:center;">
+<table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Soporte y Asistencia
         </td>
     </tr>
     <tr align="left">
@@ -1477,13 +1486,13 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            US18
+            18
         </td>
         <td>
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Diego Esquivel
         </td>
     </tr>
         <tr align="left">
@@ -1491,35 +1500,40 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Notificar sobre eventos repentinos
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> usuario <b>quiero</b> recibir notificaciones sobre eventos repentinos <b>para</b> estar al tanto de mi viaje.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b> Eventos locales </br>
+            <b>Dado</b> el cliente se encuentra registrado en la plataforma </br>
+            <b>Cuando</b> se identifica una festividad local en su área de viaje </br>
+            <b>Entonces</b> el sistema enviará una notificacion al diapositvo del usuario, brindando información y detalles sobre el evento.  </br>
+            </br>
+            <b>Scenario 02:</b> Alerta de seguridad </br>
+            <b>Dado</b> el cliente se encuentra registrado en la plataforma </br>
+            <b>Cuando</b> se emita una alerta de seguridad importante en su área de viaje </br>
+            <b>Entonces</b> el sistema enviará una notificacion al diapositvo del usuario, brindando información y recomendaciones sobre el incidente. </br>
         </td>
     </tr>
     </tr>
 </table>
 </br>
 
-<table align="center" border="1" width="90%" style="text-align:center;">
+<table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td colspan=2>
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Soporte y Asistencia
         </td>
     </tr>
     <tr align="left">
@@ -1527,13 +1541,13 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>ID-HU</b>
         </td>
         <td>
-            US19
+            19
         </td>
         <td>
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Diego Esquivel
         </td>
     </tr>
         <tr align="left">
@@ -1541,22 +1555,24 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Crear un apartado de preguntas y tutoriales
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> usuario <b>quiero</b> tener acceso a una sección de preguntas frecuentes y tutoriales <b>para</b> que me ayuden a sacar el máximo provecho de la plataforma.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b> Acceso a preguntas frecuentes y tutoriales</br>
+            <b>Dado</b> que el usuario se encuentra dentro de la plataforma </br>
+            <b>Cuando</b> el usuario accede a la sección de preguntas frecuentes y tutoriales </br>
+            <b>Entonces</b> el sistema desplegará una lista con las preguntas más frecuentes, con su respuesta detallada </br> 
+            <b>Y</b> además mostrará tutoriales que guien paso a paso como funciona la plataforma. </br>
+            </br>
         </td>
     </tr>
     </tr>
