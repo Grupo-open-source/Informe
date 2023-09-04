@@ -800,7 +800,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Suscripción vip
         </td>
     </tr>
     <tr align="left">
@@ -814,7 +814,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Cristian Quito
         </td>
     </tr>
         <tr align="left">
@@ -822,22 +822,24 @@ En esta sección se definieron las preguntas más importantes para cada segmento
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Ganar ingresos por itinerarios personalizados
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> turista <b>quiero</b> deseo publicar itinerarios personalizados <b>para</b> generar pequeños ingresos
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01: Recepcion de ingresos </b></br>
+            <b>Dado</b> que el turista ya creo un itinerario</br>
+            <b>Y</b> este cuenta con una suscricpión premium en la plataforma </br>
+            <b>Cuando</b> seleccione la opción de publicar itineraio </br>
+            <b>Entonces</b> el sistema mostrará el itinerario a otros turistas en la plataforma </br>
+            <b>Y</b> generará dinero dependiendo de cuanta gente lo use. </br>
         </td>
     </tr>
     </tr>
