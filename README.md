@@ -709,6 +709,33 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 ## 3.2. User Stories.
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
+| # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
+|---------|---------------|--------|-------------|--------------------------|
+| 1 | US17 | Crear un soporte en línea con IA | **Como** turista, **deseo** contar con un sistema de soporte en línea mediante un chatbot con IA que esté disponible **para** resolver dudas y problemas durante la planificación y el viaje. | 8 |
+| 2 | US25 | Sincronizar calendarios | **Como** turista, **deseo** tener la opción de sincronizar mi itinerario con calendarios personales **para** recibir actualizaciones automáticas sobre cambios. | 8 |
+| 3 | US01 | Crear perfil de turista | **Como** turista, **deseo** poder crear un perfil con mis datos relevantes como mis intereses o preferencias de viaje **para** que la plataforma pueda recomendarme paquetes de viaje. | 5 |
+| 4 | US02 | Crear pefil de negocio | **Como** proveedor de servicios turísticos, **deseo** crear perfiles para mi agencia o negocio **para** mostrar información relevante sobre el servicio. | 5 |
+| 5 | US06 | Desarrollar sistema de acumulación de puntos | **Como** plataforma, **deseo** implementar un sistema de acumulación de puntos por cada compra y actividad realizada en la plataforma **para** ofrecer promociones y descuentos. | 5 |
+| 6 | US23 | Personalizar itinerario de viaje | **Como** turista , **deseo** poder crear y personalizar mi propio itinerario de viaje **para** que mi experiencia sea más ajustada a mis planes. | 5 |
+| 7 | US18 | Notificar sobre eventos repentinos | **Como** usuario, **deseo** recibir notificaciones sobre eventos repentinos **para** estar al tanto de mi viaje. | 5 |
+| 8 | US10 | Explorar paquetes de viaje | **Como** turista, **deseo** visualizar una lista de paquetes de viaje predeterminados **para** poder elegir el de mi preferencia. | 5 |
+| 9 | US22 | Publicar servicios de la empresa turística | **Como** proveedor de servicios turísticos, **deseo** publicar mis servicios turísticos que proporciona mi empresa **para** que los turistas puedan visualizar de manera certera y atractiva las experiencias que ofrezco. | 3 |
+| 10 | US15 | Visualizar mapas interactivos | **Como** turista, **deseo** tener acceso a mapas interactivos en la plataforma que muestren las ubicaciones y detalles de las actividades y destinos **para** para facilitar la planificación de mi itinerario. | 3 |
+| 11 | US04 | Utilizar distintos métodos de pago | **Como** usuario, **deseo** realizar pagos con distintos métodos **para** tener flexibilidad y comodidad al pagar por productos y servicios. | 3 |
+| 12 | US03 | Desarrollar versión free y premium | **Como** plataforma, **deseo** implementar una versión gratuita y una versión de pago **para** ofrecer más beneficios y una mejor experiencia. | 3 |
+| 13 | US21 | Obtener datos estadísticos de publicidad | **Como** proveedor de servicios turísticos, **deseo** recolectar datos precisos de mi publicidad **para** evaluar la efectividad de mis estrategias de marketing. | 3 |
+| 14 | US20 | Publicar anuncios | **Como** proveedor de servicios turísticos, **deseo** promocionar mi negocio en la plataforma mediante anuncios **para** atraer más clientes. | 3 |
+| 15 | US07 | Contactar proveedores | **Como** turista, **deseo** poder comunicarme con el proveedor del servicio turístico dentro de la plataforma **para** aclarar mis dudas. | 3 |
+| 16 | US05 | Ganar ingresos por itinerarios personalizados | **Como** turista, **deseo** publicar itinerarios personalizados **para** generar pequeños ingreso. | 2 |
+| 17 | US08 | Recibir notificaciones de actividades | **Como** turista, **deseo** recibir alertas de la plataforma recordándome las próximas actividades de mi itinerario **para** que no pierda ninguna experencia. | 2 |
+| 18 | US13 | Filtrar según fecha y destino | **Como** turista, **deseo** poder ingresar mi destino y fecha en el filtro **para** recibir recomendaciones de itinerarios. | 2 |
+| 19 | US12 | Reservar alojamiento | **Como** turista, **deseo** poder reservar alojamiento en hoteles y otros tipos de hospedaje a través de la plataforma **para** asegurarme de tener un lugar donde quedarme durante mi viaje. | 2 |
+| 20 | US16 | Reservar actividades y experiencias | **Como** turista, **deseo** poder reservar actividades y experiencias específicas, como tours guiados y excursiones a través de la plataforma **para** asegurarme de participar en las actividades que deseo. | 2 |
+| 21 | US09 | Calificar y comentar sobre servicios | **Como** turista, **deseo** dejar mi calificación y comentarios sobre los servicios turísticos que experimenté **para** compartir mis opiniones con otros usuarios. | 2 |
+| 22 | US14 | Recibir ofertas especiales | **Como** usuario, **deseo** recibir notificaciones sobre ofertas y descuentos especiales en servicios turísticos y actividades **para** aprovechar oportunidades de ahorro durante mi viaje. | 1 |
+| 23 | US11 | Visualizar vista previa de la actividad | **Como** turista, **deseo**  tener la opción de ver fotos y videos de las actividades y destinos **para** obtener una vista previa visual de lo que me espera. | 1 |
+| 24 | US24 | Compartir Initerarios | **Como** turista **deseo** poder compartir mis itinerarios con amigos y familiares a través de enlaces compartibles o redes sociales **para** para que puedan acceder cuantas veces quieran. | 1 |
+| 25 | US19 | Crear un apartado de preguntas y tutoriales | **Como** usuario, **deseo** tener acceso a una sección de preguntas frecuentes y tutoriales **para** que me ayuden a sacar el máximo provecho de la plataforma. | 1 |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
