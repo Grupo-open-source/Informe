@@ -600,26 +600,29 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148321031107387505/structurizr-85844-Context.png" alt="TPlaner-db" style="margin-bottom: 5px;" width="1020px"/>
+     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148321031107387505/structurizr-85844-Context.png" alt="TPlaner context diagram" style="margin-bottom: 5px;" width="1020px"/>
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148321030788628561/structurizr-85844-Container.png" alt="TPlaner-db" style="margin-bottom: 5px;" width="1020px"/>
+     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148321030788628561/structurizr-85844-Container.png" alt="TPlaner container diagram" style="margin-bottom: 5px;" width="1020px"/>
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams.
 <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148321030406934683/structurizr-85844-itinerary-Component.png" alt="TPlaner-db" style="margin-bottom: 5px;" width="1020px"/>
+     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148321030406934683/structurizr-85844-itinerary-Component.png" alt="TPlaner component diagram 1" style="margin-bottom: 5px;" width="1020px"/>
 </p>
 </br>
 
 <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148321031384207360/structurizr-85844-Notification-component.png" alt="TPlaner-db" style="margin-bottom: 5px;" width="1020px"/>
+     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148321031384207360/structurizr-85844-Notification-component.png" alt="TPlaner component diagram 2" style="margin-bottom: 5px;" width="1020px"/>
 </p>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+<p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148831742271180911/Diagrama_en_blanco.png" alt="TPlaner-class-diagram" style="margin-bottom: 5px;" width="1020px"/>
+</p>
 ### 4.7.2. Class Dictionary.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
