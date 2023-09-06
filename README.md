@@ -546,9 +546,9 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - Apellidos: 
   - Edad: años
   - Distrito: 
-  - Link de la entrevista: 
-  - Duración:  minutos 
-  - Evidencia de la reunión:<br>
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: |  minutos
+  - Evidencia de la reunión: <br>
     <p align="center">
      <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
@@ -559,8 +559,8 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - Apellidos: 
   - Edad: años
   - Distrito: 
-  - Link de la entrevista: 
-  - Duración:  minutos 
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: |  minutos 
   - Evidencia de la reunión:<br>
     <p align="center">
      <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
@@ -568,17 +568,18 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - Resumen de la entrevista:
 
 * **Entrevista 3** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
-  - Link de la entrevista: 
-  - Duración:  minutos 
+  - Nombres: Steve Roger
+  - Apellidos: Castillo Robles
+  - Edad: 22 años
+  - Region: Huaraz
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: [10:12](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=N1jhdA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjYxMi42N319) | 5 minutos  
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://media.discordapp.net/attachments/1146643631516680222/1148819459054772264/image.png?width=1345&height=407" alt="Entrevista-Steve" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
+ Steve Roger Castillo Robles es un estudiante de Ingenieria de Software y trabaja a medio tiempo en el hotel "El Tumi". Nos cuenta que su servicio de hotelería, a parte del alojamiento, ofrece desayuno, almuerzo y cena. Además, promociona su servicio mediante bolantes en la plaza de armas y mediante colaboraciones con otras empresas de servicios turísticos. Una vez relatado sobre la aplicación, nos menciona que resultaría de mucha utilidad, pues ayudaría brindar visibilidad y un impulso a las pequeñas empresas turísticas.
 
 **Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
 
@@ -587,8 +588,8 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - Apellidos: 
   - Edad: años
   - Distrito: 
-  - Link de la entrevista: 
-  - Duración:  minutos 
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: |  minutos 
   - Evidencia de la reunión:<br>
     <p align="center">
      <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
@@ -600,8 +601,8 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - Apellidos: 
   - Edad: años
   - Distrito: 
-  - Link de la entrevista: 
-  - Duración:  minutos 
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: |  minutos 
   - Evidencia de la reunión:<br>
     <p align="center">
      <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
@@ -609,17 +610,18 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - Resumen de la entrevista:
 
 * **Entrevista 3** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
-  - Link de la entrevista: 
-  - Duración:  minutos 
+  - Nombres: Adrián Martín
+  - Apellidos: Quito Igreda
+  - Edad: 19 años
+  - Distrito: Los Olivos 
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: [24:10](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=amsYyc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NTAuNjF9fQ%3D%3D) | 5 minutos 
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://media.discordapp.net/attachments/1146643631516680222/1148488075480137839/image.png?width=1440&height=482" alt="Entrevista-Adrián" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
+  Adrian Martín Quito Igreda es un estudiante de Ingeniería Electrónica de la UPC. Nos cuenta que viaja una vez por año y que le gustaría viajar a lugares cerca a la costa. Asimismo nos cuenta que previo al viaje, se toma el tiempo para investigar sobre los distintos servicios turísticos de la localidad. Luego de conocer sobre nuestra aplicación, nos menciona que sería de gran utilidad pues se organizaría mas rápido siempre y cuando tenga una buena interfaz. Le gustaría tener una comunicación directa con la empresa se servicios turísticos, ya que de esta manera resolvería sus dudas e inconvenientes.
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
