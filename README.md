@@ -201,10 +201,10 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
     </td>
   </tr>
   <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
+     <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
-      Cristian Andrés Quito Igreda
+      Bruce Andres Cipriano Chumbes
     </td>
   </tr>
   <tr>
@@ -217,9 +217,7 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
     <td>
       <strong>Acerca de:</strong> <br>
       <p>
-        Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
-        de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
-        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en            C++, Python y SQL Server, además de contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+        Soy Bruce Actualmente estudio Ingeniería de Software en UPC (Universidad Peruana de Ciencias Aplicadas). Me gustó la carrera porque siempre quería saber sobre cómo funcionaban las computadoras, teléfonos, todos los aparatos electrónicos. Por esta razón, decidí elegir la carrera de ingeniería de software.
       </p>  
     </td>
   </tr>
@@ -743,13 +741,181 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+
+**Después de haber discutido en grupo cómo organizar la información en la página web/landing page de nuestra aplicación “LearnSign”, se decidió usar un formato jerárquico común. Este tipo de organización es el que se observa en la mayoría de las páginas y permitirá a los usuarios visualizar la interfaz de forma intuitiva.**
+
+|Tópico	|Definición|
+|-------|----------|
+|Nombre y descripción|	Esta sección incluiría imágenes para ayudar a los usuarios a familiarizarse con la idea central de la aplicación.|
+|Características	|Esta sección destacaría las características llamativas y distintivas de la aplicación.|
+|Complementos	 |Esta sección explicaría las opciones disponibles en la aplicación, aunque estas están en planeamiento y podrían cambiar en el futuro.|
+|Enlace para descargar	|El objetivo final de esta página es que el usuario descargue la aplicación|
+|Más información	|Aquí se proporcionaría información adicional sobre la aplicación.|
+
 ### 4.2.2. Labeling Systems.
+
+**Antes de implementar las etiquetas en nuestra página, debemos determinar qué requisitos necesitamos cumplir. Las etiquetas nos permiten agregar texto, imágenes y otros elementos a nuestra página. El sistema “Learn Sign” utilizará las siguientes etiquetas para representar conjuntos de información:**
+
+
+|Etiqueta	| Descripción |
+|---------|--------------|
+|Registrarse	|Botón para crear una cuenta.|
+|Iniciar Sesión	|Botón para iniciar sesión en una cuenta existente.|
+|Ajustes de Cuenta	| Espacio para ver información de la cuenta y comprar una membresía.|
+|Crear Itinerario	| Espacio para crear un itinerario de viaje personalizado.|
+|Paquetes Predeterminados	| Espacio para ver y comprar paquetes de viaje predeterminados.|
+|Contactar Proveedor	| Opción de contactar al proveedor de un servicio turístico para más detalles.|
+|Versión Premium	| Opción de adquirir una versión premium con características y beneficios adicionales.|
+|Notificaciones	| El sistema enviará notificaciones para recordar al usuario su próxima actividad programada.|
+|Calificar Servicios	| Opción para que los turistas califiquen servicios turísticos y dejen un comentario.|
+|Proyecto	| Acceso a la sección que contiene la explicación de nuestro producto.|
+|Sobre nosotros	| Enlace a la sección "Sobre nosotros" con información sobre nuestra startup.|
+|Estadísticas	| Botón para ver estadísticas y actividad diaria.|
+
+
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+**La optimización de los meta tags es crucial para ampliar nuestro alcance a través de las búsquedas realizadas por los robots en línea. En este sentido, SignLingo aprovecha eficazmente estos elementos con el objetivo de posicionarse en las primeras búsquedas y atraer la atención de un público más amplio.**
+
+**Title tag:**
+
+**La etiqueta de título será lo primero que verán los usuarios cuando nuestra web aparezca en sus resultados de búsqueda, por eso intentamos describir nuestro objetivo de forma atractiva.**
+**<title>Planifica el viaje de tus sueños con TravelPlanner</title>**
+
+**Meta description tag:**
+
+**Utilizamos la etiqueta meta descripción para aparecer en los resultados de búsqueda de los usuarios que buscan cosas relacionadas con la planificación de viajes, brindando una descripción sencilla y atractiva de lo que ofrecemos.**
+
+**<meta name="description"content="Planifique el viaje de sus sueños con TravelPlanner. Cree itinerarios personalizados o elija entre paquetes predeterminados. Descubra ofertas y descuentos únicos."/>**
+
+
+
+
 ### 4.2.4. Searching Systems.
+
+**El sistema de búsqueda propuesto para la plataforma de itinerarios de viaje permitirá a los usuarios personalizar su experiencia de planificación de viajes de acuerdo a sus preferencias. Este sistema de búsqueda facilitará la búsqueda de itinerarios y actividades, así como también ajustará el nivel de dificultad de los planes y actividades.**
+
+**El sistema de búsqueda contará con los siguientes filtros:**
+
+| Nombre del filtro     | Descripción                                                                                                         |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------|
+| Tipo de Viaje         | Los usuarios podrán seleccionar el tipo de viaje que desean, como aventura, relax, cultural, etc.                  |
+| Destino               | Los usuarios podrán elegir la región turística a la que desean viajar.                                           |
+| Nivel de Experiencia  | Los usuarios podrán indicar su nivel de experiencia en viajes, ya sea principiante, intermedio o experto.           |
+| Presupuesto           | Los usuarios podrán establecer un rango de presupuesto para su viaje.                                            |
+| Duración del Viaje    | Los usuarios podrán especificar la duración de su viaje, ya sea en días o semanas.                              |
+| Actividades de Interés| Los usuarios podrán seleccionar las actividades que les gustaría realizar durante su viaje.                       |
+| Planes Predeterminados| Los usuarios podrán elegir entre los planes de viaje predeterminados que ofrecen beneficios especiales.          |
+| Contacto con Proveedores| Los usuarios podrán contactar directamente con los proveedores de servicios turísticos.                         |
+| Historial de Viajes   | Los usuarios podrán acceder a su historial de viajes anteriores y basarse en ellos para planificar futuros itinerarios. |
+
+
 ### 4.2.5. Navigation Systems.
+
+**El sistema de navegación de la plataforma de itinerarios de viaje guiará a los usuarios a través de las diferentes secciones y ventanas de la página web, brindándoles la información que desean sobre la aplicación. A continuación, se detallan las acciones técnicas que facilitarán la navegación de los usuarios:**
+
+| Nombre               | Descripción                                                                                                          |
+|----------------------|----------------------------------------------------------------------------------------------------------------------|
+| Inicio               | Enlace que redirige al usuario a la página de inicio, donde se presentará una visión general de la plataforma y sus características principales. |
+| Perfil               | Enlace que llevará al usuario a su perfil personal, donde podrá editar sus intereses, preferencias y presupuesto para la planificación de viajes. |
+| Explorar Itinerarios | Enlace que permitirá al usuario explorar los diferentes itinerarios de viaje disponibles, basados en sus preferencias y necesidades. |
+| Planes Predeterminados | Enlace que dirigirá al usuario a los planes de viaje predeterminados, con actividades y beneficios específicos. |
+| Contacto             | Enlace que redirige al usuario a la sección de contacto, donde podrá encontrar información de contacto y formularios para consultas y preguntas. |
+| Descargar App        | Enlace que llevará al usuario a la página de descarga de la aplicación, indicando las plataformas móviles en las que está disponible. |
+| Ayuda y Soporte      | Enlace que guiará al usuario a la sección de ayuda y soporte, donde encontrará respuestas a preguntas frecuentes y podrá contactar al equipo de atención al cliente. |
+| Blog de Viajes       | Enlace que dirigirá al usuario al blog de viajes, donde podrá encontrar consejos, recomendaciones y experiencias de otros viajeros. |
+| Testimonios          | Enlace que llevará al usuario a la sección de testimonios, donde podrá leer las opiniones y experiencias de otros usuarios con la plataforma. |
+| Plan Premium         | Enlace que redirige al usuario a la página de suscripción premium, donde podrá obtener beneficios adicionales y características exclusivas. |
+
+**Este sistema de navegación garantizará que los usuarios puedan acceder de manera rápida y sencilla a la información y funciones que necesitan para planificar sus viajes de manera efectiva y personalizada.**
+
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
+
+
+**Será una idea de la representación de cómo se verá nuestra landing page.**
+
+**El landing page se compone de varias secciones que guiarán a los usuarios a través de la página web y les proporcionarán la información necesaria sobre nuestra plataforma de itinerarios de viaje.**
+
+**En la parte superior de la página (encabezado), se encuentra el logo de la plataforma y una imagen de bienvenida que muestra a una persona creando un itinerario de viaje en la plataforma. Junto a la imagen, se coloca un botón de descarga de la aplicación móvil para que los usuarios puedan acceder rápidamente a la descarga.**
+
+**Justo debajo del encabezado, se presenta una breve oración que destaca los beneficios y características principales de la plataforma. Esto captará la atención del usuario y le brindará una idea clara de lo que ofrece la aplicación.En esta sección “Slide de Información del Proyecto” se encuentra una serie de diapositivas que explican la visión, misión y objetivos del proyecto. Se utiliza una combinación de imágenes y texto para transmitir la información de manera efectiva.**
+
+**En Slide del Equipo se muestra una serie de imágenes y nombres de los miembros del equipo que trabajan en el desarrollo de la plataforma. Cada miembro del equipo tiene una breve descripción de su rol y experiencia. Además, en esta sección Slide de Contacto se proporciona información de contacto, como correos electrónicos y redes sociales, para que los usuarios puedan comunicarse con nosotros en caso de tener consultas o preguntas.**
+
+**En la parte inferior de la página (Pie de Página), se encuentra el logo de la plataforma nuevamente, junto con enlaces a las secciones principales, como Inicio, Sobre Nosotros, Proyecto y Contacto.** 
+
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041526661271624/Wireframe_Presentacion.png?width=910&height=513" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041526933889077/Wireframe_Inicio_1.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041527151984741/Wireframe_Inicio_3.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041527412051999/Wireframe_Inicio_4.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041527634337822/Wireframe_Inicio_5.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041527873404958/Wireframe_Inicio_6.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041528087334912/Wireframe_Inicio_7.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041528330592296/Wireframe_Inicio_8.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041528544493640/Wireframe_Inicio_9.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+  <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147041526455730226/Wireframe_Inicio_10.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+    </p>
+
+    
+**Este es solo un ejemplo de cómo se vería el landing page de nuestra plataforma de itinerarios de viaje. La combinación de imágenes llamativas, texto descriptivo y botones de llamada a la acción garantizarán que los usuarios tengan una experiencia atractiva y informativa al visitar nuestra página web.**
+
 ### 4.3.2. Landing Page Mock-up.
+
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064111901974538/Mockp_Presentacion.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+
+ <p align="center">
+     <img src="" alt="https://media.discordapp.net/attachments/1146654443220242462/1147064108835938335/Wireframe_Inicio_1.png?width=881&height=500" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064109213438052/Wireframe_Inicio_3.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064109532188702/Wireframe_Inicio_4.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064109809016862/Wireframe_Inicio_5.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064110165545010/Wireframe_Inicio_6.png?width=881&height=500" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064110509461524/Wireframe_Inicio_7.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064110962450472/Wireframe_Inicio_8.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064111209926727/Wireframe_Inicio_9.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>   
+ <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146654443220242462/1147064111503511593/Wireframe_Inicio_10.png?width=881&height=497" alt="" style="margin-bottom: 5px;" width="1800px" align="center"/>
+   </p>
+   
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
