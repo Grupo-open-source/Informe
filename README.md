@@ -594,17 +594,21 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - Resumen de la entrevista:
 
  * **Entrevista 2** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
-  - Link de la entrevista: 
-  - Duración:  minutos 
+  - Nombres: Agustín Alejandro.
+  - Apellidos: Aguilar Lindo
+  - Edad: 21 años
+  - Distrito: San Miguel
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: [19:47](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=amsYyc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NTAuNjF9fQ%3D%3D) | 4:5 minutos 
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img 
+      src="https://cdn.discordapp.com/attachments/1146654443220242462/1149176942478766131/image.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
-  - Resumen de la entrevista:
+  -Resumen de la entrevista:
+ Agustín Alejandro Aguilar Lindo es un estudiante de Ingeniería de Sistemas en la UPC. Durante la entrevista, compartió sus experiencias de viaje y expresó su frustración con respecto al proceso de registro en línea. En este sentido, destacó la necesidad de simplificar el trámite de registro de viajes y mejorar la calidad del itinerario proporcionado a través de nuestra aplicación. Además, resaltó la importancia de una interfaz de aplicación atractiva que genere una impresión positiva.
+
+Agustín también mencionó su preferencia por una aplicación sin anuncios y subrayó la importancia de que los servicios ofrecidos sean de alta calidad. Por último, expresó su disposición a recomendar nuestra aplicación a amigos y familiares, ya que considera que brindaría una experiencia más satisfactoria en sus viajes.
 
 * **Entrevista 3** 
   - Nombres:
@@ -705,6 +709,1350 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de perfiles y personalización
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            01
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Crear perfil de turista
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> turista <b>quiero</b> poder crear un perfil con mis datos relevantes como mis intereses o preferencias de viaje, <b>para</b> que la plataforma pueda recomendarme paquetes de viaje.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Creación de perfil de turista exitosa </br>
+            <b>Dado</b> que el cliente quiere crear un perfil como turista en la plataforma </br>
+            <b>Cuando</b> el cliente selecciona la opción de crear perfil como turista </br>
+            <b>Y </b>se registra en la plataforma con sus respectivos datos </br>
+            <b>Entonces</b> el sistema creará automaticamente el perfil del cliente como turista con los datos proporcionados. </br> 
+            </br>
+            <b>Scenario 02:</b> Creación de perfil de turista fallida </br>
+            <b>Dado</b> que el cliente quiere crear un perfil como turista en la plataforma </br>
+            <b>Cuando</b> el cliente selecciona la opción de crear perfil como turista </br>
+            <b>Y </b>se registra en la plataforma con datos incompletos</br>
+            <b>Entonces</b> el sistema no permitirá que el cliente cree su perfil </br>
+            <b>Y </b>mostrará un mensaje de error indicando que no colocó todos los datos solicitados.</br>
+        </td>
+    </tr>
+    </tr>
+</table>
+
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Gestión de perfiles y personalización
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            02
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Crear perfil de negocio
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> proveedor de servicios turísticos <b>quiero</b> crear perfiles para mi agencia o negocio, <b>para</b> para mostrar información relevante sobre el servicio.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Creación de perfil de negocio exitosa </br>
+            <b>Dado</b> que el cliente quiere crear un perfil de negocio en la plataforma </br>
+            <b>Cuando</b> el cliente selecciona la opción de crear perfil de negocio </br>
+            <b>Y </b>se registra en la plataforma con los respectivos datos de la empresa </br>
+            <b>Entonces</b> el sistema creará automaticamente el perfil de negocio con los datos proporcionados. </br> 
+            </br>
+            <b>Scenario 02:</b> Creación de perfil de negocio fallida </br>
+            <b>Dado</b> que el cliente quiere crear un perfil de negocio en la plataforma </br>
+            <b>Cuando</b> el cliente selecciona la opción de crear perfil de negocio </br>
+            <b>Y </b>se registra en la plataforma con datos incompletos</br>
+            <b>Entonces</b> el sistema no permitirá que el cliente cree su perfil </br>
+            <b>Y </b>mostrará un mensaje de error indicando que no colocó todos los datos solicitados.</br>         
+        </td>
+    </tr>
+    </tr>
+</table>
+
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US03
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US04
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Suscripción vip
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US05
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Cristian Quito
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Ganar ingresos por itinerarios personalizados
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> turista <b>quiero</b> deseo publicar itinerarios personalizados <b>para</b> generar pequeños ingresos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01: Recepcion de ingresos </b></br>
+            <b>Dado</b> que el turista ya creo un itinerario</br>
+            <b>Y</b> este cuenta con una suscricpión premium en la plataforma </br>
+            <b>Cuando</b> seleccione la opción de publicar itineraio </br>
+            <b>Entonces</b> el sistema mostrará el itinerario a otros turistas en la plataforma </br>
+            <b>Y</b> generará dinero dependiendo de cuanta gente lo use. </br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US06
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Interacción y comunicación
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US07
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Cristian Quito
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Contactar con proveedores
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> turista, <b>quiero</b> comunicarme con el proveedor del servicio turístico dentro de la plataforma <b>para</b> aclarar mis dudas.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01: Chatear con el proveedor</b></br>
+            <b>Dado</b> que el usuario se encuentra en centro de mensajes </br>
+            <b>Cuando</b> cuando seleccione al usuario con el que quiera establecer comunicación </br>
+            <b>Entonces</b> se aperturará un chat donde el usuario podrá escribir y mandar su mensaje mediante un input box.</br></br>
+            <b>Scenario 02: Turista manda un mensaje al proveedor</b></br>
+            <b>Dado</b> que el turista abrió el chat con el proveedor</br>
+            <b>Cuando</b> escriba su mensaje en el input box </br>
+            <b>Y</b> le de al botón enviar </br>
+            <b>Entonces</b> se generará un globo de texto en el lado izquierdo con su mensaje. </br></br>
+            <b>Scenario 03: Proveedor recibe mensaje del turista</b></br>
+            <b>Dado</b> que el proveedor se encuentra en centro de mensajes </br>
+            <b>Y</b> Observa una notificación en rojo en la derecha del perfil del turista </br>
+            <b>Cuando</b> le de al chat con el turista </br>
+            <b>Entonces</b> la notificación en forma de circulo rojo desaparecerá </br>
+            <b>Y</b> Se mostrará el mensaje enviado por el turista. </br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US08
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Interacción y comunicación
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US09
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Cristian Quito
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Calificar y comentar sobre servicios
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> turista, <b>quiero</b> dejar mi calificación y comentarios sobre los servicios turísticos que experimenté <b>para</b> compartir mis opiniones con otros usuarios.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01: Calificar un servicio</b></br>
+            <b>Dado</b> que el turista ha concluido con su servico </br>
+            <b>Cuando</b> intente calificar el servicio que ha experimentado</br>
+            <b>Entonces</b> podrá asignar una puntuación numérica del 1 al 5 al servicio.
+            <b>Y</b> podrá proporcionar un comentario sobre su experiencia.
+            <b>Y</b> la calificación y el comentario deben registrarse correctamente en el sistema.</br></br>
+            <b>Scenario 02: Ver calificaciones y comentarios</b></br>
+            <b>Dado</b> que el usuario se encuentra en el menu principal </br>
+            <b>Cuando</b> visita la página de un servicio turístico </br>
+            <b>Entonces</b> se mostrará la puntuación promedio otorgada por los usuarios</br>
+            <b>Y</b> ver los comentarios previos dejados por otros usuarios.
+        </td>
+    </tr>
+    </tr>
+</table>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US10
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US11
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Descubrimiento de experiencias
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            12
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Bruce Cipriano
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Reservar Alojamiento
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> turista, <b> quiero</b> poder reservar alojamiento en hoteles y otros tipos de hospedaje a través de la plataforma<b> , para </b>asegurarme de tener un lugar donde quedarme durante mi viaje.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Reserva de alojamiento exitosa</br> 
+            <b> Dado </b>que el usuario ha seleccionado las fechas de viaje en el itinerario </br>
+            <b>Cuando </b>seleccione una opción de alojamiento </br>
+            <b>Y </b>complete la información de reserva y pago </br>
+            <b>El </b>sistema debe completar la reserva y enviar la confirmación al usuario.</br>
+            </br>
+            <b>Scenario 02: Reserva de alojamiento exitosa</b></br>
+            <b> Dado </b>que el usuario ha seleccionado las fechas de viaje en el itinerario </br>
+            <b>Cuando </b>intente reservar una opción de alojamiento que no tiene disponibilidad para esas fechas </br>
+            <b>El </b>sistema debe mostrar un mensaje indicando que no hay cupos disponibles para esas fechas.</br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US13
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Descubrimiento de experiencias
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            14
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Bruce Cipriano
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Recibir Ofertas Especiales
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como </b>usuario, <b>quiero </b> recibir notificaciones sobre ofertas y descuentos especiales en servicios turísticos y actividades<b>, para </b>aprovechar oportunidades de ahorro durante mi viaje.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01: </b>Recepción de oferta especial</br>
+            <b>Dado</b> que el usuario tiene notificaciones de ofertas activadas</br>
+            <b>Cuando</b> haya una nueva oferta disponible que corresponda al perfil y preferencias del usuario</br>
+            <b>El </b>sistema debe enviar una notificación con los detalles de la oferta .</br> 
+            </br>
+            <b>Scenario 02: </b>Visualización de ofertas anteriores</br>
+            <b>Dado</b> que el usuario ingresa a su cuenta</br>
+            <b>Cuando</b> seleccione la opción "Ofertas anteriores"</br>
+            <b>El </b>sistema debe mostrar un historial con las ofertas recibidas anteriormente. </br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Descubrimiento de experiencias
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            15
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Bruce Cipriano
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Visualizar Mapas Interactivoso
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> turista, <b>quiero </b>tener acceso a mapas interactivos en la plataforma que muestren las ubicaciones y detalles de las actividades y destinos, <b>para</b> facilitar la planificación de mi itinerario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Visualización de mapa de destino</br>
+            <b>Dado</b> que el usuario selecciona ver el mapa de un determinado destino</br>
+            <b>Cuando</b> el sistema cargue el mapa</br>
+            <b>Este </b>debe mostrar información relevante como puntos de interés, coordenadas, nudos de transporte, etc.</br> 
+ </br> 
+            <b>Scenario 02:</b> Marcadores y filtros en el mapa</br>
+            <b>Dado</b> que el usuario visualiza el mapa de un destino</br>
+            <b>Cuando</b> aplique filtros por tipo de lugar u otro atributo</br>
+            <b>El </b> mapa debe actualizarse mostrando solo los marcadores correspondientes al filtro aplicado.</br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Descubrimiento de experiencias
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            16
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Bruce Cipriano
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Reservar Actividades y Experiencias
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> turista, <b>deseo </b>poder reservar actividades y experiencias específicas, como tours guiados y excursiones, a través de la plataforma, <b>para</b> asegurarme de participar en las actividades que deseo.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b>Reserva de actividad exitosa</br>
+            <b>Dado</b> que el usuario ha seleccionado una actividad de su interés en el itinerario</br>
+            <b>Cuando</b> complete la reserva proporcionando la información requerida</br>
+            <b>El </b> sistema debe registrar la reserva y enviar la confirmación al usuario.</br>
+ </br>
+           <b>Scenario 02:</b>Reserva de actividad no disponible</br>
+            <b>Dado</b> que el usuario intenta reservar una actividad</br>
+            <b>Cuando</b> la fecha y hora seleccionada no tenga cupos disponibles</br>
+            <b>El </b>sistema debe mostrar un mensaje con la información de falta de disponibilidad para esa actividad en esos datos y horarios. </br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Soporte y Asistencia
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            17
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Crear un soporte en línea con IA
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> turista <b>quiero</b> contar con un sistema de soporte en línea mediante un chatbot con IA que esté disponible <b>para</b> resolver dudas y problemas durante la planificación y el viaje.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Uso del chat bot para disipar dudas durante la planificación </br>
+            <b>Dado</b> que el turista se encuentra dentro de la plataforma </br>
+            <b>Cuando</b> el usuario clickea al chat bot </br>
+            <b>Y </b>redacta una pregunta relacionada a la aplicación </br>
+            <b>Entonces</b> el sistema proporcionará una respuesta precisa a la pregunta </br> 
+            <b>Y, </b> si en caso no se soluciona, el sistema brindará el contacto de algún asesor de la plataforma.</br>
+            </br>
+            <b>Scenario 02:</b> Uso del chat bot para resolver problemas durante el viaje </br>
+            <b>Dado</b> que el turista se encuentra dentro de la plataforma </br>
+            <b>Cuando</b> el usuario clickea al chat bot </br>
+            <b>Y </b>redacta el problema que esta teniendo durante su viaje </br>
+            <b>Entonces</b> el sistema proporcionará opciones de ayudar y asistencia para abordarlo. </br> 
+            <b>Y, </b> si en caso no se soluciona, el sistema mostrará una opción para contactar con algún un asesor de la plataforma en vivo.</br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Soporte y Asistencia
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            18
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Notificar sobre eventos repentinos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario <b>quiero</b> recibir notificaciones sobre eventos repentinos <b>para</b> estar al tanto de mi viaje.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Eventos locales </br>
+            <b>Dado</b> el cliente se encuentra registrado en la plataforma </br>
+            <b>Cuando</b> se identifica una festividad local en su área de viaje </br>
+            <b>Entonces</b> el sistema enviará una notificacion al diapositvo del usuario, brindando información y detalles sobre el evento.  </br>
+            </br>
+            <b>Scenario 02:</b> Alerta de seguridad </br>
+            <b>Dado</b> el cliente se encuentra registrado en la plataforma </br>
+            <b>Cuando</b> se emita una alerta de seguridad importante en su área de viaje </br>
+            <b>Entonces</b> el sistema enviará una notificacion al diapositvo del usuario, brindando información y recomendaciones sobre el incidente. </br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Soporte y Asistencia
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            19
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Diego Esquivel
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Crear un apartado de preguntas y tutoriales
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> usuario <b>quiero</b> tener acceso a una sección de preguntas frecuentes y tutoriales <b>para</b> que me ayuden a sacar el máximo provecho de la plataforma.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Acceso a preguntas frecuentes y tutoriales</br>
+            <b>Dado</b> que el usuario se encuentra dentro de la plataforma </br>
+            <b>Cuando</b> el usuario accede a la sección de preguntas frecuentes y tutoriales </br>
+            <b>Entonces</b> el sistema desplegará una lista con las preguntas más frecuentes, con su respuesta detallada </br> 
+            <b>Y</b> además mostrará tutoriales que guien paso a paso como funciona la plataforma. </br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Publicidad y Promoción
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US20
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Cristian Quito
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Publicar anuncios
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> proveedor de servicios turísticos <b>quiero</b> promocionar mi negocio en la plataforma mediante anuncios <b>para</b> atraer más clientes
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01: Publicación de anuncio exitoso</b></br>
+            <b>Dado</b> que el proveedor se encuentra en el apartado de mis servicios </br>
+            <b>Y</b> seleccione uno de ellos </br>
+            <b>Cuando</b> le de click a la opción de publicitar </br>
+            <b>Y</b> Llene los campos "Nombre de la publicidad" y "monto"</br>
+            <b>Y</b> suba una imagen de la publicidad con un tamaño 50x50px</br>
+            <b>Entonces</b> el sistema los redirigirá a la sección "Mis anuncios publicitarios"</br>
+            <b>Y</b> le mostrará un mensaje de confirmación</br></br>
+            <b>Scenario 02: Publicación de anuncio fallido</b></br>
+            <b>Dado</b> que el proveedor se encuentra en el apartado de mis servicios </br>
+            <b>Y</b> seleccione uno de ellos </br>
+            <b>Cuando</b> le de click a la opción de publicitar </br>
+            <b>Y</b> Llene los campos "Nombre de la publicidad" y "monto"</br>
+            <b>Y</b> suba una imagen de la publicidad con el tamaño incorrecto </br>
+            <b>Entonces</b> el sistema le notificará que el tamaño de la imagen es incorrecto"</br>
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Publicidad y Promoción
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US21
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Cristian Quito
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Obtener datos estadísticos de publicidad
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> proveedor de servicios turísticos, <b>quiero</b> recolectar datos precisos de mi publicidad <b>para</b> evaluar la efectividad de mis estrategias de marketing
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Mostrar estadísticas de la publicidad</br>
+            <b>Dado</b> que el proveedor se encuentra en el menu principal </br>
+            <b>Cuando</b> entre la sección "Mis anuncios publicitarios" </br>
+            <b>Entonces visualizará un listado de todos sus anuncios con la cantidad de interacciones y clicks realizados</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            Publicidad y Promoción
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US22
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            Cristian Quito
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            Publicar servicios de la empresa turística
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> proveedor de servicios turísticos, <b>quiero</b> publicar mis servicios turísticos que proporciona mi empresa <b>para</b> que los turistas puedan visualizar de manera certera y atractiva las experiencias que ofrezco.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b> Abrir formulario para nuevo servicio </br>
+            <b>Dado</b> que el usuario se encuentra en la sección mis servicios </br>
+            <b>Cuando</b> le de click al botón "Agregar"</br>
+            <b>Entonces</b> Se generará un formulario con los campos a llenar del servicio </br> </br>  
+            <b>Scenario 02:</b> Publicación de nuevo servicio exitosa </br>
+            <b>Dado</b> que el usuario se encuentra en el formulario con los campos a llenar del servicio </br>
+            <b>Cuando</b> llena los campos "nombre", "descripcion", "fecha de inicio", "fecha de finalización", "precio", "cupos" y "categoría" </br>
+            <b>Entonces</b> el sistema lanzará un mensaje de confirmación</br>
+            <b>Y</b> Eliminará el formulario</br></br>
+            <b>Scenario 03:</b> Publicación de nuevo servicio fallido </br>
+            <b>Dado</b> que el usuario se encuentra en el formulario con los campos a llenar del servicio </br>
+            <b>Cuando</b> llena incorrectamente algunos de los campos "nombre", "descripcion", "fecha de inicio", "fecha de finalización", "precio", "cupos" y "categoría" </br>
+            <b>Entonces</b> el sistema lanzará un mensaje de error</br>
+            <b>Y</b> Se mostará en rojo la regla de validación debajo campo erróneo</br> </br> 
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US23
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US24
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Épica</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-HU</b>
+        </td>
+        <td>
+            US25
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+            texto
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título HU</b>
+        </td>
+        <td colspan=2>
+            texto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            <b>Como</b> <b>quiero</b> <b>para</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b></br>
+            <b>Scenario 01:</b></br>
+            <b>Dado</b> </br>
+            <b>Cuando</b> </br>
+            <b>Entonces</b>            
+        </td>
+    </tr>
+    </tr>
+</table>
+</br>
+
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
 | # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
