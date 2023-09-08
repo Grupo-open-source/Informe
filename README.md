@@ -385,16 +385,6 @@ Sus objetivos y necesidades incluyen:
  - Viajes Planificados: A menudo, estos viajeros tienen itinerarios de viaje más estructurados y planificados, que pueden incluir reuniones, conferencias, presentaciones u otras          
    actividades relacionadas con el trabajo.
 
-### Propietarios de vehículos:
-
-Estas son las personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler. El segmento de propietarios de vehículos podría incluir:
-
-- Individuos que poseen automóviles adicionales que no utilizan constantemente.
-- Personas que desean aprovechar una fuente adicional de ingresos alquilando su automóvil cuando no lo están utilizando.
-- Propietarios de flotas pequeñas que quieren optimizar la utilización de sus vehículos.
-- Personas que están dispuestas a rentar su automóvil mientras están de vacaciones o fuera de la ciudad.
-- Dueños de automóviles de lujo que desean compartir la experiencia de conducir esos vehículos.
-
   
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
