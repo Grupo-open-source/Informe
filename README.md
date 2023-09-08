@@ -13,8 +13,8 @@
 * Quito Igreda, Cristian Andrés u202121882
 * Esquivel Aguayo, Diego Martín
 * Baldeon Fabian, Aldo Alberto u202122633
-* Cipriano, Bruce
-* Loarte, Anthony
+* Cipriano Chumbes, Bruce Andres u20211d640
+* Loarte Matos, Anthony Brahan u20211d653
 
 ### <div align="center"> Ciclo 2023-2 </div>
 
@@ -201,7 +201,7 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
     </td>
   </tr>
   <tr>
-     <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
+     <td rowspan="3"> <img src="https://media.discordapp.net/attachments/1146643631516680222/1146643635492892812/43cb5aeb-9a31-4876-88de-7612f00e9fd5.png?width=468&height=646" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
       Bruce Andres Cipriano Chumbes
@@ -599,7 +599,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - Edad: 21 años
   - Distrito: San Miguel
   - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: [19:47](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=amsYyc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NTAuNjF9fQ%3D%3D) | 4:5 minutos 
+  - Timing y Duración: [19:47](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=zkjoP0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjExODcuNTR9fQ%3D%3D) | 4:5 minutos 
   - Evidencia de la reunión:<br>
     <p align="center">
      <img 
