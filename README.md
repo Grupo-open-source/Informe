@@ -192,11 +192,8 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
   <tr>
     <td>
       <strong>Acerca de:</strong> <br>
-      <p>
-        Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
-        de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
-        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en C++, Python y SQL Server, además de 
-        contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+      <p>   
+        Soy Aldo Alberto Baldeon Fabian, estoy estudiando la carrera de Ingeniería de Software en la UPC. Escogí esta carrera es porque me intereso el desarrollo de aplicaciones y el             desarrollo web. Me gusta ser responsable y trabajar en equipo. Por último, poseo conocimientos básicos en C#, java, JavaScript, HTML y CSS. También poseo conocimientos                    intermedios en C + +, SQL y MongoDB, además de cuento con experiencia en Git y GitHub. 
       </p>  
     </td>
   </tr>
@@ -349,8 +346,56 @@ Por lo tanto, el desafío clave radica en cómo brindar a los viajeros una soluc
  fluida. Sabremos que hemos tenido éxito cuando recibamos retroalimentación positiva sobre el diseño y la usabilidad, y cuando veamos un aumento en la retención de usuarios y en las recomendaciones.
 
 #### 1.2.2.4. Lean UX Canvas.
+<br>
+<img src="https://cdn.discordapp.com/attachments/991473069942120498/1149565258206289992/Captura.PNG" alt="Lean UX Canvas" >
+
+<br>
+
 ## 1.3. Segmentos objetivo
 
+El segmento objetivo de la startup se divide en dos categorías principales: las "Empresas que Brindan Servicios Turísticos" y "Turistas entre 18 y más años de Edad". La aplicación que están desarrollando tiene como objetivo ser un intermediario eficiente y seguro entre estos dos grupos para facilitar el proceso de alquiler de automóviles.
+
+### Empresas que Brindan Servicios Turísticos y Alojamiento:
+Este segmento se centra en empresas que operan en la industria turística, incluyendo agencias turísticas, hoteles y restaurantes. Estas empresas desean promocionar sus servicios y alojamientos en línea para llegar a un público más amplio y diverso.
+
+Sus objetivos y necesidades incluyen:
+
+- Expansión en Línea: Muchas de estas empresas buscan expandir su presencia en línea y llegar a nuevos clientes a través de plataformas digitales. Desean aprovechar las oportunidades que   ofrece internet para promocionar sus servicios de manera efectiva.
+
+- Visibilidad y Promoción: La visibilidad en línea es esencial para estas empresas. Quieren destacar entre la competencia y atraer a turistas y viajeros que buscan experiencias únicas. 
+  Necesitan herramientas y canales para promocionar sus ofertas y destacar sus servicios.
+
+- Personalización de Ofertas: Para brindar experiencias excepcionales a los viajeros, estas empresas buscan personalizar sus ofertas y servicios de acuerdo con las preferencias y  
+  necesidades de los clientes. Buscan herramientas que les permitan adaptar sus servicios de manera efectiva.
+
+ ### Turistas entre 18 y más años de Edad:
+ Este segmento se compone de turistas que tienen 18 años o más y buscan itinerarios de viaje tanto predeterminados como personalizados. También incluimos a personas que viajan por     
+ trabajo, lo que a menudo se conoce como viajes de negocios. Estos viajeros, que pueden ser ejecutivos, representantes de ventas, consultores u otros profesionales, tienen necesidades y   objetivos específicos relacionados con su trabajo durante el viaje.
+ 
+ Sus objetivos y necesidades incluyen:
+ 
+ - Búsqueda de Experiencias: Estos turistas buscan experiencias únicas y memorables en sus viajes. Desean explorar destinos, actividades y alojamientos que se adapten a sus intereses 
+   personales.
+   
+ - Flexibilidad en Itinerarios: Algunos turistas pueden preferir itinerarios predeterminados que les ahorren tiempo en la planificación, mientras que otros pueden buscar opciones 
+   altamente personalizadas que les permitan diseñar su viaje a medida.
+   
+ - Interacción con Locales: Muchos de estos turistas valoran las experiencias locales auténticas y desean interactuar con la cultura y la comunidad de sus destinos.
+ 
+ - Viajes Planificados: A menudo, estos viajeros tienen itinerarios de viaje más estructurados y planificados, que pueden incluir reuniones, conferencias, presentaciones u otras          
+   actividades relacionadas con el trabajo.
+
+### Propietarios de vehículos:
+
+Estas son las personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler. El segmento de propietarios de vehículos podría incluir:
+
+- Individuos que poseen automóviles adicionales que no utilizan constantemente.
+- Personas que desean aprovechar una fuente adicional de ingresos alquilando su automóvil cuando no lo están utilizando.
+- Propietarios de flotas pequeñas que quieren optimizar la utilización de sus vehículos.
+- Personas que están dispuestas a rentar su automóvil mientras están de vacaciones o fuera de la ciudad.
+- Dueños de automóviles de lujo que desean compartir la experiencia de conducir esos vehículos.
+
+  
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
