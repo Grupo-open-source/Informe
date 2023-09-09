@@ -621,9 +621,829 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1148831742271180911/Diagrama_en_blanco.png" alt="TPlaner-class-diagram" style="margin-bottom: 5px;" width="1020px"/>
+     <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1149857758196277328/Diagrama_en_blanco_3.png" alt="TPlaner-class-diagram" style="margin-bottom: 5px;" width="1020px"/>
 </p>
+
 ### 4.7.2. Class Dictionary.
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>User</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>username</td>
+    <td>Alias del usuario</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>date</td>
+    <td>birthdate</td>
+    <td>Apellido del usuario</td>
+  </tr>
+   <tr align="left">
+    <td>Location</td>
+    <td>location</td>
+    <td>Ubicación del usuario </td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+    <tr align="left">
+    <td>string</td>
+    <td>get_info()</td>
+    <td>Obtener los atributos del usuario</td>
+  </tr>
+    <tr align="left">
+    <td>bool</td>
+    <td>login()</td>
+    <td>Iniciar sesion del usuario</td>
+  </tr>
+    <tr align="left">
+    <td>void</td>
+    <td>logout()</td>
+    <td>Cerrar sesión de usuario</td>
+  </tr>
+    <tr align="left">
+    <td>void</td>
+    <td>updateProfile()</td>
+    <td>Actualizar los atributos del perfil</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Admin</b></th>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>gender</td>
+    <td>Genero del administrador</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del usuario</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>string</td>
+    <td>lastname</td>
+    <td>Apellido del usuario</td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>getInfo()</td>
+    <td>Obtener atributos de los administradores</td>
+  </tr>
+   <tr align="left">
+    <td>void</td>
+    <td>banUser(user: User)</td>
+    <td>Banear a usuario de la plataforma</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Tourist</b></th>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del usuario</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>string</td>
+    <td>lastname</td>
+    <td>Apellido del usuario</td>
+  </tr>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>travelpoints</td>
+    <td>Puntos canjeables en la tienda SwapifyShop</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>gender</td>
+    <td>Género del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>nationality</td>
+    <td>Nacionalidad del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>List&lt;Order&gt;</td>
+    <td>orders</td>
+    <td>Nacionalidad del usuario</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>getInfo()</td>
+    <td>Obtener atributos de turista</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>TouristProvider</b></th>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>organization_name</td>
+    <td>Nombre de la organización</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>string</td>
+    <td>organization_description</td>
+    <td>Descripción de el organización</td>
+  </tr>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>website_link</td>
+    <td>Enlace de la páina web</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>provider_type</td>
+    <td>Tipo de proveedor</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>getInfo()</td>
+    <td>Obtener atributos de proveedor de servicios turísticos</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Review</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de reseña</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>rating</td>
+    <td>Calificación numérica de reseña</td>
+  </tr>
+  <tr align="left">
+    <td>Tourist</td>
+    <td>tourist</td>
+    <td>Referencia al turista</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Comentario de la reseña</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>sendReview()</td>
+    <td>Enviar reseña</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Order</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la orden</td>
+  </tr>
+  <tr align="left">
+    <td>Product</td>
+    <td>product</td>
+    <td>Referencia al producto a adquirir</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción de la orden</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>totalUnit</td>
+    <td>Unidades totales adquiridas del producto</td>
+  </tr>
+  <tr align="left">
+    <td>Date</td>
+    <td>exchangeDate</td>
+    <td>Fecha donde se realizo el canje del producto</td>
+  </tr>
+  <tr align="left">
+    <td>SwapifyShopCatalogo</td>
+    <td>swapifyShopSeason</td>
+    <td>Referencia al catalogo donde se adquirio</td>
+  </tr>
+  <tr align="left">
+    <td>Order</td>
+    <td>getOrder()</td>
+    <td>Retorna la orden</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>InsertOrder(order: Order)</td>
+    <td>Inserta la orden a la base de datos</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>DeleteOrder(id)</td>
+    <td>Borrar la orden a la base de datos</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>SwapifyShopCatalog</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del catálogo de Swapify</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del catálogo de Swapify</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción del Swapify</td>
+  </tr>
+  <tr align="left">
+    <td>Date</td>
+    <td>startDate</td>
+    <td>Día de inicio del catálogo</td>
+  </tr>
+  <tr align="left">
+    <td>Date</td>
+    <td>endDate</td>
+    <td>Fecha fin del catálogo</td>
+  </tr>
+  <tr align="left">
+    <td>Product</td>
+    <td>GetProduct()</td>
+    <td>Devuelve el producto del catálogo</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>InsertProduct(product: Product)</td>
+    <td>Devuelve el producto del catálogo</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>DeleteProduct(id)</td>
+    <td>Borra el producto del catálogo</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Product</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>identificador único del producto</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>stock</td>
+    <td>Cantidad restante del producto</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>int</td>
+    <td>points</td>
+    <td>Cantidad requerida de puntos para el producto</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>category</td>
+    <td>Categoría del producto</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>GetInfo()</td>
+    <td>Retornar los atributos del producto</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>ChatLine</b></th>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>to</td>
+    <td>Emisor del mensaje</td>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>from</td>
+    <td>Receptor del mensaje</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>string</td>
+    <td>message</td>
+    <td>Contenido del mensaje</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>sendMessage()</td>
+    <td>Enviar mensaje al destinatario</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Chat</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>idTourist</td>
+    <td>Identificador único del turista</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>idProdider</td>
+    <td>Identificador único del proveedor</td>
+  </tr>
+  <tr>
+  <tr align="left">
+    <td>List&lt;ChatLine&gt</td>
+    <td>chatlines</td>
+    <td>Lista de líneas del chat</td>
+  </tr>
+   <tr align="left">
+    <td>void</td>
+    <td>sendMessage()</td>
+    <td>Enviar mensaje al destinatario</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Advertising</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del anuncio</td>
+  </tr>
+  <tr align="left">
+    <td>touristProvider</td>
+    <td>TouristProvider</td>
+    <td>Identificador del proveedor de servicios turísticos</td>
+  </tr>
+  <tr>
+   <tr align="left">
+    <td>string</td>
+    <td>category</td>
+    <td>Categoría del anuncio</td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>text</td>
+    <td>Texto del anuncio</td>
+  </tr>
+   <tr align="left">
+    <td>picture</td>
+    <td>thumbnail</td>
+    <td>Imágen del anuncio</td>
+  </tr>
+    <tr align="left">
+    <td>date</td>
+    <td>start_Day</td>
+    <td>Fecha de inicio del anuncio</td>
+  </tr>
+    <tr align="left">
+    <td>date</td>
+    <td>end_day</td>
+    <td>Fecha de fin del anuncio</td>
+  </tr>
+    <tr align="left">
+    <td>void</td>
+    <td>get_info()</td>
+    <td>Obtener atributos del anuncio</td>
+  </tr>
+   <tr align="left">
+    <td>void</td>
+    <td>get_currency()</td>
+    <td>Obtener divisa</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Location</b></th>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>country</td>
+    <td>Nombre del país</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>city</td>
+    <td>Nombre de la ciudad</td>
+  </tr>
+  <tr>
+  <tr align="left">
+    <td>string</td>
+    <td>address</td>
+    <td>Dirección de la ubicación</td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>getLocation()</td>
+    <td>Obtener los atributos del ubicación</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Money</b></th>
+  </tr>
+  <tr align="left">
+    <td>float</td>
+    <td>amount</td>
+    <td>Monto total</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>currency</td>
+    <td>Nombre de la divisa</td>
+  </tr>
+  <tr>
+  <tr align="left">
+    <td>float</td>
+    <td>get_amount()</td>
+    <td>Obtener monto</td>
+  </tr>
+   <tr align="left">
+    <td>string</td>
+    <td>get_currency()</td>
+    <td>Obtener divisa</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Membership</b></th>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre de la descripción</td>
+  </tr>
+  <tr align="left">
+    <td>Money</td>
+    <td>price</td>
+    <td>Precio de la suscripción</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Subscription</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único de la suscripción</td>
+  </tr>
+  <tr align="left">
+    <td>Membership</td>
+    <td>type</td>
+    <td>Tipo de suscripción</td>
+  </tr>
+  <tr>
+  <tr align="left">
+    <td>Membership</td>
+    <td>start_day</td>
+    <td>Fecha inicio de la suscripción</td>
+  </tr>
+  <tr align="left">
+    <td>Date</td>
+    <td>end_day</td>
+    <td>Fecha fin de la suscripción</td>
+  </tr>
+    <tr align="left">
+    <td>void</td>
+    <td>suscribe()</td>
+    <td>Suscribir al usuario</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>PaymentManager</b></th>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>user</td>
+    <td>Referencia al usuario</td>
+  </tr>
+  <tr align="left">
+    <td>Payment</td>
+    <td>payment</td>
+    <td>Método de pago</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>doPayment()</td>
+    <td>Relizar pago</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Payment</b></th>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>pay()</td>
+    <td>Pagar con el método seleccionado</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Visa</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>num</td>
+    <td>Número de la tajeta</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>cvv</td>
+    <td>Código Valor de validación o verificación</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>owner_name</td>
+    <td>Nombre del propietario</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>pay()</td>
+    <td>Pagar con el método seleccionado</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Mastercard</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>num</td>
+    <td>Número de la tajeta</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>cvv</td>
+    <td>Código Valor de validación o verificación</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>owner_name</td>
+    <td>Nombre del propietario</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>pay()</td>
+    <td>Pagar con el método seleccionado</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>ProxyBankCard</b></th>
+  </tr>
+  <tr align="left">
+    <td>Payment</td>
+    <td>payment</td>
+    <td>Referencia a un método de pago seleccionado</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>ValidatePayment()</td>
+    <td>validar método de pago</td>
+  </tr>
+  <tr align="left">
+    <td>void</td>
+    <td>pay()</td>
+    <td>Pagar con el método seleccionado</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>TravelItinerary</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del Itinerario de viaje</td>
+  </tr>
+  <tr align="left">
+    <td>List&ltTouristService&gt</td>
+    <td>touristService</td>
+    <td>Lista de servicios de un itinerario</td>
+  </tr>
+  <tr align="left">
+    <td>User</td>
+    <td>owner</td>
+    <td>Creador del itinerario</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>TouristService</b></th>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>id</td>
+    <td>Identificador único del servicio turístico</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del servicio turístico</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>description</td>
+    <td>Descripción del servicio turístico</td>
+  </tr>
+  <tr align="left">
+    <td>Location</td>
+    <td>location</td>
+    <td>Ubicación del servicio turístico</td>
+  </tr>
+  <tr align="left">
+    <td>int</td>
+    <td>capacity</td>
+    <td>Cantidad de cupos disponible del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>List&ltReviews&gt</td>
+    <td>reviews</td>
+    <td>Lista de las reseñas del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>TouristProvider</td>
+    <td>provider</td>
+    <td>Referencia al proveedor del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>Monet</td>
+    <td>money</td>
+    <td>Precio del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>addReview(review: Review)</td>
+    <td>Añadir reseña sobre el servicio</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>getInfo()</td>
+    <td>Obtener los atributos del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>reserve()</td>
+    <td>Reservar servicio</td>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Housing</b></th>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>type_housing</td>
+    <td>Tipo de hospedaje</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>getInfo()</td>
+    <td>Obtener los atributos de housing</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>reserve()</td>
+    <td>Reservar servicio</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>TouristActivity</b></th>
+  </tr>
+  <tr align="left">
+    <td>date</td>
+    <td>start_date</td>
+    <td>Fecha de inicio del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>date</td>
+    <td>end_date</td>
+    <td>Fecha fin del servicio</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>getInfo()</td>
+    <td>Obtener los atributos de la actividad turística</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>reserve()</td>
+    <td>Reservar servicio</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>Restaurant</b></th>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>category</td>
+    <td>Tipo de restaurante</td>
+  </tr>
+  <tr align="left">
+    <td>string</td>
+    <td>getInfo()</td>
+    <td>Obtener los atributos del restaurante</td>
+  </tr>
+  <tr align="left">
+    <td>bool</td>
+    <td>reserve()</td>
+    <td>Reservar servicio</td>
+  </tr>
+</table>
+</br>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <th colspan="3"><b>TouristServiceFactory</b></th>
+  </tr>
+  <tr align="left">
+    <td>static TouristService</td>
+    <td>CreateService()</td>
+    <td>Instanciar Servicios</td>
+  </tr>
+</table>
+</br>
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 <p align="center">
