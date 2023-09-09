@@ -3169,6 +3169,59 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2023-09-05</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>9:30 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>En el servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Quito Igreda, Cristian Andrés</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Esquivel Aguayo, Diego Martín </br> Baldeon Fabian, Aldo Alberto </br> Cipriano Chumbes, Bruce Andres</br> Loarte Matos, Anthony Brahan</br> Quito Igreda, Cristian Andrés</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Review Summary</td>
+    <td>Debido a que este es nuestro primer sprint, no se puede realizar algún resumen sobre el sprint anterior.</td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Retrospective Summary</td>
+    <td>Debido a que este es nuestro primer sprint, no se puede realizar alguna opinión sobre el sprint anterior</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td>
+    <td>El objetivo del equipo para este primer sprint es realizar la primera versión de nuestra landing page. De esta manera tendremos un medio donde los usuarios podrán conocer nuestra startup y nuestro producto</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>17</td>
+  </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1.
 #### 5.2.1.3. Development Evidence for Sprint Review.
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
@@ -3183,3 +3236,6 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 
 # Bibliografía
 # Anexos
+| Sección | Características del video | Sobre el contenido | Integración y entrega |
+|---------|---------------------------|--------------------|-----------------------|
+| Needfinding Interviews | Cantidad de videos: 1</br> Nomenclatura: upc-pre-202302-si729-WS52-Odyssey- needfinding-sprint-1 </br> Formato: .mp4</br> Duración: 29 minutos | Se realizó 3 entrevistas por segmento objetivo. | Se subió un video unificado de las 6 entrevistas en Microsoft Stream. Asimismo, se realizó una captura de pantalla para cada entrevista junto a su enlace con el timing exacto |
