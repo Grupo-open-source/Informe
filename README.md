@@ -14,7 +14,6 @@
 * Esquivel Aguayo, Diego Martín u202116749
 * Baldeon Fabian, Aldo Alberto u202122633
 * Cipriano Chumbes, Bruce Andres u20211d640
-* Loarte Matos, Anthony Brahan u20211d653
 
 ### <div align="center"> Ciclo 2023-2 </div>
 
