@@ -3705,7 +3705,7 @@ Para este primer sprint, se pudo desarrollar la primera versión de nuestra land
 Enlace de video: [Presentación de nuestra landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/ERIFnCXeRbJJk-LFHPHMZPIBLFQJDLfOYqvHoYDv7jWN7g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=7BoxQb)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-Para esta entrega no se ha implementado alguna API, ya que lo requerido fue el diseño de nuestra aplicación web y la primera versión de nuestra landing page.
+Para esta entrega no se ha implementado alguna API, ya que lo requerido fue el diseño de nuestra aplicación web y la primera versión de nuestra landing page. Por ello, el despliegue de nuestra landing page se puede acceder mediante el siguiente enlace: [https://odyssey-upc.github.io/TPlanner-landing-page/](https://odyssey-upc.github.io/TPlanner-landing-page/)
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
