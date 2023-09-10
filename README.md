@@ -2311,6 +2311,11 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 </br>
 
 ## 3.3. Impact Mapping.
+
+<p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1149551675342868521/1150530356999618691/Sin_titulo.png" alt="TPlaner-class-diagram" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+
 ## 3.4. Product Backlog.
 | # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
 |---------|---------------|--------|-------------|--------------------------|
