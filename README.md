@@ -707,15 +707,15 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 **Segmento objetivo 2: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
 
 * **Entrevista 1** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
+  - Nombres: Arturo Aguistin
+  - Apellidos: Pizarro Esquivel
+  - Edad: 25
+  - Distrito: Chorrillos 
   - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: |  minutos
+  - Timing y Duración: [00:00](https://upcedupe-my.sharepoint.com/personal/u202121882_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121882%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202302%2Dsi729%2DWS52%2DOdyssey%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjAuMjd9fQ%3D%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjAuMjd9fQ==&ga=1)| 4 minutos 
   - Evidencia de la reunión: <br>
     <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://media.discordapp.net/attachments/991473069942120498/1150524794522054696/image.png?width=1111&height=567" alt="Aldo Baldeon" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
 
@@ -730,7 +730,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
     <p align="center">
      <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
-  - Resumen de la entrevista:
+  - Resumen de la :
 
 * **Entrevista 3** 
   - Nombres: Steve Roger
