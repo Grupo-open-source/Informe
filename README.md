@@ -361,37 +361,31 @@ Por lo tanto, el desafío clave radica en cómo brindar a los viajeros una soluc
 
 ## 1.3. Segmentos objetivo
 
-El segmento objetivo de la startup se divide en dos categorías principales: las "Empresas que Brindan Servicios Turísticos" y "Turistas entre 18 y más años de Edad". La aplicación que están desarrollando tiene como objetivo ser un intermediario eficiente y seguro entre estos dos grupos para facilitar el proceso de alquiler de automóviles.
+El segmento objetivo de la startup se divide en dos categorías principales: los "Turistas" y las "Empresas que brindan servicios turísticos".Los turistas podrán explorar y seleccionar servicios turísticos proporcionados por las empresas, además de crear sus itinerarios de viaje personalizados o escoger uno ya predeterminado, mientras que las empresas podrán publicar sus servicios para que los turistas los elijan.
 
-### Empresas que Brindan Servicios Turísticos y Alojamiento:
+### Turistas:
+Este segmento se compone de turistas que tienen 18 años o más y buscan itinerarios de viaje tanto predeterminados como personalizados. También incluimos a personas que viajan por trabajo, lo que a menudo se conoce como viajes de negocios. Estos viajeros, que pueden ser ejecutivos, representantes de ventas, consultores u otros profesionales, tienen necesidades y objetivos específicos relacionados con su trabajo durante el viaje.
+ 
+Sus objetivos y necesidades incluyen:
+ 
+- Búsqueda de Experiencias: Estos turistas buscan experiencias únicas y memorables en sus viajes. Desean explorar destinos, actividades y alojamientos que se adapten a sus intereses personales.
+   
+- Flexibilidad en Itinerarios: Algunos turistas pueden preferir itinerarios predeterminados que les ahorren tiempo en la planificación, mientras que otros pueden buscar opciones altamente personalizadas que les permitan diseñar su viaje a medida.
+   
+- Interacción con Locales: Muchos de estos turistas valoran las experiencias locales auténticas y desean interactuar con la cultura y la comunidad de sus destinos.
+ 
+- Viajes Planificados: A menudo, estos viajeros tienen itinerarios de viaje más estructurados y planificados, que pueden incluir reuniones, conferencias, presentaciones u otras actividades relacionadas con el trabajo.
+
+### Empresas que brindan servicios turísticos y alojamiento:
 Este segmento se centra en empresas que operan en la industria turística, incluyendo agencias turísticas, hoteles y restaurantes. Estas empresas desean promocionar sus servicios y alojamientos en línea para llegar a un público más amplio y diverso.
 
 Sus objetivos y necesidades incluyen:
 
-- Expansión en Línea: Muchas de estas empresas buscan expandir su presencia en línea y llegar a nuevos clientes a través de plataformas digitales. Desean aprovechar las oportunidades que   ofrece internet para promocionar sus servicios de manera efectiva.
+- Expansión en Línea: Muchas de estas empresas buscan expandir su presencia en línea y llegar a nuevos clientes a través de plataformas digitales. Desean aprovechar las oportunidades que ofrece internet para promocionar sus servicios de manera efectiva.
 
-- Visibilidad y Promoción: La visibilidad en línea es esencial para estas empresas. Quieren destacar entre la competencia y atraer a turistas y viajeros que buscan experiencias únicas. 
-  Necesitan herramientas y canales para promocionar sus ofertas y destacar sus servicios.
+- Visibilidad y Promoción: La visibilidad en línea es esencial para estas empresas. Quieren destacar entre la competencia y atraer a turistas y viajeros que buscan experiencias únicas. Necesitan herramientas y canales para promocionar sus ofertas y destacar sus servicios.
 
-- Personalización de Ofertas: Para brindar experiencias excepcionales a los viajeros, estas empresas buscan personalizar sus ofertas y servicios de acuerdo con las preferencias y  
-  necesidades de los clientes. Buscan herramientas que les permitan adaptar sus servicios de manera efectiva.
-
- ### Turistas entre 18 y más años de Edad:
- Este segmento se compone de turistas que tienen 18 años o más y buscan itinerarios de viaje tanto predeterminados como personalizados. También incluimos a personas que viajan por     
- trabajo, lo que a menudo se conoce como viajes de negocios. Estos viajeros, que pueden ser ejecutivos, representantes de ventas, consultores u otros profesionales, tienen necesidades y   objetivos específicos relacionados con su trabajo durante el viaje.
- 
- Sus objetivos y necesidades incluyen:
- 
- - Búsqueda de Experiencias: Estos turistas buscan experiencias únicas y memorables en sus viajes. Desean explorar destinos, actividades y alojamientos que se adapten a sus intereses 
-   personales.
-   
- - Flexibilidad en Itinerarios: Algunos turistas pueden preferir itinerarios predeterminados que les ahorren tiempo en la planificación, mientras que otros pueden buscar opciones 
-   altamente personalizadas que les permitan diseñar su viaje a medida.
-   
- - Interacción con Locales: Muchos de estos turistas valoran las experiencias locales auténticas y desean interactuar con la cultura y la comunidad de sus destinos.
- 
- - Viajes Planificados: A menudo, estos viajeros tienen itinerarios de viaje más estructurados y planificados, que pueden incluir reuniones, conferencias, presentaciones u otras          
-   actividades relacionadas con el trabajo.
+- Personalización de Ofertas: Para brindar experiencias excepcionales a los viajeros, estas empresas buscan personalizar sus ofertas y servicios de acuerdo con las preferencias y necesidades de los clientes. Buscan herramientas que les permitan adaptar sus servicios de manera efectiva.
 
   
 # Capítulo II: Requirements Elicitation & Analysis
@@ -580,49 +574,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - ¿Recomendarías nuestra aplicación a otras personas? ¿Por qué?
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
-
-* **Entrevista 1** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
-  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: |  minutos
-  - Evidencia de la reunión: <br>
-    <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
-  - Resumen de la entrevista:
-
- * **Entrevista 2** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
-  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: |  minutos 
-  - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
-  - Resumen de la entrevista:
-
-* **Entrevista 3** 
-  - Nombres: Steve Roger
-  - Apellidos: Castillo Robles
-  - Edad: 22 años
-  - Region: Huaraz
-  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: [10:12](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=N1jhdA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjYxMi42N319) | 5 minutos  
-  - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146643631516680222/1148819459054772264/image.png?width=1345&height=407" alt="Entrevista-Steve" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
-  - Resumen de la entrevista:
- Steve Roger Castillo Robles es un estudiante de Ingenieria de Software y trabaja a medio tiempo en el hotel "El Tumi". Nos cuenta que su servicio de hotelería, a parte del alojamiento, ofrece desayuno, almuerzo y cena. Además, promociona su servicio mediante bolantes en la plaza de armas y mediante colaboraciones con otras empresas de servicios turísticos. Una vez relatado sobre la aplicación, nos menciona que resultaría de mucha utilidad, pues ayudaría brindar visibilidad y un impulso a las pequeñas empresas turísticas.
-
-**Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+**Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
 
 * **Entrevista 1** 
   - Nombres:
@@ -668,10 +620,53 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
   - Resumen de la entrevista:
   Adrian Martín Quito Igreda es un estudiante de Ingeniería Electrónica de la UPC. Nos cuenta que viaja una vez por año y que le gustaría viajar a lugares cerca a la costa. Asimismo nos cuenta que previo al viaje, se toma el tiempo para investigar sobre los distintos servicios turísticos de la localidad. Luego de conocer sobre nuestra aplicación, nos menciona que sería de gran utilidad pues se organizaría mas rápido siempre y cuando tenga una buena interfaz. Le gustaría tener una comunicación directa con la empresa se servicios turísticos, ya que de esta manera resolvería sus dudas e inconvenientes.
 
-### 2.2.3. Análisis de entrevistas.
-**Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+**Segmento objetivo 2: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
 
-**Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+* **Entrevista 1** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: |  minutos
+  - Evidencia de la reunión: <br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+ * **Entrevista 2** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: |  minutos 
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+* **Entrevista 3** 
+  - Nombres: Steve Roger
+  - Apellidos: Castillo Robles
+  - Edad: 22 años
+  - Region: Huaraz
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: [10:12](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=N1jhdA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjYxMi42N319) | 5 minutos  
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146643631516680222/1148819459054772264/image.png?width=1345&height=407" alt="Entrevista-Steve" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+ Steve Roger Castillo Robles es un estudiante de Ingenieria de Software y trabaja a medio tiempo en el hotel "El Tumi". Nos cuenta que su servicio de hotelería, a parte del alojamiento, ofrece desayuno, almuerzo y cena. Además, promociona su servicio mediante bolantes en la plaza de armas y mediante colaboraciones con otras empresas de servicios turísticos. Una vez relatado sobre la aplicación, nos menciona que resultaría de mucha utilidad, pues ayudaría brindar visibilidad y un impulso a las pequeñas empresas turísticas.
+
+### 2.2.3. Análisis de entrevistas.
+**Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+
+**Segmento objetivo 2: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
@@ -682,7 +677,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 
 **Segmento 2 (Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web):**<br> <br>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1146495098847244378/Adela_Garrido_2.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1146495098847244378/Adela_Garrido_2.png" alt="Segmento 2" style="margin-bottom: 3px;" width="780px">
 </p> 
 
 ### 2.3.2. User Task Matrix.
@@ -748,6 +743,17 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 
 
 ### 2.3.3. User Journey Mapping.
+
+**Segmento 1 (Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150253056009715732/User_Journey_Map_1.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
+**Segmento 2 (Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150276497848938587/User_Journey_Map_2_1.png" alt="Segmento 2" style="margin-bottom: 3px;" width="780px">
+</p> 
+
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 
