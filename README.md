@@ -786,6 +786,11 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
   <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150310498148024370/To_BE_Turista_2023-09-06_01-35-05.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
 </p>
 
+**Segmento 2 (Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150310566750068748/To_Be_Empresa_2023-09-06_07-13-27.png" alt="Segmento 2" style="margin-bottom: 3px;" width="780px">
+</p> 
+
 ## 3.2. User Stories.
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
