@@ -11,7 +11,7 @@
 
 **Integrantes**
 * Quito Igreda, Cristian Andrés u202121882
-* Esquivel Aguayo, Diego Martín
+* Esquivel Aguayo, Diego Martín u202116749
 * Baldeon Fabian, Aldo Alberto u202122633
 * Cipriano Chumbes, Bruce Andres u20211d640
 * Loarte Matos, Anthony Brahan u20211d653
@@ -767,6 +767,11 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 </p> 
 
 ### 2.3.5. As-is Scenario Mapping.
+
+**Segmento 1 (Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150310440505716736/As___IS_Turista_2023-08-30_22-49-49.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
