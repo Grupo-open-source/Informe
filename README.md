@@ -3381,6 +3381,65 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 ### 5.1.1. Software Development Environment Configuration.
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
+Para el desarrollo de nuestra landing page, hemos establecido seguir con las convenciones de Google en el formato de HTML y CSS (Google, 2017). Algunas de ellas son:
+* Uso de etiquetas HTML en minúsculas: Las etiquetas HTML deben escribirse en minúsculas para mantener la consistencia y el cumplimiento con las especificaciones.
+```HTML
+<etiqueta>
+```
+* Capitalización: El código completo debe utilizar letras minúsculas: esto se refiere a los nombres de los elementos HTML, los atributos, los valores de los atributos, los selectores CSS, las propiedades y los valores de las propiedades (excepto cuando se trata de cadenas).
+```HTML
+<img src="google.png" alt="Google">
+```
+```CSS
+color: #e5e5e5;
+```
+
+* Uso de atributos en comillas dobles: Los atributos de las etiquetas deben estar dentro de comillas dobles para asegurar una sintaxis válida.
+```HTML
+<etiqueta atributo="valor">
+```
+
+* Indentación y estructura clara: Google y muchas otras empresas siguen una estructura de indentación clara de 2 espacios y organizada para mejorar la legibilidad del código HTML.
+```HTML
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página de ejemplo</title>
+</head>
+<body>
+  <header>
+    <h1>Encabezado</h1>
+    <nav>
+      <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Acerca de</a></li>
+          <li><a href="#">Servicios</a></li>
+          <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+  <footer><p>&copy; 2023 - Mi Empresa</p></footer>
+</body>
+</html>
+```
+* Separación de bloques de declaración: La llave de apertura debe estar en la misma línea que el último selector en una regla determinada. Asimismo, se debe dejar un espacio entre el bloque de declaración y el último selector.
+```CSS
+.card {
+  margin-top: 1em;
+}
+```
+* Separación de reglas: Siempre dejar una linea en blanco entre bloques
+```CSS
+html {
+  background: #fff;
+}
+
+body {
+  margin: auto;
+  width: 50%;
+}
+```
+
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
@@ -3461,6 +3520,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 ## Video About-the-Team.
 
 # Bibliografía
+Google. (2017, 24 de febrero). _Google HTML/CSS Style Guide_. Google GitHub. Recuperado el 10 de setiembre de 2023, de [https://google.github.io/styleguide/htmlcssguide.html#Background](https://google.github.io/styleguide/htmlcssguide.html#Background) 
 
 # Anexos
 | Sección | Características del video | Sobre el contenido | Integración y entrega |
