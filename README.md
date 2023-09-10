@@ -780,6 +780,12 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
+
+**Segmento 1 (Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150310498148024370/To_BE_Turista_2023-09-06_01-35-05.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
 ## 3.2. User Stories.
 <table align="center"     border="1" width="90%" style="text-align:center;">
     <tr align="left">
