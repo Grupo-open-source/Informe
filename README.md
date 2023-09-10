@@ -3678,9 +3678,60 @@ Enlace del Trello: [Sprint Backlog 1 - Odyssey](https://trello.com/invite/b/Iea7
 #### 5.2.1.3. Development Evidence for Sprint Review.
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505490359521290/image.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505519610613850/image.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505588313305108/image.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505616247373884/image.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505751262023782/image.png" alt="landing 5" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505805636964403/image.png" alt="landing 6" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505819746619435/image.png" alt="landing 7" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Enlace de video: [Presentación de nuestra landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/ERIFnCXeRbJJk-LFHPHMZPIBLFQJDLfOYqvHoYDv7jWN7g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=7BoxQb)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para esta entrega no se ha implementado alguna API, ya que lo requerido fue el diseño de nuestra aplicación web y la primera versión de nuestra landing page. Por ello, el despliegue de nuestra landing page se puede acceder mediante el siguiente enlace: [https://odyssey-upc.github.io/TPlanner-landing-page/](https://odyssey-upc.github.io/TPlanner-landing-page/)
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Para el despliegue de la landing page se utilizaron las siguientes tecnologías
+*	Git: Nos permitió gestionar de manera eficiente todas las versiones de código y recursos utilizados en el proyecto del Landing Page. Con su capacidad para realizar seguimiento de cambios, fusionar ramas de desarrollo y resolver conflictos de manera efectiva, Git se convirtió en una herramienta esencial para mantener la coherencia y la integridad del código a lo largo del ciclo de vida del proyecto.
+*	GitHub: Esta plataforma nos permitió trabajar los distintos archivos y código de manera centralizada y colaborativa. GitHub facilitó la gestión de repositorios compartidos, lo que permitió a nuestro equipo mantener un registro detallado de todas las actualizaciones, comentarios y problemas relacionados con el proyecto del Landing Page. En última instancia, GitHub se convirtió en un componente fundamental de nuestra infraestructura de desarrollo y desempeñó un papel crucial en la colaboración eficiente y el éxito general de nuestro proyecto de Landing Page.
+* GitHub Pages fue esencial para la etapa de despliegue de nuestra Landing Page. Este servicio de GitHub nos brindó una forma sencilla y confiable de alojar y publicar nuestra página web de manera gratuita. Utilizamos GitHub Pages para crear una versión en vivo de nuestra Landing Page, lo que nos permitió compartir fácilmente el progreso del proyecto con otros miembros del equipo, interesados y partes interesadas externas.
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+La landing page fue creada aplicando la metología Gitflow, el cual ha permitido una distribución uniforme y el avance independiente de cada funcionalidad asignada a cada integrante del equipo. Además, Gitflow proporciona un marco sólido para la gestión de versiones y la implementación continua, lo que ha agilizado significativamente el proceso de desarrollo y despliegue. Gracias a esta metodología, hemos logrado mantener un flujo constante de entregas y actualizaciones, garantizando así que la landing page esté siempre actualizada y cumpla con las expectativas de nuestros usuarios.  
+
+* Evidencia de Gitflow durante el sprint 1:
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150513323104800858/image.png" alt="Gitflow" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+* Contribuciones de cada integrante del equipo:
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150513585068441750/image.png" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+</p>
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
