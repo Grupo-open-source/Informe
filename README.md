@@ -572,49 +572,7 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - ¿Recomendarías nuestra aplicación a otras personas? ¿Por qué?
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
-
-* **Entrevista 1** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
-  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: |  minutos
-  - Evidencia de la reunión: <br>
-    <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
-  - Resumen de la entrevista:
-
- * **Entrevista 2** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
-  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: |  minutos 
-  - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
-  - Resumen de la entrevista:
-
-* **Entrevista 3** 
-  - Nombres: Steve Roger
-  - Apellidos: Castillo Robles
-  - Edad: 22 años
-  - Region: Huaraz
-  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: [10:12](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=N1jhdA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjYxMi42N319) | 5 minutos  
-  - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://media.discordapp.net/attachments/1146643631516680222/1148819459054772264/image.png?width=1345&height=407" alt="Entrevista-Steve" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
-  - Resumen de la entrevista:
- Steve Roger Castillo Robles es un estudiante de Ingenieria de Software y trabaja a medio tiempo en el hotel "El Tumi". Nos cuenta que su servicio de hotelería, a parte del alojamiento, ofrece desayuno, almuerzo y cena. Además, promociona su servicio mediante bolantes en la plaza de armas y mediante colaboraciones con otras empresas de servicios turísticos. Una vez relatado sobre la aplicación, nos menciona que resultaría de mucha utilidad, pues ayudaría brindar visibilidad y un impulso a las pequeñas empresas turísticas.
-
-**Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+**Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
 
 * **Entrevista 1** 
   - Nombres:
@@ -659,6 +617,48 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
     </p>
   - Resumen de la entrevista:
   Adrian Martín Quito Igreda es un estudiante de Ingeniería Electrónica de la UPC. Nos cuenta que viaja una vez por año y que le gustaría viajar a lugares cerca a la costa. Asimismo nos cuenta que previo al viaje, se toma el tiempo para investigar sobre los distintos servicios turísticos de la localidad. Luego de conocer sobre nuestra aplicación, nos menciona que sería de gran utilidad pues se organizaría mas rápido siempre y cuando tenga una buena interfaz. Le gustaría tener una comunicación directa con la empresa se servicios turísticos, ya que de esta manera resolvería sus dudas e inconvenientes.
+
+**Segmento objetivo 2: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+
+* **Entrevista 1** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: |  minutos
+  - Evidencia de la reunión: <br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+ * **Entrevista 2** 
+  - Nombres:
+  - Apellidos: 
+  - Edad: años
+  - Distrito: 
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: |  minutos 
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+
+* **Entrevista 3** 
+  - Nombres: Steve Roger
+  - Apellidos: Castillo Robles
+  - Edad: 22 años
+  - Region: Huaraz
+  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+  - Timing y Duración: [10:12](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=N1jhdA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjYxMi42N319) | 5 minutos  
+  - Evidencia de la reunión:<br>
+    <p align="center">
+     <img src="https://media.discordapp.net/attachments/1146643631516680222/1148819459054772264/image.png?width=1345&height=407" alt="Entrevista-Steve" style="margin-bottom: 5px;" width="620px" align="center"/>
+    </p>
+  - Resumen de la entrevista:
+ Steve Roger Castillo Robles es un estudiante de Ingenieria de Software y trabaja a medio tiempo en el hotel "El Tumi". Nos cuenta que su servicio de hotelería, a parte del alojamiento, ofrece desayuno, almuerzo y cena. Además, promociona su servicio mediante bolantes en la plaza de armas y mediante colaboraciones con otras empresas de servicios turísticos. Una vez relatado sobre la aplicación, nos menciona que resultaría de mucha utilidad, pues ayudaría brindar visibilidad y un impulso a las pequeñas empresas turísticas.
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
