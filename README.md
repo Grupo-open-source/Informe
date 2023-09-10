@@ -121,10 +121,92 @@
 - [Anexos](#anexos)
 
 # Student Outcome
-| Criterio específico | Acciones realizadas | Conclusiones | 
-|---------------------|---------------------|--------------|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|||
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|||
+<table align="center" border="1" width="90%">
+
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+
+  <tr>
+    <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <b>Quito Igreda, Cristian Andrés</b> </br>
+      <b>TB1:</b> </br>
+      - Se realizó dos entrevistas a nuestros segmentos objetivos.</br>
+      <b>Esquivel Aguayo, Diego Martín</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Baldeon Fabian, Aldo Alberto</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos.</br>
+    </td>
+    <td>
+      - Las entrevistas desempeñaron un papel de gran relevancia en el proceso de construcción de los user personas. Además de ayudarnos a definir estos perfiles, estas conversaciones con los usuarios nos permitieron profundizar en su comprensión, identificando con precisión sus requerimientos y también sus perspectivas y opiniones en relación con producto de software.
+    </td>
+  </tr>
+
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+      <b>Quito Igreda, Cristian Andrés</b> </br>
+      <b>TB1:</b> </br>
+      - Se realizó Software Architecture Context Diagram.</br>
+      - Se realizó Software Architecture Container Diagrams.</br>
+      - Se realizó Software Architecture Components Diagrams.</br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Database Diagram.</br>
+      - Se realizó Class Dictionary.</br>
+      - Se realizó Class Diagrams.</br>
+      <b>Esquivel Aguayo, Diego Martín</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos</br>
+      - Se realizó User Personas.</br>
+      - Se realizó User Task Matrix.</br>
+      - Se realizó User Journey Mapping.</br>
+      - Se realizó Empathy Mapping.</br>
+      - Se realizó As-is Scenario Mapping.</br>
+      - Se realizó To-Be Scenario Mapping.</br>
+      - Se realizó una parte de las user Stories.</br>
+      <b>Baldeon Fabian, Aldo Alberto</b> </br>
+      <b>TB1:</b> </br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Lean UX Problem Statements.</br>
+      - Se realizó Lean UX Assumptions.</br>
+      - Se realizó Lean UX Hypothesis Statements.</br>
+      - Se realizó Lean UX Canvas.</br>
+      - Se realizó Análisis competitivo </br>
+      - Se realizó Estrategias y tácticas frente a competidores.</br>
+      <b>Cipriano Chumbes, Bruce Andres</b> </br>
+      <b>TB1:</b> </br>
+      - Se realizó una parte de las user Stories.</br>
+      - Se realizó Organization Systems.</br>
+      - Se redactó Labeling Systems.</br>
+      - Se realizó SEO Tags and Meta Tags</br>
+      - Se realizó Searching Systems.</br>
+      - Se realizó Navigation Systems.</br>
+      - Se realizó Landing Page Wireframe.</br>
+      - Se realizó Landing Page Mock-up.</br>
+      <b>Loarte Matos, Anthony Brahan</b> </br>
+      <b>TB1:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos</br>
+      - Se realizó Web Applications Wireframes.</br>
+      - Se realizó Web Applications Wireflow Diagrams.</br>
+      - Se realizó Web Applications Mock-ups.</br>
+      - Se realizó Web Applications User Flow Diagrams.</br>
+    </td>
+    <td>
+      - Con las secciones desarrolladas, podemos concluir que el trabajo en equipo, la división de trabajos y la verificación de las partes de cada integrante fueron crucial durante el proceso de documentación de nuestro proyecto.
+    </td>
+  </tr>
+</table>
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
