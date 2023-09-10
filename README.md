@@ -674,7 +674,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 
 **Segmento 2 (Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web):**<br> <br>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1146495098847244378/Adela_Garrido_2.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1146495098847244378/Adela_Garrido_2.png" alt="Segmento 2" style="margin-bottom: 3px;" width="780px">
 </p> 
 
 ### 2.3.2. User Task Matrix.
