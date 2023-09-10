@@ -55,10 +55,10 @@
   * [2.1. Competidores](#21-competidores)
     + [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     + [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-  * [2.2. Entrevistas.](#22-entrevistas)
-    + [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
-    + [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
-    + [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  * [2.2. s.](#22-s)
+    + [2.2.1. Diseño de s.](#221-diseño-de-s)
+    + [2.2.2. Registro de s.](#222-registro-de-s)
+    + [2.2.3. Análisis de s.](#223-análisis-de-s)
   * [2.3. Needfinding.](#23-needfinding)
     + [2.3.1. User Personas.](#231-user-personas)
     + [2.3.2. User Task Matrix.](#232-user-task-matrix)
@@ -134,7 +134,7 @@
     <td>
       <b>Quito Igreda, Cristian Andrés</b> </br>
       <b>TB1:</b> </br>
-      - Se realizó dos entrevistas a nuestros segmentos objetivos.</br>
+      - Se realizó dos s a nuestros segmentos objetivos.</br>
       <b>Esquivel Aguayo, Diego Martín</b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos.</br>
@@ -149,7 +149,7 @@
       - Se entrevistó a nuestros segmentos objetivos.</br>
     </td>
     <td>
-      - Las entrevistas desempeñaron un papel de gran relevancia en el proceso de construcción de los user personas. Además de ayudarnos a definir estos perfiles, estas conversaciones con los usuarios nos permitieron profundizar en su comprensión, identificando con precisión sus requerimientos y también sus perspectivas y opiniones en relación con producto de software.
+      - Las s desempeñaron un papel de gran relevancia en el proceso de construcción de los user personas. Además de ayudarnos a definir estos perfiles, estas conversaciones con los usuarios nos permitieron profundizar en su comprensión, identificando con precisión sus requerimientos y también sus perspectivas y opiniones en relación con producto de software.
     </td>
   </tr>
 
@@ -717,7 +717,9 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
     <p align="center">
      <img src="https://media.discordapp.net/attachments/991473069942120498/1150524794522054696/image.png?width=1111&height=567" alt="Aldo Baldeon" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
-  - Resumen de la entrevista:
+  - Resumen de la entrevista:<br>
+    Arturo Pizarro es un empresario experimentado en el sector de servicios turísticos, con 40 años de edad y residencia en el encantador distrito de Chorrillos en Lima. Arturo dirige una agencia turística que ofrece una amplia variedad de servicios, desde         visitas guiadas hasta alojamiento en hoteles boutique y comidas en restaurantes locales. Arturo se dedica por completo a su negocio y trabaja incansablemente para promocionar sus servicios a los turistas. Sin embargo, ha enfrentado desafíos                     significativos al tratar de expandir su negocio digitalemente. La idea de promocionar su negocio a través de una plataforma en línea que llegue a miles de usuarios y les ayude a crear itinerarios de viaje le resulta muy atractiva a Arturo. Ve esto como una 
+    oportunidad para aumentar la visibilidad de su agencia y llegar a un público más amplio. Cuando se le comento la idea de la plataforma Automovile-Unit y se le preguntó qué aspectos no le gustaría de una aplicación con estas características, Arturo mencionó     que le preocuparía la complejidad de uso y la posibilidad de recibir opiniones negativas de los usuarios. Sin embargo, le emociona la idea de tener una plataforma que le permita promocionar sus servicios turísticos a nivel nacional, ya que esto podría          ayudar a potenciar a empresas turísticas emergentes en el mercado. Arturo considera que una plataforma con estas capacidades sería beneficiosa tanto para empresas establecidas como para aquellas que están empezando. Además, está dispuesto a recomendar la       plataforma a otras personas, ya que ve un valor real en la posibilidad de promocionar su negocio de manera efectiva y llegar a un público más amplio. Arturo Pizarro representa a un empresario turístico que ve un gran potencial en la plataforma Automovile-      Unit y está dispuesto a aprovechar esta oportunidad para expandir su negocio y mejorar su visibilidad en el mercado.
 
  * **Entrevista 2** 
   - Nombres:
