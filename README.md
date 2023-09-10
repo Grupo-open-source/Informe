@@ -3709,6 +3709,17 @@ Para esta entrega no se ha implementado alguna API, ya que lo requerido fue el d
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+La landing page fue creada aplicando la metología Gitflow, el cual ha permitido una distribución uniforme y el avance independiente de cada funcionalidad asignada a cada integrante del equipo. Además, Gitflow proporciona un marco sólido para la gestión de versiones y la implementación continua, lo que ha agilizado significativamente el proceso de desarrollo y despliegue. Gracias a esta metodología, hemos logrado mantener un flujo constante de entregas y actualizaciones, garantizando así que la landing page esté siempre actualizada y cumpla con las expectativas de nuestros usuarios.  
+
+* Evidencia de Gitflow durante el sprint 1:
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150513323104800858/image.png" alt="Gitflow" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+* Contribuciones de cada integrante del equipo:
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150513585068441750/image.png" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+</p>
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
