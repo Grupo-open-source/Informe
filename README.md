@@ -661,9 +661,10 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
   Adrian Martín Quito Igreda es un estudiante de Ingeniería Electrónica de la UPC. Nos cuenta que viaja una vez por año y que le gustaría viajar a lugares cerca a la costa. Asimismo nos cuenta que previo al viaje, se toma el tiempo para investigar sobre los distintos servicios turísticos de la localidad. Luego de conocer sobre nuestra aplicación, nos menciona que sería de gran utilidad pues se organizaría mas rápido siempre y cuando tenga una buena interfaz. Le gustaría tener una comunicación directa con la empresa se servicios turísticos, ya que de esta manera resolvería sus dudas e inconvenientes.
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+**Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
 
-**Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+**Segmento objetivo 2: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
