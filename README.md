@@ -528,27 +528,7 @@ Sus objetivos y necesidades incluyen:
 ### 2.2.1. Diseño de entrevistas.
 En esta sección se definieron las preguntas más importantes para cada segmento objetivo con la finalidad de extraer las necesidades y opiniones del usuario. De esta manera, podremos desarrollar una aplicación que ayude a resolver las diversas problemáticas que afronta el cliente.
 
-**Segmento objetivo 1: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
-* **Preguntas Generales:**
-  - ¿Cuál es su nombre completo? 
-  - ¿Cuántos años tienes? 
-  - ¿Cuál es su estado civil? 
-  - ¿A qué te dedicas? ¿Trabajas? ¿Estudias? 
-  - ¿En qué ciudad resides?
- 
-* **Preguntas sobre el negocio**
-  - ¿Qué tipos de servicios ofrece?
-  - ¿Cómo promociona su servicio para los turistas?
-  - ¿Cuáles son las dificultades para expandir su negocio?
-  - ¿Te agradaría la posibilidad de promocionar tu negocio a miles de usuarios para que formen su itinerario de viajes?
-
-* **Preguntas después de contarle en qué consiste nuestra app**
-  - ¿Qué es lo que no le gustaría de una app con esas características?
-  - ¿Qué le gustaría de una app que le ayude a publicar sus servicios turísticos a un alcance nacional?
-  - ¿Cree qué un aplicativo con estas capacidades ayudaría a potenciar a empresas turísticas que recién se están adentrando en el mercado?
-  - ¿Recomendarías nuestra aplicación a otras personas? ¿Por qué?
- 
-**Segmento objetivo 2: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+**Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
 * **Preguntas Generales:**
   - ¿Cuál es su nombre completo? 
   - ¿Cuántos años tienes? 
@@ -571,6 +551,26 @@ En esta sección se definieron las preguntas más importantes para cada segmento
   - ¿Qué es lo que le gustaría de un aplicativo que ayude a organizar y adquirir servicios turísticos al instante?
   - ¿Qué es lo que no le gustaría de una app con esas características?
   - ¿Cree qué un aplicativo con estas capacidades ayudaría a mejorar la experiencia de viajes de millones de turistas que apenas conocen su lugar de destino?
+  - ¿Recomendarías nuestra aplicación a otras personas? ¿Por qué?
+
+**Segmento objetivo 2: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+* **Preguntas Generales:**
+  - ¿Cuál es su nombre completo? 
+  - ¿Cuántos años tienes? 
+  - ¿Cuál es su estado civil? 
+  - ¿A qué te dedicas? ¿Trabajas? ¿Estudias? 
+  - ¿En qué ciudad resides?
+ 
+* **Preguntas sobre el negocio**
+  - ¿Qué tipos de servicios ofrece?
+  - ¿Cómo promociona su servicio para los turistas?
+  - ¿Cuáles son las dificultades para expandir su negocio?
+  - ¿Te agradaría la posibilidad de promocionar tu negocio a miles de usuarios para que formen su itinerario de viajes?
+
+* **Preguntas después de contarle en qué consiste nuestra app**
+  - ¿Qué es lo que no le gustaría de una app con esas características?
+  - ¿Qué le gustaría de una app que le ayude a publicar sus servicios turísticos a un alcance nacional?
+  - ¿Cree qué un aplicativo con estas capacidades ayudaría a potenciar a empresas turísticas que recién se están adentrando en el mercado?
   - ¿Recomendarías nuestra aplicación a otras personas? ¿Por qué?
 
 ### 2.2.2. Registro de entrevistas.
