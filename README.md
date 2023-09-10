@@ -1002,7 +1002,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Suscripción vip
         </td>
     </tr>
     <tr align="left">
@@ -1016,7 +1016,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Diego Esquivel
         </td>
     </tr>
         <tr align="left">
@@ -1024,24 +1024,26 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Desarrollar versión free y premium
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> plataforma <b>queremos</b> implementar una versión gratuita y una versión de pago, <b>para</b> ofrecer más beneficios y una mejor experiencia.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b> Acceso a la versión vip</br>
+            <b>Dado</b> que el usuario esta registrado en la plataforma</br>
+            <b>Y</b> quiere tener una cuenta vip</br>
+            <b>Cuando</b> selecciona la opción de mejorar cuenta a vip</br>
+            <b>Y</b> realize la transacción requerida</br>
+            <b>Entonces</b>  el sistema le concederá al usuario la suscripción vip</br>
+            <b>Y</b> podrá acceder a las características y beneficios adicionales.</br>          
         </td>
-    </tr>
     </tr>
 </table>
 </br>
@@ -1174,7 +1176,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Suscripción vip
         </td>
     </tr>
     <tr align="left">
@@ -1188,7 +1190,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Diego Esquivel
         </td>
     </tr>
         <tr align="left">
@@ -1196,24 +1198,33 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Desarrollar sistema de acumulación de puntos
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> plataforma <b>queremos</b> implementar un sistema de acumulación de puntos por cada compra y actividad realizada en la plataforma, <b>para</b> ofrecer promociones y descuentos.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b> Acumulación de puntos por compra</br>
+            <b>Dado</b> que el usuario se encuentre registrado</br>
+            <b>Y</b> cuenta con una suscripción vip</br>
+            <b>Cuando</b> realice una compra de un servicio turístico en la plataforma</br>
+            <b>Entonces</b> acumulará una cierta cantidad de puntos en su cuenta de usuario</br></br>
+            <b>Scenario 02:</b> Acumulación de Puntos por Actividad</br>
+            <b>Dado</b> que el usuario se encuentre registrado</br>
+            <b>Y</b> cuenta con una suscripción vip</br>
+            <b>Cuando</b> realice una compra de un servicio turístico en la plataforma</br>
+            <b>Entonces</b> acumulará una cierta cantidad de puntos en su cuenta de usuario</br></br>          
+            <b>Scenario 03:</b> Uso de puntos</br>
+            <b>Dado</b> que el usuario posee puntos acumulados en su cuenta</br>
+            <b>Cuando</b> realice una nueva reserva o compra en la plataforma</br>
+            <b>Entonces</b> tendrá la opción de usar sus puntos acumulados para obtener descuentos o promociones en el precio total.</br>           
         </td>
-    </tr>
     </tr>
 </table>
 </br>
@@ -1313,7 +1324,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> turista <b>quiero</b> recibir alertas de la plataforma recordándome las próximas actividades de mi itinerario, <b>para</b> para que no pierda ninguna experiencia.
         </td>
     </tr>
     <tr align="left">
