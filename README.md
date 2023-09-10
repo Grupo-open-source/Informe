@@ -659,17 +659,19 @@ En esta sección se definieron las preguntas más importantes para cada segmento
 **Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
 
 * **Entrevista 1** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
+  - Nombres: Gabriel Sebastian
+  - Apellidos: Careño Campos
+  - Edad: 19 años
+  - Distrito: Cercado de Lima
   - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: |  minutos 
+  - Timing y Duración: [15:25](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=1pKqMc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjkyNS4xNn19) | 4 minutos 
   - Evidencia de la reunión:<br>
     <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
+     <img src="https://cdn.discordapp.com/attachments/1120134585896939531/1150443141451755552/Screenshot_18.png" alt="Entrevista-Gabriel" style="margin-bottom: 5px;" width="620px" align="center"/>
     </p>
   - Resumen de la entrevista:
+En la entrevista, Gabriel mencionó que cuando viaja, a menudo carece de conocimientos sobre las actividades turísticas disponibles en su destino. Por esta razón, suele realizar sus reservas de manera presencial, ya que le resulta complicado hacerlo en línea. Gabriel expresó su deseo de contar con una aplicación que le ofrezca horarios predefinidos de actividades turísticas o que le brinde herramientas para crear un itinerario personalizado. Además, le gustaría que esta aplicación le permitiera realizar reservas directamente desde la misma plataforma.
+
 
  * **Entrevista 2** 
   - Nombres: Agustín Alejandro.
