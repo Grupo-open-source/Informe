@@ -3232,9 +3232,20 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
+* Los diagramas C4, tanto el de base de datos como el de clases, ofrecen una perspectiva a alto y bajo nivel de las diversas entidades en nuestra aplicación y cómo están interconectadas entre sí.
+* La implementación del enfoque Lean UX en la comprensión de nuestra problemática y la concepción de nuestro concepto empresarial nos permitió llevar a cabo un análisis exhaustivo de nuestros competidores y definir claramente nuestros grupos de interés.
+* Las entrevistas realizadas desempeñaron un papel fundamental en la creación de perfiles de usuario (user personas) y en la identificación de sus necesidades y percepciones con respecto a la problemática mencionada.
+* La utilización de Github para la colaboración en equipo y la gestión de versiones resultó de suma relevancia, ya que logramos minimizar los obstáculos relacionados con las diferencias temporales y los problemas de compatibilidad entre las versiones.
+* La adopción del enfoque GitFlow contribuyó a aumentar la autonomía de las ramas y a asignarles responsabilidades específicas. Adicionalmente, nos brindó una comprensión más precisa y sólida de los commits a través de la convención de mensajes de Git commit.
+* Las Historias de Usuario nos permitieron conocer la perspectiva del usuario. Gracias a ello, hemos definido los criterios de aceptación para cada historia y de esta manera asegurarnos de su correcta implementación.
+* La inclusión de UXPRESSIA ha desempeñado un papel fundamental en nuestra metodología, proporcionándonos herramientas valiosas como perfiles de usuario y mapas de impacto. Estas herramientas nos han capacitado para explorar a fondo las necesidades de nuestros usuarios y para trazar de manera efectiva cómo nuestro producto puede generar un impacto positivo en sus vidas.
+* La aplicación de la metodología Scrum será trascendental para el desarrollo de nuestra aplicación, una buena documentación y la gestión de trabajos en equipo.
+* A través del análisis competitivo, nos permitió conocer nuestras fortalezas y aspectos en los que podemos mejorar. De ello, podremos ofrecer un servicio que aborda de manera completa las demandas de nuestra aplicación.
+
 ## Video About-the-Team.
 
 # Bibliografía
+
 # Anexos
 | Sección | Características del video | Sobre el contenido | Integración y entrega |
 |---------|---------------------------|--------------------|-----------------------|
