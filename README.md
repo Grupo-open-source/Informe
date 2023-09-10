@@ -133,10 +133,10 @@ Durante los últimos años, los viajes se han convertido en una parte esencial d
 Por eso, Odyssey prioriza brindar soluciones innovadoras y convenientes que permitan a los viajeros planificar sus itinerarios de viaje de una forma efectiva y en línea considerando sus preferencias y necesidades.  
 
 * **Misión de Odyssey:**  
-Tenemos por misión simplificar y enriquecer la planificación de viajes para todos los viajeros, ofreciendo herramientas personalizadas que garanticen una experiencia de viaje gratificante y memorables. Queremos eliminar los malos ratos en la planificación de viajes, permitiendo así a nuestros usuarios concentrarse en disfrutar cada momento de su aventura. 
+Tenemos por misión simplificar y enriquecer la planificación de viajes para todos los viajeros, ofreciendo herramientas personalizadas que garanticen una experiencia de viaje gratificante y memorables. Queremos eliminar los malos ratos en la planificación de viajes, permitiendo así a nuestros usrios concentrarse en disfrutar cada momento de su aventura. 
 
 * **Visión de Odyssey:**  
-Aspiramos a ser una empresa líder y respetada a nivel global en la industria del turismo y los viajes. Queremos transformar la forma en que las personas planifican sus viajes, ofreciendo una plataforma que se adapte a las necesidades de cada viajero a través de un enfoque centrado en el usuario. Permitiendo así la creación de recuerdos inolvidables.
+Aspiramos a ser una empresa líder y respetada a nivel global en la industria del turismo y los viajes. Queremos transformar la forma en que las personas planifican sus viajes, ofreciendo una plataforma que se adapte a las necesidades de cada viajero a través de un enfoque centrado en el usrio. Permitiendo así la creación de recuerdos inolvidables.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 <table>
@@ -167,7 +167,7 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
     <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1145421916413366426/1145446948267118775/Diego-Uchiha.png" alt="Diego Esquivel" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
-      Diego Martin Esquivel Aguayo
+      Diego Martin Esquivel Agyo
     </td>
   </tr>
   <tr>
@@ -969,7 +969,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Aldo Baldeon
         </td>
     </tr>
         <tr align="left">
@@ -977,25 +977,45 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Como usuario, quiero realizar pagos con distintos métodos para tener flexibilidad y comodidad al pagar por productos y servicios.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
-            <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Descripción:</b>
+              Suscripción vip                     
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
-            <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
-        </td>
-    </tr>
-    </tr>
+            Criterio de Aceptación:<br>
+            <b>Como</b> usuario, <b>quiero</b> realizar pagos con distintos métodos <b>para</b> tener flexibilidad y comodidad al pagar por productos y servicios.<br><br>
+            <b>Scenario 01:</b> Pago exitoso con tarjeta de crédito<br>
+            <b>Dado</b> que soy un usuario registrado en la plataforma.<br>
+            <b>Cuando</b> selecciono la opción de pagar por un producto o servicio.</br>
+            <b>Y</b> elijo la opción de pago con tarjeta de crédito.</br>
+            <b>Y</b> proporciono los detalles de mi tarjeta de crédito válida.</br>
+            <b>Entonces</b> el sistema procesa el pago con éxito y me muestra un comprobante de pago.<br><br>  
+            <b>Scenario 02:</b> Pago exitoso con PayPal<br>        
+            <b>Dado</b> que soy un usuario registrado en la plataforma.<br>
+            <b>Cuando</b> selecciono la opción de pagar por un producto o servicio.<br>
+            <b>Y</b> elijo la opción de pago con PayPal.<br>
+            <b>Y</b> soy redirigido al sitio web de PayPal para completar el pago.<br>
+            <b>Entonces</b> después de realizar el pago en PayPal, el sistema registra el pago con éxito y me muestra un comprobante de pago.<br><br>   
+            <b>Scenario 03:</b> Pago fallido con tarjeta de crédito inválida<br>
+            <b>Dado</b> que soy un usuario registrado en la plataforma.<br>
+            <b>Cuando</b> selecciono la opción de pagar por un producto o servicio.<br>
+            <b>Y</b> elijo la opción de pago con tarjeta de crédito.<br>
+            <b>Y</b> proporciono los detalles de una tarjeta de crédito inválida.<br><br>
+            <b>Scenario 04:</b> Pago fallido con saldo insuficiente en PayPal<br>
+            <b>Dado</b> que soy un usuario registrado en la plataforma.<br>
+            <b>Cuando</b> selecciono la opción de pagar por un producto o servicio.<br>
+            <b>Y</b> elijo la opción de pago con PayPal.<br>
+            <b>Y</b> soy redirigido al sitio web de PayPal para completar el pago.<br>
+            <b>Y</b> intento pagar, pero mi cuenta de PayPal no tiene saldo suficiente.<br>
+            <b>Entonces</b> después de intentar pagar en PayPal, el sistema muestra un mensaje de error indicando que el saldo en PayPal es insuficiente y no registra el pago.
+
+
 </table>
 </br>
 
@@ -1168,7 +1188,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Interacción y comunicación
         </td>
     </tr>
     <tr align="left">
@@ -1182,7 +1202,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Aldo Baldeon
         </td>
     </tr>
         <tr align="left">
@@ -1190,7 +1210,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Recibir notificaciones de actividades
         </td>
     </tr>
     <tr align="left">
@@ -1201,11 +1221,35 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
     </tr>
     <tr align="left">
         <td colspan=4>
-            <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+ <b>Scenario 01:</b> Configuración de alertas<br>
+            <b>Dado</b> que soy un turista registrado en la plataforma.<br>
+            <b>Cuando</b> ingreso a mi perfil.<br>
+            <b>Y</b> accedo a la sección de configuración de notificaciones.<br>
+            <b>Entonces</b> puedo habilitar o deshabilitar las alertas de actividades según mi preferencia.<br><br>
+            <b>Scenario 02:</b> Recepción de alertas<br>
+            <b>Dado</b> que soy un turista registrado en la plataforma.<br>
+            <b>Cuando</b> agrego actividades a mi itinerario y establezco horarios para ellas.<br> 
+            <b>Entonces</b> recibiré automáticamente alertas de recordatorio en la aplicación y, opcionalmente, a través de notificaciones push en mi dispositivo móvil.<br><br>
+            <b>Scenario 03:</b> Contenido de las alertas<br>
+            <b>Dado</b> que soy un turista registrado en la plataforma y he configurado alertas.<br>
+            <b>Cuando</b> se acerque la hora de una actividad en mi itinerario.<br>
+            <b>Entonces</b> recibiré una alerta que incluye información relevante sobre la actividad, como el nombre de la actividad, la hora de inicio y una breve descripción.<br><br>
+            <b>Scenario 04:</b> Opciones de recordatorio<br>
+            <b>Dado</b> que soy un turista registrado en la plataforma y he configurado alertas.<br>
+            <b>Cuando</b> reciba una alerta de recordatorio.<br>
+            <b>Entonces</b> tendré la opción de posponer el recordatorio por un tiempo específico o marcar la actividad como "completada" si ya la he realizado.<br><br>
+            <b>Scenario 05:</b> Visualización de actividades programadas<br>
+            <b>Dado</b> que soy un turista registrado en la plataforma.<br>
+            <b>Cuando</b> abro la aplicación en cualquier momento.<br>
+            <b>Entonces</b> puedo acceder a una lista de mis próximas actividades programadas en mi itinerario junto con sus respectivas alertas de recordatorio.<br><br>
+            <b>Scenario 06:</b> Ajuste de recordatorios<br>
+            <b>Dado</b> que soy un turista registrado en la plataforma.<br>
+            <b>Cuando</b> cambio la hora o la fecha de una actividad en mi itinerario.<br>
+            <b>Entonces</b> la plataforma ajustará automáticamente la alerta de recordatorio para reflejar los cambios realizados en la actividad.<br><br>
+            <b>Scenario 07:</b> Detección de cambios en actividades<br>
+            <b>Dado</b> que soy un turista registrado en la plataforma.<br>
+            <b>Cuando</b> un proveedor de servicios turísticos o una actividad en mi itinerario experimenten cambios inesperados, como la cancelación de una actividad.<br>
+            <b>Entonces</b> la plataforma me notificará de estos cambios para que pueda tomar medidas adecuadas.        
         </td>
     </tr>
     </tr>
@@ -1274,7 +1318,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Descubrimiento de experiencias
         </td>
     </tr>
     <tr align="left">
@@ -1288,7 +1332,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Aldo Baldeon
         </td>
     </tr>
         <tr align="left">
@@ -1296,23 +1340,67 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Explorar paquetes de viaje
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+             <b>Como</b> turista <b>quiero</b> recibir alertas de la plataforma recordándome las próximas actividades de mi itinerario,<b> para</b> que no pierda ninguna experencia
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
-        </td>
+            <p><b>Scenario 01:</b> Visualización de la lista de paquetes predeterminados</p>
+<p>
+    <b>Dado</b> que soy un turista registrado en la plataforma.<br>
+    <b>Cuando</b> ingreso a la sección de "Paquetes de Viaje" en la aplicación.<br>
+    <b>Entonces</b> puedo ver una lista de paquetes de viaje predeterminados disponibles para diferentes destinos.
+</p>
+
+<p><b>Scenario 02:</b> Detalles del paquete</p>
+<p>
+    <b>Dado</b> que soy un turista registrado en la plataforma y he seleccionado un paquete de viaje.<br>
+    <b>Cuando</b> hago clic en un paquete de viaje específico.<br>
+    <b>Entonces</b> se me mostrarán detalles completos del paquete, que incluyen la descripción del viaje, el itinerario, las fechas disponibles, el precio y las actividades incluidas.
+</p>
+
+<p><b>Scenario 03:</b> Filtrado y ordenación de la lista</p>
+<p>
+    <b>Dado</b> que soy un turista registrado en la plataforma.<br>
+    <b>Cuando</b> visualizo la lista de paquetes de viaje predeterminados.<br>
+    <b>Entonces</b> tengo la capacidad de filtrar y ordenar los paquetes por destino, precio, duración y otros criterios relevantes.
+</p>
+
+<p><b>Scenario 04:</b> Búsqueda de paquetes por destino</p>
+<p>
+    <b>Dado</b> que soy un turista registrado en la plataforma.<br>
+    <b>Cuando</b> deseo encontrar paquetes de viaje para un destino específico.<br>
+    <b>Entonces</b> puedo utilizar una función de búsqueda para encontrar paquetes que se ajusten a mi destino de preferencia.
+</p>
+
+<p><b>Scenario 05:</b> Seleccionar un paquete de viaje</p>
+<p>
+    <b>Dado</b> que soy un turista registrado en la plataforma y he encontrado un paquete que me interesa.<br>
+    <b>Cuando</b> selecciono un paquete de viaje específico.<br>
+    <b>Entonces</b> tengo la opción de agregar ese paquete a mi lista de deseos para una consideración posterior o proceder a la reserva.
+</p>
+
+<p><b>Scenario 06:</b> Reserva de un paquete de viaje</p>
+<p>
+    <b>Dado</b> que soy un turista registrado en la plataforma y he seleccionado un paquete de viaje para reservar.<br>
+    <b>Cuando</b> procedo con la reserva.<br>
+    <b>Entonces</b> se me guiará a través de un proceso de reserva que incluye proporcionar información personal, seleccionar fechas y realizar el pago.
+</p>
+
+<p><b>Scenario 07:</b> Confirmación de reserva</p>
+<p>
+    <b>Dado</b> que soy un turista registrado en la plataforma y he completado el proceso de reserva.<br>
+    <b>Cuando</b> finalizo la reserva.<br>
+    <b>Entonces</b> recibiré una confirmación de reserva que incluye detalles completos del paquete y los próximos pasos a seguir.
+</p>
+ </td>
     </tr>
     </tr>
 </table>
