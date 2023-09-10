@@ -3672,7 +3672,39 @@ Enlace del Trello: [Sprint Backlog 1 - Odyssey](https://trello.com/invite/b/Iea7
 #### 5.2.1.3. Development Evidence for Sprint Review.
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+Para este primer sprint, se pudo desarrollar la primera versión de nuestra landing page con su despligue con GithubPages. A continuación se mostrará capturas de las secciones de nuestra landing page.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505490359521290/image.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505519610613850/image.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505588313305108/image.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505616247373884/image.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505751262023782/image.png" alt="landing 5" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505805636964403/image.png" alt="landing 6" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505819746619435/image.png" alt="landing 7" style="margin-bottom: 3px;" width="1080px">
+</p>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para esta entrega no se ha implementado alguna API, ya que lo requerido fue el diseño de nuestra aplicación web y la primera versión de nuestra landing page.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
