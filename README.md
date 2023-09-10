@@ -3381,6 +3381,23 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+En esta sección, nuestro equipo de desarrollo brindará una descripción detallada de las herramientas de software que empleamos para colaborar en todas las fases del ciclo de vida de nuestro producto digital. Proporcionaremos información sobre los nombres de las herramientas, su propósito y dónde se pueden encontrar o consultar.
+
+- Whatsapp:  Aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, voz, imágenes y videos a través de Internet. Es ampliamente utilizada para la comunicación personal y empresarial.
+- Discord: Plataforma de comunicación en línea que combina chat de texto, voz y video. Es popular en la comunidad de jugadores, pero también se utiliza para la comunicación en grupos y equipos.
+- Google Drive: Servicio de almacenamiento en la nube de Google que permite a los usuarios almacenar y compartir archivos en línea. También ofrece herramientas de colaboración, como Google Docs y Google Sheets.
+- GitHub: Plataforma de desarrollo colaborativo que utiliza el control de versiones Git. Se utiliza principalmente para alojar y gestionar proyectos de software, facilitando la colaboración entre desarrolladores.
+- Visual Studio Code: Editor de código fuente gratuito y de código abierto desarrollado por Microsoft. Es ampliamente utilizado por programadores y desarrolladores para escribir y depurar código.
+- Uxpressia: Herramienta de diseño de experiencia de usuario (UX) que ayuda a crear mapas de viaje del usuario, personas y otros recursos para diseñadores y equipos de desarrollo.
+- Vertabelo: Plataforma de diseño y modelado de bases de datos en línea que permite a los usuarios crear diagramas de bases de datos y colaborar en su diseño.
+- LucidChart: Herramienta de diagramación en línea que permite crear diagramas, flujos de trabajo y gráficos. Se utiliza para visualizar procesos y conceptos.
+- Figma: Aplicación de diseño de interfaz de usuario basada en la nube que permite a los diseñadores colaborar en tiempo real en proyectos de diseño web y de aplicaciones.
+- Trello: Herramienta de gestión de proyectos basada en tarjetas y tableros. Facilita la organización de tareas y proyectos, así como la colaboración en equipo.
+- Structurizr: Herramienta de modelado de arquitectura de software que ayuda a los equipos a documentar y visualizar la arquitectura de sus sistemas.
+- Canvas: Plataforma en línea que permite a los usuarios crear gráficos, diseños y presentaciones de manera sencilla, con una amplia variedad de plantillas y elementos gráficos predefinidos.
+
+
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
 Para el desarrollo de nuestra landing page, hemos establecido seguir con las convenciones de Google en el formato de HTML y CSS (Google, 2017). Algunas de ellas son:
