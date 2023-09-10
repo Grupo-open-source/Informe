@@ -755,6 +755,12 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 </p> 
 
 ### 2.3.4. Empathy Mapping.
+
+**Segmento 1 (Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150295408384409650/Francisco_Ferre.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
 ### 2.3.5. As-is Scenario Mapping.
 
 # Capítulo III: Requirements Specification
