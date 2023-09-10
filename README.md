@@ -740,6 +740,12 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 
 
 ### 2.3.3. User Journey Mapping.
+
+**Segmento 1 (Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado):**<br> <br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150253056009715732/User_Journey_Map_1.png" alt="Segmento 1" style="margin-bottom: 3px;" width="780px">
+</p>
+
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 
