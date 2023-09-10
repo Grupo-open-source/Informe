@@ -353,37 +353,31 @@ Por lo tanto, el desafío clave radica en cómo brindar a los viajeros una soluc
 
 ## 1.3. Segmentos objetivo
 
-El segmento objetivo de la startup se divide en dos categorías principales: las "Empresas que Brindan Servicios Turísticos" y "Turistas entre 18 y más años de Edad". La aplicación que están desarrollando tiene como objetivo ser un intermediario eficiente y seguro entre estos dos grupos para facilitar el proceso de alquiler de automóviles.
+El segmento objetivo de la startup se divide en dos categorías principales: los "Turistas" y las "Empresas que brindan servicios turísticos".Los turistas podrán explorar y seleccionar servicios turísticos proporcionados por las empresas, además de crear sus itinerarios de viaje personalizados o escoger uno ya predeterminado, mientras que las empresas podrán publicar sus servicios para que los turistas los elijan.
 
-### Empresas que Brindan Servicios Turísticos y Alojamiento:
+### Turistas:
+Este segmento se compone de turistas que tienen 18 años o más y buscan itinerarios de viaje tanto predeterminados como personalizados. También incluimos a personas que viajan por trabajo, lo que a menudo se conoce como viajes de negocios. Estos viajeros, que pueden ser ejecutivos, representantes de ventas, consultores u otros profesionales, tienen necesidades y objetivos específicos relacionados con su trabajo durante el viaje.
+ 
+Sus objetivos y necesidades incluyen:
+ 
+- Búsqueda de Experiencias: Estos turistas buscan experiencias únicas y memorables en sus viajes. Desean explorar destinos, actividades y alojamientos que se adapten a sus intereses personales.
+   
+- Flexibilidad en Itinerarios: Algunos turistas pueden preferir itinerarios predeterminados que les ahorren tiempo en la planificación, mientras que otros pueden buscar opciones altamente personalizadas que les permitan diseñar su viaje a medida.
+   
+- Interacción con Locales: Muchos de estos turistas valoran las experiencias locales auténticas y desean interactuar con la cultura y la comunidad de sus destinos.
+ 
+- Viajes Planificados: A menudo, estos viajeros tienen itinerarios de viaje más estructurados y planificados, que pueden incluir reuniones, conferencias, presentaciones u otras actividades relacionadas con el trabajo.
+
+### Empresas que brindan servicios turísticos y alojamiento:
 Este segmento se centra en empresas que operan en la industria turística, incluyendo agencias turísticas, hoteles y restaurantes. Estas empresas desean promocionar sus servicios y alojamientos en línea para llegar a un público más amplio y diverso.
 
 Sus objetivos y necesidades incluyen:
 
-- Expansión en Línea: Muchas de estas empresas buscan expandir su presencia en línea y llegar a nuevos clientes a través de plataformas digitales. Desean aprovechar las oportunidades que   ofrece internet para promocionar sus servicios de manera efectiva.
+- Expansión en Línea: Muchas de estas empresas buscan expandir su presencia en línea y llegar a nuevos clientes a través de plataformas digitales. Desean aprovechar las oportunidades que ofrece internet para promocionar sus servicios de manera efectiva.
 
-- Visibilidad y Promoción: La visibilidad en línea es esencial para estas empresas. Quieren destacar entre la competencia y atraer a turistas y viajeros que buscan experiencias únicas. 
-  Necesitan herramientas y canales para promocionar sus ofertas y destacar sus servicios.
+- Visibilidad y Promoción: La visibilidad en línea es esencial para estas empresas. Quieren destacar entre la competencia y atraer a turistas y viajeros que buscan experiencias únicas. Necesitan herramientas y canales para promocionar sus ofertas y destacar sus servicios.
 
-- Personalización de Ofertas: Para brindar experiencias excepcionales a los viajeros, estas empresas buscan personalizar sus ofertas y servicios de acuerdo con las preferencias y  
-  necesidades de los clientes. Buscan herramientas que les permitan adaptar sus servicios de manera efectiva.
-
- ### Turistas entre 18 y más años de Edad:
- Este segmento se compone de turistas que tienen 18 años o más y buscan itinerarios de viaje tanto predeterminados como personalizados. También incluimos a personas que viajan por     
- trabajo, lo que a menudo se conoce como viajes de negocios. Estos viajeros, que pueden ser ejecutivos, representantes de ventas, consultores u otros profesionales, tienen necesidades y   objetivos específicos relacionados con su trabajo durante el viaje.
- 
- Sus objetivos y necesidades incluyen:
- 
- - Búsqueda de Experiencias: Estos turistas buscan experiencias únicas y memorables en sus viajes. Desean explorar destinos, actividades y alojamientos que se adapten a sus intereses 
-   personales.
-   
- - Flexibilidad en Itinerarios: Algunos turistas pueden preferir itinerarios predeterminados que les ahorren tiempo en la planificación, mientras que otros pueden buscar opciones 
-   altamente personalizadas que les permitan diseñar su viaje a medida.
-   
- - Interacción con Locales: Muchos de estos turistas valoran las experiencias locales auténticas y desean interactuar con la cultura y la comunidad de sus destinos.
- 
- - Viajes Planificados: A menudo, estos viajeros tienen itinerarios de viaje más estructurados y planificados, que pueden incluir reuniones, conferencias, presentaciones u otras          
-   actividades relacionadas con el trabajo.
+- Personalización de Ofertas: Para brindar experiencias excepcionales a los viajeros, estas empresas buscan personalizar sus ofertas y servicios de acuerdo con las preferencias y necesidades de los clientes. Buscan herramientas que les permitan adaptar sus servicios de manera efectiva.
 
   
 # Capítulo II: Requirements Elicitation & Analysis
