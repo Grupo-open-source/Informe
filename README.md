@@ -3384,21 +3384,43 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 
 En esta sección, nuestro equipo de desarrollo brindará una descripción detallada de las herramientas de software que empleamos para colaborar en todas las fases del ciclo de vida de nuestro producto digital. Proporcionaremos información sobre los nombres de las herramientas, su propósito y dónde se pueden encontrar o consultar.
 
-- Whatsapp:  Aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, voz, imágenes y videos a través de Internet. Es ampliamente utilizada para la comunicación personal y empresarial.
-- Discord: Plataforma de comunicación en línea que combina chat de texto, voz y video. Es popular en la comunidad de jugadores, pero también se utiliza para la comunicación en grupos y equipos.
-- Google Drive: Servicio de almacenamiento en la nube de Google que permite a los usuarios almacenar y compartir archivos en línea. También ofrece herramientas de colaboración, como Google Docs y Google Sheets.
-- GitHub: Plataforma de desarrollo colaborativo que utiliza el control de versiones Git. Se utiliza principalmente para alojar y gestionar proyectos de software, facilitando la colaboración entre desarrolladores.
-- Visual Studio Code: Editor de código fuente gratuito y de código abierto desarrollado por Microsoft. Es ampliamente utilizado por programadores y desarrolladores para escribir y depurar código.
-- Uxpressia: Herramienta de diseño de experiencia de usuario (UX) que ayuda a crear mapas de viaje del usuario, personas y otros recursos para diseñadores y equipos de desarrollo.
-- Vertabelo: Plataforma de diseño y modelado de bases de datos en línea que permite a los usuarios crear diagramas de bases de datos y colaborar en su diseño.
-- LucidChart: Herramienta de diagramación en línea que permite crear diagramas, flujos de trabajo y gráficos. Se utiliza para visualizar procesos y conceptos.
-- Figma: Aplicación de diseño de interfaz de usuario basada en la nube que permite a los diseñadores colaborar en tiempo real en proyectos de diseño web y de aplicaciones.
-- Trello: Herramienta de gestión de proyectos basada en tarjetas y tableros. Facilita la organización de tareas y proyectos, así como la colaboración en equipo.
-- Structurizr: Herramienta de modelado de arquitectura de software que ayuda a los equipos a documentar y visualizar la arquitectura de sus sistemas.
-- Canvas: Plataforma en línea que permite a los usuarios crear gráficos, diseños y presentaciones de manera sencilla, con una amplia variedad de plantillas y elementos gráficos predefinidos.
+- <b>Whatsapp:</b>  Aplicación de mensajería instantánea que permite a los usuarios enviar mensajes de texto, voz, imágenes y videos a través de Internet. Es ampliamente utilizada para la comunicación personal y empresarial.
+- <b>Discord:</b> Plataforma de comunicación en línea que combina chat de texto, voz y video. Es popular en la comunidad de jugadores, pero también se utiliza para la comunicación en grupos y equipos.
+- <b>Google</b> Drive: Servicio de almacenamiento en la nube de Google que permite a los usuarios almacenar y compartir archivos en línea. También ofrece herramientas de colaboración, como Google Docs y Google Sheets.
+- <b>GitHub:</b> Plataforma de desarrollo colaborativo que utiliza el control de versiones Git. Se utiliza principalmente para alojar y gestionar proyectos de software, facilitando la colaboración entre desarrolladores.
+- <b>Visual Studio Code:</b> Editor de código fuente gratuito y de código abierto desarrollado por Microsoft. Es ampliamente utilizado por programadores y desarrolladores para escribir y depurar código.
+- <b>Uxpressia:</b> Herramienta de diseño de experiencia de usuario (UX) que ayuda a crear mapas de viaje del usuario, personas y otros recursos para diseñadores y equipos de desarrollo.
+- <b>Vertabelo:</b> Plataforma de diseño y modelado de bases de datos en línea que permite a los usuarios crear diagramas de bases de datos y colaborar en su diseño.
+- <b>LucidChart:</b> Herramienta de diagramación en línea que permite crear diagramas, flujos de trabajo y gráficos. Se utiliza para visualizar procesos y conceptos.
+- <b>Figma:</b> Aplicación de diseño de interfaz de usuario basada en la nube que permite a los diseñadores colaborar en tiempo real en proyectos de diseño web y de aplicaciones.
+- <b>Trello:</b> Herramienta de gestión de proyectos basada en tarjetas y tableros. Facilita la organización de tareas y proyectos, así como la colaboración en equipo.
+- <b>Structurizr:</b> Herramienta de modelado de arquitectura de software que ayuda a los equipos a documentar y visualizar la arquitectura de sus sistemas.
+- <b>Canvas:</b> Plataforma en línea que permite a los usuarios crear gráficos, diseños y presentaciones de manera sencilla, con una amplia variedad de plantillas y elementos gráficos predefinidos.
 
 
 ### 5.1.2. Source Code Management.
+
+Para facilitar la gestión colaborativa del código fuente en nuestro equipo, hemos optado por emplear Git y GitHub como sistema de control de versiones para nuestro proyecto. En este proceso, vamos a aplicar la metodología conocida como GitFlow, la cual nos permitirá colaborar de manera eficiente y ágil, siguiendo las convenciones y mejores prácticas.
+
+Dentro de la estructura de GitFlow, contaremos con las siguientes ramas:
+
+- <b>Main:</b> Esta rama principal contendrá la versión estable y funcional de nuestro proyecto, representando el estado de producción.
+
+- <b>Develop:</b> En la rama de desarrollo, trabajaremos en las nuevas características y mejoras planificadas para el proyecto. Aquí se fusionarán las diversas contribuciones del equipo antes de avanzar hacia la rama principal.
+
+- <b>Feature:</b> Las ramas de características se utilizarán para implementar nuevas funcionalidades o mejoras específicas. Cada característica se desarrollará en su propia rama y se fusionará con la rama de desarrollo una vez completada.
+
+- <b>Release:</b> Las ramas de versión nos permitirán preparar el proyecto para su lanzamiento. Aquí se corregirán los últimos problemas y se realizarán ajustes finales antes de la fusión con la rama principal.
+
+- <b>Hotfix:</b> En caso de que surjan problemas críticos en producción, crearemos ramas de hotfix para abordar y resolver estos problemas de manera urgente.
+
+- <b>Fix:</b> Adicionalmente, las ramas de corrección (fix) se utilizarán para solucionar problemas no críticos o errores menores que se descubran en el desarrollo regular.
+
+Este enfoque de flujo de trabajo con Git y GitHub nos ayudará a mantener un control efectivo de nuestras versiones y a colaborar de manera más eficiente en nuestro proyecto. </br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150483852213624864/git-workflow-release-cycle-4maintenance.png" alt="GitFlow" style="margin-bottom: 3px;" width="780px">
+</p>
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 Para el desarrollo de nuestra landing page, hemos establecido seguir con las convenciones de Google en el formato de HTML y CSS (Google, 2017). Algunas de ellas son:
 * Uso de etiquetas HTML en minúsculas: Las etiquetas HTML deben escribirse en minúsculas para mantener la consistencia y el cumplimiento con las especificaciones.
