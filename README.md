@@ -891,7 +891,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            01
+            US01
         </td>
         <td>
             <b>Owner</b>
@@ -950,7 +950,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            02
+            US02
         </td>
         <td>
             <b>Owner</b>
@@ -1519,7 +1519,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Descubrimiento de experiencias
         </td>
     </tr>
     <tr align="left">
@@ -1533,7 +1533,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Aldo Baldeon 
         </td>
     </tr>
         <tr align="left">
@@ -1541,22 +1541,34 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Visualizar vista previa de la actividad
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b> turista <b>quiero</b> tener la opción de ver fotos y videos de las actividades y destinos <b>para</b> obtener una vista previa visual de lo que me espera.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b>Visualización de fotos de actividades y destinos</br>
+            <b>Dado</b>  que el turista se encuentra en la página de detalles de una actividad o destino </br>
+            <b>Cuando</b>el turista haga clic en la sección de fotos </br>
+            <b>Entonces</b> la plataforma mostrará una galería de fotos relacionadas con esa actividad o destino.  </br> </br> 
+            <b>Scenario 02:</b>Visualización de videos de actividades y destinos</br>
+            <b>Dado</b> que el turista se encuentra en la página de detalles de una actividad o destino </br>
+            <b>Cuando</b> el turista haga clic en la sección de videos </br>
+            <b>Entonces</b> la plataforma mostrará videos relacionados con esa actividad o destino, si están disponibles.  </br> </br> 
+            <b>Scenario 03:</b>Navegación de fotos y videos</br>
+            <b>Dado</b> que el turista se encuentra viendo una galería de fotos o videos </br>
+            <b>Cuando</b> el turista haga clic en una foto o video </br>
+            <b>Entonces</b> la plataforma ampliará la imagen o reproducirá el video en una ventana emergente para una visualización más detallada  </br> </br>
+            <b>Scenario 04:</b>Navegación de fotos y videos</br>
+            <b>Dado</b> que el turista se encuentra viendo una galería de fotos o videos </br>
+            <b>Cuando</b> el turista haga clic en una foto o video </br>
+            <b>Entonces</b> la plataforma ampliará la imagen o reproducirá el video en una ventana emergente para una visualización más detallada  </br> </br>
         </td>
     </tr>
     </tr>
@@ -1577,7 +1589,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            12
+            US12
         </td>
         <td>
             <b>Owner</b>
@@ -1625,7 +1637,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Descubrimiento de experiencias
         </td>
     </tr>
     <tr align="left">
@@ -1639,7 +1651,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Aldo Baldeon
         </td>
     </tr>
         <tr align="left">
@@ -1647,22 +1659,42 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+             Filtrar según fecha y destino
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b>turista<b>quiero</b>poder ingresar mi destino y fecha en el filtro<b>para</b>recibir recomendaciones de itinerarios.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b>Filtro por destino y fecha exitoso</br>
+            <b>Dado</b> que el turista se encuentra en la página de búsqueda de itinerarios </br>
+            <b>Cuando</b> el turista ingrese un destino válido en el campo de destino </br>
+            <b>Y</b>> seleccione una fecha válida en el campo de fecha </br>
+            <b>Y</b> haga clic en el botón "Buscar" </br>
+            <b>Entonces</b> la plataforma mostrará una lista de itinerarios recomendados para ese destino y fecha específicos.</br></br>   
+            <b>Scenario 02:</b>Filtro por destino inválido</br>
+            <b>Dado</b> que el turista se encuentra en la página de búsqueda de itinerarios </br>
+            <b>Cuando</b> el turista ingrese un destino válido en el campo de destino </br>
+            <b>Y</b>> seleccione una fecha válida en el campo de fecha </br>
+            <b>Y</b> haga clic en el botón "Buscar" </br>
+            <b>Entonces</b>  la plataforma mostrará un mensaje de error indicando que el destino ingresado no es válido. </br></br>   
+            <b>Scenario 03:</b>Filtro por fecha pasada</br>
+            <b>Dado</b> que el turista se encuentra en la página de búsqueda de itinerarios </br>
+            <b>Cuando</b> el turista ingrese un destino válido en el campo de destino </br>
+            <b>Y</b>  seleccione una fecha que ya ha pasado en el campo de fecha </br>
+            <b>Y</b> haga clic en el botón "Buscar" </br>
+            <b>Entonces</b> la plataforma mostrará un mensaje de error indicando que la fecha seleccionada es inválida. </br></br>  
+            <b>Scenario 04:</b>Filtro sin resultados</br>
+            <b>Dado</b> que el turista se encuentra en la página de búsqueda de itinerarios </br>
+            <b>Cuando</b> el turista ingrese un destino válido en el campo de destino </br>
+            <b>Y</b>>  seleccione una fecha válida en el campo de fecha </br>
+            <b>Y</b> haga clic en el botón "Buscar" </br>
+            <b>Entonces</b> la plataforma mostrará un mensaje indicando que no se encontraron itinerarios para el destino y la fecha especificados. </br>   
         </td>
     </tr>
     </tr>
@@ -1683,7 +1715,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            14
+            US14
         </td>
         <td>
             <b>Owner</b>
@@ -1738,7 +1770,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            15
+            US15
         </td>
         <td>
             <b>Owner</b>
@@ -1793,7 +1825,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            16
+            US16
         </td>
         <td>
             <b>Owner</b>
@@ -1848,7 +1880,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            17
+            US17
         </td>
         <td>
             <b>Owner</b>
@@ -1907,7 +1939,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            18
+            US18
         </td>
         <td>
             <b>Owner</b>
@@ -1962,7 +1994,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            19
+            US19
         </td>
         <td>
             <b>Owner</b>
@@ -2190,7 +2222,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Aldo Baldeon
         </td>
     </tr>
         <tr align="left">
@@ -2198,22 +2230,49 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Personalizar itinerario de viaje
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b>turista<b>quiero</b>poder crear y personalizar mi propio itinerario de viaje <b>para</b> que mi experiencia sea más ajustada a mis planes.
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b>Creación exitosa de un itinerario personalizado</br>
+            <b>Dado</b> que el turista se encuentra en la página de creación de itinerario</br>
+            <b>Cuando</b>el turista seleccione la opción de crear un itinerario personalizado </br>
+            <b>Y</b> ingrese el destino, la fecha y la duración del viaje </br>
+            <b>Y</b>  agregue actividades y lugares de interés a su itinerario </br>
+            <b>Y</b>   confirme la creación del itinerario </br>
+            <b>Entonces</b> el sistema creará el itinerario personalizado con los detalles proporcionados y las actividades seleccionadas. </br> </br>   
+            <b>Scenario 02:</b>Agregar actividades a un itinerario existente</br>
+            <b>Dado</b> Agregar actividades a un itinerario existente </br>
+            <b>Cuando</b> el turista seleccione la opción de agregar una actividad adicional a ese itinerario </br>
+            <b>Y</b> elija una actividad y confirme su elección </br>
+            <b>Y</b>  el sistema agregará la actividad al itinerario existente. </br></br>
+            <b>Scenario 03:</b>Editar un itinerario existente</br>
+            <b>Dado</b> que el turista se encuentra viendo un itinerario existente </br>
+            <b>Cuando</b> el turista seleccione la opción de editar ese itinerario </br>
+            <b>Y</b> realice cambios en el destino, la fecha, la duración o las actividades del itinerario </br>
+            <b>Y</b> confirme los cambios realizados </br>
+            <b>Y</b> el sistema actualizará el itinerario existente con los nuevos detalles y actividades. </br></br>
+            <b>Scenario 04:</b>Eliminar actividades de un itinerario existente</br>
+            <b>Dado</b> que el turista se encuentra viendo un itinerario existente </br>
+            <b>Cuando</b> el turista seleccione la opción de eliminar una actividad del itinerario </br>
+            <b>Y</b> el turista seleccione la opción de eliminar una actividad del itinerario </br>
+            <b>Entonces</b> el sistema quitará la actividad del itinerario existente. </br></br>
+            <b>Scenario 05:</b> Creación de itinerario sin destino válido</br>
+            <b>Dado</b> que el turista se encuentra en la página de creación de itinerario </br>
+            <b>Cuando</b> el turista intente crear un itinerario sin especificar un destino válido </br>
+            <b>Entonces</b> el sistema mostrará un mensaje de error indicando que se debe ingresar un destino válido. </br></br>
+            <b>Scenario 06:</b> Creación de itinerario sin actividades</br>
+            <b>Dado</b>  que el turista se encuentra en la página de creación de itinerario </br>
+            <b>Cuando</b>  que el turista se encuentra en la página de creación de itinerario </br>
+            <b>Entonces</b> el sistema mostrará un mensaje de advertencia indicando que se recomienda agregar al menos una actividad al itinerario. </br></br>
         </td>
     </tr>
     </tr>
@@ -2226,7 +2285,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Personalización y planificación de itinerarios
         </td>
     </tr>
     <tr align="left">
@@ -2240,7 +2299,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Aldo Baldeon
         </td>
     </tr>
         <tr align="left">
@@ -2248,22 +2307,34 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Compartir itinerarios
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Como</b>turista<b>quiero</b>poder compartir mis itinerarios con amigos y familiares a través de enlaces compartibles o redes sociales<b>para</b>facilitar la planificación conjunta y permitir que               otros conozcan mis planes de viaje de manera rápida y sencilla
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Scenario 01:</b>Compartir itinerario a través de enlace compartible</br>
+            <b>Dado</b>que el turista ha creado un itinerario en la plataforma </br>
+            <b>Cuando</b> el turista selecciona la opción de compartir itinerario </br>
+            <b>Entonces</b> el sistema generará un enlace compartible único para ese itinerario.</br> </br>
+            <b>Scenario 02:</b>Compartir itinerario a través de redes sociales</br>
+            <b>Dado</b>que el turista ha creado un itinerario en la plataforma. </br>
+            <b>Cuando</b>  el turista selecciona la opción de compartir itinerario en una red social </br>
+            <b>Entonces</b>  el sistema abrirá una ventana emergente con la opción de compartir en la red social seleccionada </br></br>
+            <b>Scenario 03:</b>Recepción de itinerario compartido</br>
+            <b>Dado</b> Recepción de itinerario compartido </br>
+            <b>Cuando</b> hacen clic en el enlace </br>
+            <b>Entonces</b> se les redirigirá al itinerario compartido en la plataforma, donde podrán ver todos los detalles </br></br>
+            <b>Scenario 04:</b>Acceso público al itinerario compartido</br>
+            <b>Dado</b>  que un turista ha compartido su itinerario públicamente. </br>
+            <b>Cuando</b> alguien accede al itinerario compartido sin necesidad de inicio de sesión </br>
+            <b>Entonces</b> podrán ver los detalles del itinerario sin requerir una cuenta en la plataforma</br></br>
         </td>
     </tr>
     </tr>
@@ -2276,7 +2347,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Épica</b>
         </td>
         <td colspan=2>
-            texto
+            Personalización y planificación de itinerarios
         </td>
     </tr>
     <tr align="left">
@@ -2290,7 +2361,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Owner</b>
         </td>
         <td>
-            texto
+            Aldo Baldeon
         </td>
     </tr>
         <tr align="left">
@@ -2298,22 +2369,34 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>Título HU</b>
         </td>
         <td colspan=2>
-            texto
+            Sincronizar calendarios
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
-            <b>Descripción:</b></br>
-            <b>Como</b> <b>quiero</b> <b>para</b>
+            <b>Descripción:</b>Sincronización exitosa con calendario personal</br>
+            <b>Como</b>turista<b>quiero</b> tener la opción de sincronizar mi itinerario con calendarios personales y recibir actualizaciones automáticas sobre cambios <b>para</b> facilitar la gestión y 
+            mantenerme informado sobre mi plan de viaje
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
-            <b>Criterio de Aceptación:</b></br>
-            <b>Scenario 01:</b></br>
-            <b>Dado</b> </br>
-            <b>Cuando</b> </br>
-            <b>Entonces</b>            
+            <b>Criterio de Aceptación:</b>Sincronización exitosa con calendario personal</br>
+            <b>Scenario 01:</b>Sincronización exitosa con calendario personal</br>
+            <b>Dado</b>  que el turista tiene un itinerario creado en la plataforma.</br>
+            <b>Cuando</b> el turista selecciona la opción de sincronizar con su calendario personal (por ejemplo, Google Calendar o Apple Calendar) </br>
+            <b>Entonces</b> el sistema sincroniza con éxito el itinerario del turista con su calendario personal </br> 
+            <b>Y</b>cualquier cambio posterior en el itinerario se refleja automáticamente en el calendario personal del turista</br></br>
+            <b>Criterio de Aceptación:</b>Sincronización exitosa con calendario personal</br>
+            <b>Scenario 02:</b>Sincronización con calendario personal fallida</br>
+            <b>Dado</b>  que el turista tiene un itinerario creado en la plataforma </br>
+            <b>Cuando</b> el turista intenta sincronizar con su calendario personal y ocurre un error (por ejemplo, debido a problemas de conexión o autenticación) </br>
+            <b>Entonces</b>el sistema mostrará un mensaje de error claro y proporcionará orientación sobre cómo resolver el problema. </br></br>
+            <b>Scenario 03:</b> Recepción de actualizaciones automáticas sobre cambios</br>
+            <b>Dado</b> que el turista ha sincronizado su itinerario con su calendario personal </br>
+            <b>Cuando</b> el sistema detecta un cambio en el itinerario, como una modificación en las actividades o fechas </br>
+            <b>Entonces</b> el sistema enviará automáticamente una notificación o correo electrónico al turista para informar sobre la actualización </br>
+            <b>Y</b> proporcionará detalles claros sobre el cambio realizado en el itinerario </br></br>
         </td>
     </tr>
     </tr>
@@ -2340,7 +2423,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 | 9 | US22 | Publicar servicios de la empresa turística | **Como** proveedor de servicios turísticos, **deseo** publicar mis servicios turísticos que proporciona mi empresa **para** que los turistas puedan visualizar de manera certera y atractiva las experiencias que ofrezco. | 3 |
 | 10 | US15 | Visualizar mapas interactivos | **Como** turista, **deseo** tener acceso a mapas interactivos en la plataforma que muestren las ubicaciones y detalles de las actividades y destinos **para** para facilitar la planificación de mi itinerario. | 3 |
 | 11 | US04 | Utilizar distintos métodos de pago | **Como** usuario, **deseo** realizar pagos con distintos métodos **para** tener flexibilidad y comodidad al pagar por productos y servicios. | 3 |
-| 12 | US03 | Desarrollar versión free y premium | **Como** plataforma, **deseo** implementar una versión gratuita y una versión de pago **para** ofrecer más beneficios y una mejor experiencia. | 3 |
+| 12 |  | Desarrollar versión free y premium | **Como** plataforma, **deseo** implementar una versión gratuita y una versión de pago **para** ofrecer más beneficios y una mejor experiencia. | 3 |
 | 13 | US21 | Obtener datos estadísticos de publicidad | **Como** proveedor de servicios turísticos, **deseo** recolectar datos precisos de mi publicidad **para** evaluar la efectividad de mis estrategias de marketing. | 3 |
 | 14 | US20 | Publicar anuncios | **Como** proveedor de servicios turísticos, **deseo** promocionar mi negocio en la plataforma mediante anuncios **para** atraer más clientes. | 3 |
 | 15 | US07 | Contactar proveedores | **Como** turista, **deseo** poder comunicarme con el proveedor del servicio turístico dentro de la plataforma **para** aclarar mis dudas. | 3 |
