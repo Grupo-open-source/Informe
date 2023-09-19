@@ -892,7 +892,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 01
+            US01
         </td>
         <td>
             <b>Owner</b>
@@ -951,7 +951,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 02
+            US02
         </td>
         <td>
             <b>Owner</b>
@@ -1010,7 +1010,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 03
+            US03
         </td>
         <td>
             <b>Owner</b>
@@ -1062,7 +1062,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 04
+            US04
         </td>
         <td>
             <b>Owner</b>
@@ -1132,7 +1132,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 05
+            US05
         </td>
         <td>
             <b>Owner</b>
@@ -1184,7 +1184,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 06
+            US06
         </td>
         <td>
             <b>Owner</b>
@@ -1243,7 +1243,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 07
+            US07
         </td>
         <td>
             <b>Owner</b>
@@ -1304,7 +1304,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 08
+            US08
         </td>
         <td>
             <b>Owner</b>
@@ -1378,7 +1378,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 09
+            US09
         </td>
         <td>
             <b>Owner</b>
@@ -1434,7 +1434,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 10
+            US10
         </td>
         <td>
             <b>Owner</b>
@@ -1528,7 +1528,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 11
+            US11
         </td>
         <td>
             <b>Owner</b>
@@ -1590,7 +1590,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 12
+            US12
         </td>
         <td>
             <b>Owner</b>
@@ -1646,7 +1646,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 13
+            US13
         </td>
         <td>
             <b>Owner</b>
@@ -1716,7 +1716,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 14
+            US14
         </td>
         <td>
             <b>Owner</b>
@@ -1771,7 +1771,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 15
+            US15
         </td>
         <td>
             <b>Owner</b>
@@ -1826,7 +1826,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 16
+            US16
         </td>
         <td>
             <b>Owner</b>
@@ -1881,7 +1881,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 17
+            US17
         </td>
         <td>
             <b>Owner</b>
@@ -1940,7 +1940,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 18
+            US18
         </td>
         <td>
             <b>Owner</b>
@@ -1995,7 +1995,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 19
+            US19
         </td>
         <td>
             <b>Owner</b>
@@ -2046,7 +2046,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 20
+            US20
         </td>
         <td>
             <b>Owner</b>
@@ -2107,7 +2107,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 21
+            US21
         </td>
         <td>
             <b>Owner</b>
@@ -2157,7 +2157,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 22
+            US22
         </td>
         <td>
             <b>Owner</b>
@@ -2217,7 +2217,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 23
+            US23
         </td>
         <td>
             <b>Owner</b>
@@ -2294,7 +2294,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
             <b>ID-HU</b>
         </td>
         <td>
-            US 24
+            US24
         </td>
         <td>
             <b>Owner</b>
@@ -2419,7 +2419,7 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 | 9 | US22 | Publicar servicios de la empresa turística | **Como** proveedor de servicios turísticos, **deseo** publicar mis servicios turísticos que proporciona mi empresa **para** que los turistas puedan visualizar de manera certera y atractiva las experiencias que ofrezco. | 3 |
 | 10 | US15 | Visualizar mapas interactivos | **Como** turista, **deseo** tener acceso a mapas interactivos en la plataforma que muestren las ubicaciones y detalles de las actividades y destinos **para** para facilitar la planificación de mi itinerario. | 3 |
 | 11 | US04 | Utilizar distintos métodos de pago | **Como** usuario, **deseo** realizar pagos con distintos métodos **para** tener flexibilidad y comodidad al pagar por productos y servicios. | 3 |
-| 12 | US03 | Desarrollar versión free y premium | **Como** plataforma, **deseo** implementar una versión gratuita y una versión de pago **para** ofrecer más beneficios y una mejor experiencia. | 3 |
+| 12 |  | Desarrollar versión free y premium | **Como** plataforma, **deseo** implementar una versión gratuita y una versión de pago **para** ofrecer más beneficios y una mejor experiencia. | 3 |
 | 13 | US21 | Obtener datos estadísticos de publicidad | **Como** proveedor de servicios turísticos, **deseo** recolectar datos precisos de mi publicidad **para** evaluar la efectividad de mis estrategias de marketing. | 3 |
 | 14 | US20 | Publicar anuncios | **Como** proveedor de servicios turísticos, **deseo** promocionar mi negocio en la plataforma mediante anuncios **para** atraer más clientes. | 3 |
 | 15 | US07 | Contactar proveedores | **Como** turista, **deseo** poder comunicarme con el proveedor del servicio turístico dentro de la plataforma **para** aclarar mis dudas. | 3 |
