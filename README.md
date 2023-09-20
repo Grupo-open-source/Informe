@@ -308,10 +308,10 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
     </td>
   </tr>
   <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/823908924221554728/1145797386824859800/Imagen21.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620"/> </td>
+    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1153919705711661119/Imagen_1.jpeg" alt="Anthony Loarte" style="margin-bottom: 5px;" width="620"/> </td>
     <td> 
       <strong>Nombres y apellidos:</strong> <br>
-      Cristian Andrés Quito Igreda
+      Anthony Brahan Loarte Matos
     </td>
   </tr>
   <tr>
@@ -324,9 +324,7 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
     <td>
       <strong>Acerca de:</strong> <br>
       <p>
-        Soy Cristian Andrés Quito Igreda y estoy estudiando la carrera de Ingeniería de Software en la UPC. La razón principal por la que escogí esta carrera es porque desde mis inicios 
-        de la secundaria me causó curiosidad el funcionamiento interno de las aplicaciones de escritorio y web como también el desarrollo de grandes proyectos de software. Entre mis 
-        principales habilidades destaca la responsabilidad, el trabajo en equipo y el pensamiento lógico para la resolución de problemas. Finalmente, poseo conocimientos intermedios en            C++, Python y SQL Server, además de contar con experiencia en Git, GitHub, PostgreSQL y MongoDB. 
+        Soy Anthony Brahan Loarte Matos, actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona todo lo relacionado a la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos. Finalmente, poseo conocimientos intermedios en C++, SQL Server, Html y CSS.
       </p>  
     </td>
   </tr>
@@ -720,18 +718,20 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
     Arturo Pizarro es un empresario experimentado en el sector de servicios turísticos, con 28 años de edad y residencia en el encantador distrito de Chorrillos en Lima. Arturo dirige una agencia turística que ofrece una amplia variedad de servicios, desde         visitas guiadas hasta alojamiento en hoteles boutique y comidas en restaurantes locales. Arturo se dedica por completo a su negocio y trabaja incansablemente para promocionar sus servicios a los turistas. Sin embargo, ha enfrentado desafíos                     significativos al tratar de expandir su negocio digitalemente. La idea de promocionar su negocio a través de una plataforma en línea que llegue a miles de usuarios y les ayude a crear itinerarios de viaje le resulta muy atractiva a Arturo. Ve esto como una 
     oportunidad para aumentar la visibilidad de su agencia y llegar a un público más amplio. Cuando se le comento la idea de la plataforma Automovile-Unit y se le preguntó qué aspectos no le gustaría de una aplicación con estas características, Arturo mencionó     que le preocuparía la complejidad de uso y la posibilidad de recibir opiniones negativas de los usuarios. Sin embargo, le emociona la idea de tener una plataforma que le permita promocionar sus servicios turísticos a nivel nacional, ya que esto podría          ayudar a potenciar a empresas turísticas emergentes en el mercado. Arturo considera que una plataforma con estas capacidades sería beneficiosa tanto para empresas establecidas como para aquellas que están empezando. Además, está dispuesto a recomendar la       plataforma a otras personas, ya que ve un valor real en la posibilidad de promocionar su negocio de manera efectiva y llegar a un público más amplio. Arturo Pizarro representa a un empresario turístico que ve un gran potencial en la plataforma Automovile-      Unit y está dispuesto a aprovechar esta oportunidad para expandir su negocio y mejorar su visibilidad en el mercado.
 
- * **Entrevista 2** 
-  - Nombres:
-  - Apellidos: 
-  - Edad: años
-  - Distrito: 
-  - Link de la entrevista: [Enlace aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121882_upc_edu_pe/EZzE60di_p5DoarRtVZKUgwBPRchJL0DPMHzeOGb_v-0lg?e=nmg8vA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-  - Timing y Duración: |  minutos 
+* **Entrevista 2** 
+  - Nombres: Jefersson Isaac
+  - Apellidos: Hurtado Ochoa
+  - Edad: 28 años
+  - Distrito: Ica
+  - Link de la entrevista: [Enlace aquí](https://drive.google.com/file/d/1P3T3XWAgap5ERuAa0Si8EdZZI3l5gJyn/view?usp=drive_link)
+  - Timing y Duración: 11:27
   - Evidencia de la reunión:<br>
-    <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/1104599136411602984/1104600386486157392/344881918_1385635535594513_3182670484868536502_n.png" alt="Cristian Quito" style="margin-bottom: 5px;" width="620px" align="center"/>
-    </p>
-  - Resumen de la :
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102117981552710/image.png?width=1193&height=366" alt="Interview bussines" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+  - Resumen de la entrevista:
+  Jefersson Isaac Hurtado Ochoa trabaja en una agencia de turismo en Lunahuaná y comparte valiosa información sobre la industria turística en la región. Describe el proceso de reservas y los horarios de los tours en Lunahuaná, basándose en su experiencia como guía turístico y como viajero. Además, nos cuenta que promociona su servicio a través de las redes sociales, como Facebook e Instagram, y colabora con otras agencias de servicios turísticos en Lima para llegar a más clientes. En relación con una posible aplicación, sugiere la inclusión de paquetes básicos, económicos y premium que abarquen alojamientos, tours y restaurantes, lo que sería de gran utilidad para los turistas.
+  Por último, Jefersson está de acuerdo con apoyar a las pequeñas empresas locales con promocionar sus negocios mediante el aplicativo, mostrando su compromiso con el desarrollo de la comunidad y la industria turística en Lunahuaná.
 
 * **Entrevista 3** 
   - Nombres: Steve Roger
@@ -2441,7 +2441,55 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+**Overview:**
+Como organización se considera el diseño web una parte fundamental del proyecto, ya que debe ser agradable, cómodo para navegar para nuestros clientes finales, estar en sintonía con nuestra marca y lo que queremos transmitir como empresa.
+
+**Brand Name:**
+La elección de denominar nuestra propuesta de solución como "TravelPlanner" surge de su firme enfoque en brindar ayuda a los usuarios y establecer vínculos sólidos con las empresas en el sector del turismo. Este nombre evoca la idea de un compañero de viaje confiable que simplifica la planificación y mejora la experiencia de viajar para todos.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102115959902208/image.png?width=585&height=442" alt="Logo" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Typography:**
+El equipo ha seleccionado las tipografías "Inter" y "Poppins" para el proyecto. Estas fuentes tipográficas fueron elegidas cuidadosamente por su estilo y legibilidad, asegurando que la presentación del contenido sea atractiva y fácil de leer para los usuarios.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102116287053907/image.png?width=640&height=662" alt="Typografy" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+    
+**Colors:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102116656168990/image.png?width=581&height=662" alt="Anthony Loarte" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Spacing:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102116895232061/image.png?width=1218&height=371" alt="Colors" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Buttons:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102117117526087/image.png?width=793&height=662" alt="Model buttons" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
 ### 4.1.2. Web Style Guidelines.
+TravelPlanner se desarrollará para ser accesible tanto en dispositivos móviles como en la web, y para lograr esto, implementaremos un diseño responsive (Diseño Web Adaptativo) que garantizará que la información se muestre de manera óptima en cualquier pantalla, sin comprometer la experiencia del usuario.
+
+Medidas para Web Responsive:
+* Móvil basic: 360 x 640 px.
+* Móvil standar: 375 x 667 px.
+* Smartphone ultra: 720 x 1280 px.
+* Ordenador portátil standar: 1366 x 768 px.
+* Ordenador de escritorio standar: 1440 x 900 px.
+* PC escritorio promedio: 1920 x 1080 px.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102117377589268/image.png?width=1218&height=610" alt="Responsive windows" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+En nuestro enfoque de diseño web, hemos optado por emplear el patrón Z, una técnica altamente efectiva que busca realzar la experiencia del usuario al dirigir su atención hacia los elementos clave y maximizar la eficacia del contenido en nuestro sitio. En este patrón, el logotipo se posiciona típicamente en la esquina superior izquierda, captando la atención inicial del usuario, mientras que en la parte frontal derecha se ubica el menú de navegación junto a un destacado llamado a la acción.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102117746675763/image.png?width=1218&height=527" alt="Pattern Design Z" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 
@@ -2603,10 +2651,297 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
    
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+**Wireframe de Registro de cuenta:**
+Cuando el usuario inicie la aplicación, se encontrará con la pantalla de inicio de sesión, donde el sistema solicitará que introduzca su dirección de correo electrónico y contraseña correspondientes a su cuenta. Luego, podrá empezar a utilizar la aplicación al hacer clic en el botón "Log in". Si aún no tiene una cuenta registrada, podrá crear una nueva pulsando el botón "Create new account".
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102118258393088/image.png?width=306&height=662" alt="Account registration" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de validación de cuenta:**
+En el "Wireframe de Verificación de Cuenta: Diseñando la Experiencia de Confirmación de Usuario", se aborda la fase de confirmación de cuenta, considerando la comunicación, acciones de los usuarios y seguridad de datos para lograr una experiencia intuitiva y segura.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102118480678932/image.png?width=306&height=662" alt="Account valid" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de Seleccion de Perfil:**
+Este wireframe se centra en diseñar la interfaz que permite a los usuarios elegir entre los perfiles de turista o empresa, ofreciendo una experiencia adaptada a sus necesidades específicas.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102562816872458/image.png?width=306&height=662" alt="Profile Selection" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de registro de datos de perfil:**
+Permite a los usuarios ingresar y gestionar la información clave de su perfil, garantizando una experiencia de usuario eficiente y personalizada.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102563185963138/image.png?width=305&height=661" alt="Data register" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de confirmación de registro de cuenta:**
+Se muestra un mensaje que confirma la creación de la cuenta del usuario y asu vez que ya puede ingresar sesión.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102563483746344/image.png?width=306&height=662" alt="Registration confirmation" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de ventana de inicio:**
+Esta es la estructura y diseño de la pantalla de inicio, proporcionando a los usuarios un punto de partida intuitivo y atractivo para su experiencia en la aplicación.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102563798339734/image.png?width=305&height=661" alt="Home window" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de Perfil de usuario:**
+Permite a los usuarios gestionar y personalizar su perfil, brindando una experiencia de usuario eficiente y adaptada a sus preferencias y necesidades.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102564087738458/image.png?width=266&height=662" alt="User profile" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de beneficios premium:**
+En esta ventana se visualizan de los beneficios exclusivos que los usuarios premium obtienen al utilizar la aplicación.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102564414881822/image.png?width=306&height=662" alt="Premium benefits" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de actividad:**
+Encontramos la estructura visual que presenta las emocionantes actividades extremas ofrecidas por una empresa, brindando a los usuarios una vista previa convincente de estas experiencias únicas.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102564700115025/image.png?width=306&height=662" alt="Tourist activity" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de notificación de actividades:**
+Esta interfaz permite a los usuarios recibir notificaciones claras y efectivas sobre reservas realizadas, cambios y actualizaciones relacionados con las actividades que les interesan.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102564976930836/image.png?width=306&height=661" alt="Activities notification" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de creación de itinerario:**
+Los usuarios personalizan y organizan sus viajes, creando itinerarios adaptados a sus preferencias y necesidades de manera intuitiva.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102565341822986/image.png?width=305&height=661" alt="Itinerary creation" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de del apartado de búsqueda:**
+Los usuarios buscan y filtran su busqueda según sus actividades preferidas, ofreciendo una navegación más eficiente y personalizada.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102565849346089/image.png?width=306&height=662" alt="Search window" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de reserva:**
+Los usuarios visualizan su reserva de manera clara y detallada, proporcionando información esencial sobre su viaje para garantizar una experiencia sin problemas.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102661454303332/image.png?width=306&height=662" alt="Booking" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de confirmación de reserva:**
+Se muestra al usuario un mensaje de confirmación de la reserva realizada y de realizar el pago al proveedor del servicio turístico.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102661806628875/image.png?width=306&height=662" alt="booking confirmation" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Wireframe de FAQ:**
+Este wireframe se enfoca en diseñar una sección de Preguntas Frecuentes que proporcione respuestas concisas y útiles a las preguntas comunes de los usuarios, mejorando así la experiencia de usuario al brindar información de manera rápida y accesible.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102662045696000/image.png?width=308&height=662" alt="FAQ" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102699853164564/image.png?width=991&height=662" alt="Wireflow 1" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+<p align="center">
+ <img src="-https://media.discordapp.net/attachments/1146643631516680222/1152102716483567697/image.png?width=991&height=662" alt="Wireflow 2" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102748385464391/image.png?width=1038&height=662" alt="Wireflow 3" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102830870626354/image.png?width=1038&height=662" alt="Wireflow 4" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102859140251699/image.png?width=726&height=662" alt="Wireflow 5" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102880992567386/image.png?width=741&height=662" alt="Wireflow 6" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102907504766996/image.png?width=845&height=662" alt="Wireflow 7" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152102924978245662/image.png?width=863&height=662" alt="Wireflow 8" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
 ### 4.4.3. Web Applications Mock-ups.
+**Mock-up de inicio de sesión:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103049893007391/image.png?width=656&height=662" alt="Log in" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de validacion de cuenta:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103073368506379/image.png?width=342&height=662" alt="Account validation" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de selección de perfil de usuario:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103086869987388/image.png?width=341&height=662" alt="User profile" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de registro de datos de perfil por segmento objetivo:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103334887559168/image.png?width=672&height=662" alt="Data register" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de confirmación de registro de usuario:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103335172776007/image.png?width=678&height=662" alt="registration confirmation" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de ventana de inicio:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103335508316302/image.png?width=341&height=661" alt="Home window" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de Perfil de usuario:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103335747395655/image.png?width=228&height=662" alt="User profile" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de pago de suscripción premium:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103336007434240/image.png?width=492&height=461" alt="subscription payment" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de usuario con suscripción premium:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152107281480175686/image.png?width=227&height=662" alt="Premium user" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de beneficios y puntos de usuario premium:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103336540119050/image.png?width=647&height=662" alt="Window benefits and points" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de actividad selecionada:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103336854683748/image.png?width=320&height=620" alt="Chosen activity" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up del mapa de actividad:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103482799689729/image.png?width=432&height=310" alt="Anthony Loarte" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de actividad detallada :**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103483051352064/image.png?width=186&height=662" alt="Activity mapping" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de añadir comentario y calificación:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103483303014470/image.png?width=468&height=392" alt="Add review" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de contacto con empresa:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103483558858752/image.png?width=303&height=661" alt="contact with business" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de galería de fotos:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103483823108126/image.png?width=442&height=408" alt="Photo gallery" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de notificación de reservas:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103484108312616/image.png?width=342&height=662" alt="booking notification" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de calendario de reservas:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103484401918023/image.png?width=341&height=662" alt="booking calendar" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de creación de itinerario:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103484640997396/image.png?width=243&height=662" alt="Itinerary creation" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de confirmación de itinerario creado:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103619227832350/image.png?width=342&height=662" alt="Confirmation message" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de la sección búsqueda:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103619479478334/image.png?width=342&height=662" alt="Searching section" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de reserva:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103619794055179/image.png?width=341&height=662" alt="booking" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de confirmación de reserva:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103620070875216/image.png?width=342&height=662" alt="Confirmation message" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Mock-up de Frequently Asked Questions:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103620330926100/image.png?width=345&height=661" alt="FAQ" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
 ### 4.4.4. Web Applications User Flow Diagrams.
+**Acceso a la aplicación:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103649741389914/image.png?width=942&height=662" alt="App access Diagram" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Suscripcion de paquete premium:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103672445145088/image.png?width=906&height=662" alt="Premium bundle Subscription diagram" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Crear itinerario personalizado:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103688467386388/image.png?width=802&height=662" alt="Create custom itinerary diagram" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Reserva de actividades y alojamiento:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103705735336048/image.png?width=1218&height=643" alt="Booking diagram" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Realizar comentario y calificar servicio:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103725528252446/image.png?width=795&height=662" alt="Review diagram" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
+**Contactar con la empresa:**
+<p align="center">
+ <img src="https://media.discordapp.net/attachments/1146643631516680222/1152103760441651260/image.png?width=873&height=662" alt="Contact business diagram" style="margin-bottom: 5px;" width="620px" align="center"/>
+</p>
+
 ## 4.5. Web Applications Prototyping.
+Hemos diseñado el sistema de navegación de nuestro prototipo de aplicación con pestañas claras y descriptivas para que los usuarios puedan acceder rápidamente a las áreas principales de la aplicación. Además, hemos incorporado gestos táctiles familiares, como el deslizamiento para cambiar entre productos.Asimismo, la arquitectura de información está diseñada de manera que las diferentes funcionalidades sean fácilmente accesibles desde la página de inicio. Finalmente, estas decisiones de interacción tienen como objetivo brindar a los usuarios una experiencia fluida y eficiente al reservar actividades o tours en nuestra aplicación de forma intuitiva y sin esfuerzo.
+## 4.5.1. iOS Mobile Applications Prototyping.
+**Link del prototipo de figma:**
+[Enlace aquí](https://www.figma.com/proto/XvlW1qqwduKQZXQ2ONhyX1/Untitled?type=design&node-id=112-3501&t=7BFo9GRdHQHfmJ43-0&scaling=scale-down&page-id=66%3A2245&starting-point-node-id=112%3A3501)
+<p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1133414289772920964/1153912285937541130/image.png" alt="Prototype iOS" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+
+## 4.5.2. Android Mobile Applications Prototyping.
+**Link del prototipo de figma:**
+[Enlace aquí](https://www.figma.com/proto/XvlW1qqwduKQZXQ2ONhyX1/Untitled?type=design&node-id=66-2271&t=7BFo9GRdHQHfmJ43-0&scaling=scale-down&page-id=66%3A2244&starting-point-node-id=66%3A2271)
+<p align="center">
+     <img src="https://cdn.discordapp.com/attachments/1133414289772920964/1153913601518751744/image.png" alt="Prototype Android" style="margin-bottom: 5px;" width="1020px"/>
+</p>
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 <p align="center">
