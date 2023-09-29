@@ -4227,15 +4227,15 @@ La landing page fue creada aplicando la metología Gitflow, el cual ha permitido
 # Bibliografía
 Google. (2017, 24 de febrero). _Google HTML/CSS Style Guide_. Google GitHub. Recuperado el 10 de setiembre de 2023, de [https://google.github.io/styleguide/htmlcssguide.html#Background](https://google.github.io/styleguide/htmlcssguide.html#Background) 
 
-Adrián Alonso. (s.f.). Impact Mapping: la técnica ágil que te ayuda a construir un mejor producto. Recuperado el 1 de mayo de 2023, de [https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/](https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/)
+Adrián Alonso. (2018, 10 de marzo). Impact Mapping: la técnica ágil que te ayuda a construir un mejor producto. Recuperado el 15 de setiembre de 2023, de [https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/](https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/)
 
-Atlassian. (s.f.). User stories. Agile project management with Scrum. Recuperado el 1 de mayo de 2023, de [https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2](https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2)
+Atlassian. (2021, 10 de mayo). User stories. Agile project management with Scrum.Recuperado el 15 de setiembre de 2023, de [https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2](https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2)
 
-Becas Santander. (s.f.). Misión, visión y valores. Recuperado el 16 de abril de 2023, de [https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3](https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3)
+Becas Santander. (2019, 17 de julio). Misión, visión y valores. Recuperado el 15 de setiembre de 2023, de [https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3](https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3)
 
-Design Toolkit. (s.f.). Lean UX Canvas. Recuperado el 16 de abril de 2023, de [http://design-toolkit.uoc.edu/es/lean-ux-canvas/](http://design-toolkit.uoc.edu/es/lean-ux-canvas/)
+Design Toolkit. (2020, 22 de marzo). Lean UX Canvas. Recuperado el 15 de setiembre de 2023, de [http://design-toolkit.uoc.edu/es/lean-ux-canvas/](http://design-toolkit.uoc.edu/es/lean-ux-canvas/)
 
-IBM. (s.f.). To-be scenario map. IBM Design Thinking: Tools. Recuperado el 1 de mayo de 2023, de [https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
+IBM. (2020, 09 de julio). To-be scenario map. IBM Design Thinking: Tools. Recuperado el 15 de setiembre de 2023, de [https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
 
 # Anexos
 | Sección | Características del video | Sobre el contenido | Integración y entrega |
