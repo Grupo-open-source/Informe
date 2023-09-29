@@ -748,9 +748,42 @@ Agustín también mencionó su preferencia por una aplicación sin anuncios y su
  Steve Roger Castillo Robles es un estudiante de Ingenieria de Software y trabaja a medio tiempo en el hotel "El Tumi". Nos cuenta que su servicio de hotelería, a parte del alojamiento, ofrece desayuno, almuerzo y cena. Además, promociona su servicio mediante bolantes en la plaza de armas y mediante colaboraciones con otras empresas de servicios turísticos. Una vez relatado sobre la aplicación, nos menciona que resultaría de mucha utilidad, pues ayudaría brindar visibilidad y un impulso a las pequeñas empresas turísticas.
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
 
-**Segmento objetivo 2: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web.**
+Realizamos un análisis de las entrevistas registradas, consiguiendo características objetivas y subjetivas de nuestros dos segmentos objetivos, con los que trabajaremos nuestros siguientes componentes.
+
+* **Segmento objetivo 1: Turistas entre 18 a más años de edad que deseen un itinerario de viaje predeterminado o personalizado.**
+  
+  Luego de analizar las 3 entrevistas realizadas a turistas, podemos observar lo siguiente:
+  
+  - La edad promedio fue de 25 años, siendo todos mayores de edad.
+
+  - Viajan un par de veces al año, principalmente por ocio o visitar familiares.
+
+  - Les gusta planear con anticipación, aunque también existen viajes espontáneos.
+
+  - Utilizan principalmente Google para buscar información sobre destinos y actividades.
+
+  - Les resulta tedioso reunir los datos necesarios de forma dispersa en distintas páginas.
+
+  - Estarían dispuestos a utilizar una plataforma que les permita planificar y reservar de forma integral.
+
+* **Segmento objetivo 2: Empresas que brindan servicios turísticos y alojamiento como agencias turísticas, hoteles y restaurantes que quieran promocionarse en la web:**
+  
+   Del análisis de las 3 entrevistas a empresas turísticas, encontramos:
+ 
+  - Son pymes familiares o individuales, con pocos años en el mercado.
+
+  - Utilizan redes sociales para promocionar, aunque no de forma constante.
+  
+  - Los clientes suelen ser turistas nacionales.
+
+  - Les interesa dar a conocer su oferta de manera más efectiva.
+
+  - Estarían dispuestos a publicar su catálogo de servicios en una plataforma de alcance nacional.
+
+  - Buscan mejorar la experiencia del usuario a través de canales integrales.
+
+  - Estos resultados nos brindan información valiosa sobre las necesidades y características de cada segmento objetivo, lo cual será de gran utilidad para el desarrollo de los componentes correspondientes en el proyecto..
 
 
 ## 2.3. Needfinding.
@@ -4193,6 +4226,16 @@ La landing page fue creada aplicando la metología Gitflow, el cual ha permitido
 
 # Bibliografía
 Google. (2017, 24 de febrero). _Google HTML/CSS Style Guide_. Google GitHub. Recuperado el 10 de setiembre de 2023, de [https://google.github.io/styleguide/htmlcssguide.html#Background](https://google.github.io/styleguide/htmlcssguide.html#Background) 
+
+Adrián Alonso. (s.f.). Impact Mapping: la técnica ágil que te ayuda a construir un mejor producto. Recuperado el 1 de mayo de 2023, de [https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/](https://adrianalonso.es/project-management/tecnicas-agiles-impact-mapping/)
+
+Atlassian. (s.f.). User stories. Agile project management with Scrum. Recuperado el 1 de mayo de 2023, de [https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2](https://www.atlassian.com/agile/project-management/user-stories#:~:text=software%20user's%2)
+
+Becas Santander. (s.f.). Misión, visión y valores. Recuperado el 16 de abril de 2023, de [https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3](https://www.becas-santander.com/es/blog/mision-vision-y-valores.html#:~:text=Es%20com%C3)
+
+Design Toolkit. (s.f.). Lean UX Canvas. Recuperado el 16 de abril de 2023, de [http://design-toolkit.uoc.edu/es/lean-ux-canvas/](http://design-toolkit.uoc.edu/es/lean-ux-canvas/)
+
+IBM. (s.f.). To-be scenario map. IBM Design Thinking: Tools. Recuperado el 1 de mayo de 2023, de [https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
 
 # Anexos
 | Sección | Características del video | Sobre el contenido | Integración y entrega |
