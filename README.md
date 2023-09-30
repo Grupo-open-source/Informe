@@ -4340,6 +4340,30 @@ En esta sección, se detalló el contenido del Sprint Backlog 2. Para una gesti�
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
+Para este Sprint 2, hemos logrado desarrollar el inicio de sesión que se conecta a nuestra API Fake para su verificación. Una vez verificado, le redirigirá al home donde se le mostraá las principales actividades turísticas y debajo una barra de navegación donde el usuario podrá acceder a los apartados de preguntas frecuentes y el chat. Tambien se podrá acceder a un formulario para añadir un anuncio publicitario.
+* Web Aplication Deployment: https://tplanner-2220e.web.app/login
+* Web Aplication Repository: https://github.com/Odyssey-UPC/TPlanner-Frontend
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157620808785608754/image.png?ex=651945e4&is=6517f464&hm=d8271c88587f039f9af8dd0f123d2758833cd7ec15e62aa202d9aa909d89da5e&" alt="evidence 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621073630740580/image.png?ex=65194623&is=6517f4a3&hm=2811b6021dacb2d0acc721bad41327de6384fbe5c07de52b91cd76f535c4833c&" alt="evidence 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621686523404338/image.png?ex=651946b5&is=6517f535&hm=1bc4d1c4ce1f9bd1d04da26a0fe3978d412b9b51dcd6d70bb4d7d684ca547d82&" alt="evidence 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621516599574619/image.png?ex=6519468d&is=6517f50d&hm=400079c011102c9c575a2a6e571bbaab1c5fbe45fb47221630de9e7b17f9b394&" alt="evidence 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621569284214855/image.png?ex=65194699&is=6517f519&hm=1ce753f9f9111dc801982d0c93f90b9580301b51e537bbc0693dd45c017ec21f&" alt="evidence 5" style="margin-bottom: 3px;" width="1080px">
+</p>
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 A continuación, se detallará los endpoints que se han desarollado en el API fake. De esta manera, podemo realizar las operaciones CRUD necesarias para esta primera versión, logrando una aplicación web dinámica.
 Link del API fake: [TPlanner API fake](https://7xjtrpj1-3000.brs.devtunnels.ms/)
@@ -4459,7 +4483,6 @@ Link del API fake: [TPlanner API fake](https://7xjtrpj1-3000.brs.devtunnels.ms/)
     </tr>
   </tbody>
 </table>
-
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
