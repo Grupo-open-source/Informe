@@ -4282,7 +4282,7 @@ La landing page fue creada aplicando la metología Gitflow, el cual ha permitido
   </tr>
   <tr>
     <td>Sprint 2 Velocity</td>
-    <td>15</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
