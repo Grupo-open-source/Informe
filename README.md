@@ -4,7 +4,7 @@
 
 # <div align="center"> Desarrollo de Aplicaciones Open Source </div>
 
-### TB1
+### TP
 
 ### Startup: Odyssey <br>
 ### Product: TravelPlanner
@@ -116,15 +116,6 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-    + [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.1.1. Sprint Planning 2.](#5221-sprint-planning-2)
-      - [5.2.1.2. Sprint Backlog 2.](#5222-sprint-backlog-2)
-      - [5.2.1.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
   * [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
   * [Video About-the-Team.](#video-about-the-team)
@@ -4149,27 +4140,9 @@ Enlace del Trello: [Sprint Backlog 1 - Odyssey](https://trello.com/invite/b/Iea7
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | main | d16a7b6fb53823ce7f24931609222af8e24d6744 | initial commit | initial commit | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | develop | 876f77d139f177c0d998d4e482e4d4cf128c3b30 | initial commit from develop | initial commit from develop | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | feature/add-html | c73c0ca911d9201807257fd7931e2f8293880c6c | feat: navbar-added | navbar-added | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | feature/add-html | fee808a7c5351dcb08d5e2649d79d0cfd36b9dd6 | feat: main content added | main content added | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | feature/add-html | 3762c0b3ae71f8439001acad6b5b6ce05a97e288 | feat: footer added | footer added | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | develop | 72c72b47352fdbb5523d4bf57eff4f3c056da44d | Merge pull request #1 from Odyssey-UPC/feature_add-html | Feature add html | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | feature/add-styles | 95bf57931831a031e3c64e1924ba2d3ee2a1a86e | feat: reset added | reset added | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | feature/add-styles | 456021d4e418abce16ab8c94c5144bd4a629f8a1 | feat: style added | style added | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | feature/add-styles | 1f1c2d3f2199ad9dbdf6bd9b960d2b992333c588 | feat: footer style added1 | footer style added1 | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | develop | 0bfe2fd2b28db0038f7b9fa853de58445d038053 | Merge pull request #3 from Odyssey-UPC/feature_add-styles | Feature add styles | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | feature/add-js | aa750cc58166168f868d149bb51e51dc54eea1c3 | feat: carrousel added | carrousel added | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | feature/add-js | 5596d04b1e7334bc4611b09062a729f73a0b8293 | feat: form added | form added | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | develop | e11d723bb5125784f265cb77d7d0f14f8053d6b6 | Merge pull request #4 from Odyssey-UPC/feature_add-js | Feature add js | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | release/1.0 | b4fccc31f2444cb61249092ce8b8f339c926c518 | fix: footer adress fixed | footer adress fixed | 10/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-landing-page | main| 1b4ee5e145773061328c8dc0e468d99d415f19ca | Merge pull request #5 from Odyssey-UPC/release-1.0 | Release 1.0 | 10/09/2023 |
-
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
 | US01/ https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%201/US01.feature | Cipriano.Bruce-feature-Sprint1-US01 | 5d22548 | feat: add gherkin US01 | add gherkin US01 | 20/09/2023 |
 | US02/ https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%201/US02.feature | Cipriano.Bruce-feature-Sprint1-US02 | c266dd3 | feat: add gherkin US02 | add gherkin US02 | 20/09/2023 |
 | US03/ https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%201/US03.feature | Cipriano.Bruce-feature-Sprint1-US03 | b3c916a | feat: add gherkin US03 | add gherkin US03 | 20/09/2023 |
@@ -4487,7 +4460,6 @@ En esta sección, se detalló el contenido del Sprint Backlog 2. Para una gesti�
 |US19/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-05/us19.feature |Cipriamo.Bruce-feature-Sprint2-US19|5b7854a|feat: add gherkin US19|add gherkin US19|
 |US20/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us20.feature |Cipriamo.Bruce-feature-Sprint2-US20|2c65b91|feat: add gherkin US20|add gherkin US20|
 |US21/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us21.feature |Cipriamo.Bruce-feature-Sprint2-US21|566584c|feat: add gherkin US21|add gherkin US21|
-
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 Para este Sprint 2, hemos logrado desarrollar el inicio de sesión que se conecta a nuestra API Fake para su verificación. Una vez verificado, le redirigirá al home donde se le mostraá las principales actividades turísticas y debajo una barra de navegación donde el usuario podrá acceder a los apartados de preguntas frecuentes y el chat. Tambien se podrá acceder a un formulario para añadir un anuncio publicitario.
