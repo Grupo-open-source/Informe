@@ -24,11 +24,14 @@
 | TB1 | 28-08-2023 | Cristian Quito | - Se agregó el diseño de entrevista. </br> - Se agregó tabla de contenidos. |
 | TB1 | 30-08-2023 | Aldo Baldeon | - Se agrgó descripción de la startup. </br> - Perfiles de integrantes del equipo. </br> - Se agregó antecedentes y problemáticas. </br> - Se agregó Lean UX Process. |
 | TB1 | 31-08-2023 | Diego Esquivel | - Se agregó User task Matrix y User personas. |
-| TB1 | 03-09-2023 | - Diego Esquivel </br> - Cristian Quito </br> - Aldo Baldeon </br> - Bruce Cipriano | - Se agregó las historias de usuario y sus criteros de aceptación. </br> - Se agregó el product backlog. |
+| TB1 | 03-09-2023 | Diego Esquivel </br> Cristian Quito </br> Aldo Baldeon </br> Bruce Cipriano | - Se agregó las historias de usuario y sus criteros de aceptación. </br> - Se agregó el product backlog. |
 | TB1 | 05-09-2023 | Todos los integranstes | - Se agregó las entrevistas al Registro de entrevista. |
 | TB1 | 06-09-2023 | Bruce Cipriano | - Se agregó el punto 4.2 Information Architecture y 4.3 Landing Page UI Design por completo. |
 | TB1 | 08-09-2023 | Cristian Quito | - Se agregó el punto 4.6 Domain-Driven Software Architecture por completo. |
 | TB1 | 09-09-2023 | Cristian Quito | - Se agregó Sprint Planning, conclusiones y anexos.  |
+| TP | 29-09-2023 | Cristian Quito | - Se agregó Sprint Planning2, conclusiones y anexos. </br> - Se agregó las evidencias de ejecución y el despliegue |
+| TP | 29-09-2023 | Diego Esquivel | - Se agregó Sprint Backlog 2  |
+| TP | 29-09-2023 | Bruce Cipriano | - Se los testing suite evidence para el Sprint 2 |
 
 # Project Report Collaboration Insights
 
