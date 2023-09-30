@@ -3923,6 +3923,22 @@ body {
 ```
 
 ### 5.1.4. Software Deployment Configuration.
+**Landing Page:** En esta instancia, se empleó la funcionalidad de "GitHub Pages" para automatizar la implementación de la aplicación desde una rama de GitHub. Esta prestación generará un vínculo con un dominio particular que habilitará el acceso a la página. El procedimiento se ejecuta siguiendo los siguientes pasos:
+1. Nos dirigimos a uno de nuestros repositorios. Para esta oportunidad seleccionaremos el repositorio de nuestra landing page.
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157677217703276564/image.png?ex=65197a6d&is=651828ed&hm=e48905bf4ca03d5a4cb33e3750f15952e738ea85b2bb51bc59ca69d15d7c94d0&" alt="step 1 deployment" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+2. Nos vamos al apartado de Pages y procederemos a seleccionar la rama main como principal rama despliegue.
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157677880726265876/image.png?ex=65197b0b&is=6518298b&hm=eb8ea7904e6321ad5f907ab0a386adf04efe218e398d9f450dd78298dd384d5f&=&width=1045&height=645" alt="step 2 deployment" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+3. Por último, esperaremos a que genere el enlace a nuestra página y probamos.
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150505490359521290/image.png" alt="setp 3 deployment" style="margin-bottom: 3px;" width="1080px">
+</p>
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
