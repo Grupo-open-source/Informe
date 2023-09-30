@@ -308,6 +308,14 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
       Ingeniería de Software
     </td>
   </tr>
+ <tr>
+    <td>
+      <strong>Acerca de:</strong> <br>
+      <p>
+        Soy Bruce, actualmente estudio Ingeniería de Software en UPC (Universidad Peruana de Ciencias Aplicadas). Me gustó la carrera porque siempre quería saber sobre cómo funcionaban las computadoras, teléfonos, todos los aparatos electrónicos. Por esta razón, decidí elegir la carrera de ingeniería de software.
+      </p>  
+    </td>
+  </tr>
 </table>
 
 ## 1.2. Solution Profile
