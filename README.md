@@ -4302,6 +4302,158 @@ En esta sección, se detalló el contenido del Sprint Backlog 2. Para una gesti�
   <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157511877883084913/image.png?ex=6518e071&is=65178ef1&hm=bf7565e752aeb72accc07d91b7323660d69f0b56f1d250e72af310dbff60875f&" alt="Sprint Backlog 2 management" style="margin-bottom: 3px;" width="1080px">
 </p>
 
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Crear perfil de turista</td>
+       <td>T01</td>
+       <td>Diseñar la interfaz de creación de perfil de turista</td>
+       <td>Diseñar la interfaz de usuario para permitir a los turistas crear su perfil, incluyendo la recopilación de datos relevantes como intereses y preferencias de viaje.</td>
+       <td>2</td>
+       <td>Aldo Baldeón</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar Registro Exitoso de Turista</td>
+       <td>Desarrollar la funcionalidad que permita a los clientes registrarse en la plataforma como turistas, proporcionando sus datos completos y creando automáticamente su perfil de turista.</td>
+       <td>3</td>
+       <td>Aldo Baldeón</td>
+       <td>In process</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Manejar Registro Fallido de Turista</td>
+       <td>Desarrollar la funcionalidad para manejar casos donde el cliente intenta crear un perfil de turista con datos incompletos, mostrando un mensaje de error que indica la necesidad de proporcionar todos los datos requeridos.</td>
+       <td>3</td>
+       <td>Aldo Baldeón</td>
+       <td>In process</td>
+    </tr>
+     <tr>
+       <td rowspan="3">US07</td>
+       <td rowspan="3">Contactar con proveedores</td>
+       <td>T01</td>
+       <td>Implementar la interfaz de centro de mensajes</td>
+       <td>Diseñar y desarrollar la interfaz de usuario del centro de mensajes donde los turistas pueden comunicarse con los proveedores.</td>
+       <td>3</td>
+       <td>Cristian Quito</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar la funcionalidad de chat</td>
+       <td>Desarrollar la funcionalidad que permita a los turistas abrir un chat con un proveedor seleccionado y enviar mensajes a través de un cuadro de entrada.</td>
+       <td>2</td>
+       <td>Cristian Quito</td>
+       <td>To Review</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar notificaciones de mensajes nuevos</td>
+       <td>Desarrollar la funcionalidad que notificará a los proveedores cuando reciban un nuevo mensaje de un turista en el centro de mensajes.</td>
+       <td>4</td>
+       <td>Cristian Quito</td>
+       <td>To do</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US10</td>
+       <td rowspan="2">Explorar paquetes de viaje</td>
+       <td>T01</td>
+       <td>Diseñar la interfaz de paquetes de viaje</td>
+       <td>Diseñar la interfaz de usuario para mostrar la lista de paquetes de viaje predeterminados disponibles en la plataforma.</td>
+       <td>5</td>
+       <td>Diego Esquivel</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar la reserva de paquetes de viaje</td>
+       <td>Desarrollar la funcionalidad que permita a los turistas seleccionar y reservar paquetes de viaje, guiándolos a través del proceso de reserva que incluye proporcionar información personal, seleccionar fechas y realizar el pago.</td>
+       <td>4</td>
+       <td>Diego Esquivel</td>
+       <td>In Process</td>
+    </tr>
+    <tr>
+       <td rowspan="3">US19</td>
+       <td rowspan="3">Crear un apartado de preguntas y tutoriales</td>
+       <td>T01</td>
+       <td>Implementar la interfaz de centro de mensajes</td>
+       <td>Diseñar la interfaz de usuario de la sección de preguntas frecuentes y tutoriales, incluyendo la disposición de elementos como la lista de preguntas frecuentes y los enlaces a tutoriales.</td>
+       <td>2</td>
+       <td>Bruce Cipriano</td>
+       <td>In Process</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Desarrollar la Lista de Preguntas Frecuentes</td>
+       <td>Desarrollar la funcionalidad para mostrar una lista de preguntas frecuentes con respuestas detalladas en la sección correspondiente.</td>
+       <td>1</td>
+       <td>Bruce Cipriano</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Desarrollar la Sección de Tutoriales</td>
+       <td>Desarrollar la funcionalidad para mostrar tutoriales que guíen a los usuarios paso a paso sobre cómo funciona la plataforma.</td>
+       <td>2</td>
+       <td>Bruce Cipriano</td>
+       <td>To do</td>
+    </tr><tr>
+       <td rowspan="2">US20</td>
+       <td rowspan="2">Publicar anuncios</td>
+       <td>T01</td>
+       <td>Diseñar la interfaz de publicación de anuncios</td>
+       <td>Diseñar la interfaz de usuario para la publicación de anuncios, incluyendo campos para el nombre de la publicidad, monto y la opción para subir una imagen.</td>
+       <td>3</td>
+       <td>Cristian Quito</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar la publicación de anuncios exitosos</td>
+       <td>Desarrollar la funcionalidad que permita a los proveedores publicar anuncios exitosamente, redirigiéndolos a la sección "Mis anuncios publicitarios" y mostrando un mensaje de confirmación.</td>
+       <td>2</td>
+       <td>Cristian Quito</td>
+       <td>To Review</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US21</td>
+       <td rowspan="2">Obtener datos estadísticos de publicidad</td>
+       <td>T01</td>
+       <td>Diseñar la interfaz de estadísticas de publicidad</td>
+       <td>Diseñar la interfaz de usuario para mostrar estadísticas de publicidad, incluyendo una lista de anuncios con la cantidad de interacciones y clics.</td>
+       <td>2</td>
+       <td>Cristian Quito</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar la obtención de datos de estadísticas</td>
+       <td>Desarrollar la funcionalidad que permita a los proveedores obtener datos precisos sobre la efectividad de sus anuncios publicitarios.</td>
+       <td>2</td>
+       <td>Cristian Quito</td>
+       <td>Done</td>
+    </tr>
+   </table>
+
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
