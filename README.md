@@ -4471,12 +4471,12 @@ La primera versi√≥n del frontend Web Aplication fue creada aplicando la metolog√
 
 * Evidencia de Gitflow durante el sprint 2:
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157501737318494308/image.png?ex=6518d6ff&is=6517857f&hm=23b73c59c44046d45a01449730f5f77ae8e2870bc0100e5515e6de284ee180e1&" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157616296242974781/image.png?ex=651941b0&is=6517f030&hm=8099b8c83e296dad6657ff15235e4a89181c3cb0629c39da8d17fe0f445d3bed&=&width=1102&height=531" alt="contributions" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 * Contribuciones de cada integrante del equipo:
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1150513585068441750/image.png" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157615339492876398/image.png?ex=651940cc&is=6517ef4c&hm=94a7639de8d8f3fa2c2626be6b7dbda1175fbbd9fbf39de5a56b69b64c8fa241&=&width=643&height=646" alt="contributions" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 # Conclusiones
