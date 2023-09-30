@@ -4288,7 +4288,7 @@ La landing page fue creada aplicando la metología Gitflow, el cual ha permitido
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>29</td>
+    <td>27</td>
   </tr>
 </table>
 
