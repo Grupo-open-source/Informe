@@ -308,35 +308,6 @@ Aspiramos a ser una empresa líder y respetada a nivel global en la industria de
       Ingeniería de Software
     </td>
   </tr>
-  <tr>
-    <td>
-      <strong>Acerca de:</strong> <br>
-      <p>
-        Soy Bruce Actualmente estudio Ingeniería de Software en UPC (Universidad Peruana de Ciencias Aplicadas). Me gustó la carrera porque siempre quería saber sobre cómo funcionaban las computadoras, teléfonos, todos los aparatos electrónicos. Por esta razón, decidí elegir la carrera de ingeniería de software.
-      </p>  
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3"> <img src="https://cdn.discordapp.com/attachments/1146643631516680222/1153919705711661119/Imagen_1.jpeg" alt="Anthony Loarte" style="margin-bottom: 5px;" width="620"/> </td>
-    <td> 
-      <strong>Nombres y apellidos:</strong> <br>
-      Anthony Brahan Loarte Matos
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Carrera:</strong> <br>
-      Ingeniería de Software
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Acerca de:</strong> <br>
-      <p>
-        Soy Anthony Brahan Loarte Matos, actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Me apasiona todo lo relacionado a la tecnología, los avances tecnológicos y los procesos de arquitectura para el desarrollo de software. Asimismo, cuento con la capacidad para innovar en el diseño y desarrollo de proyectos. Finalmente, poseo conocimientos intermedios en C++, SQL Server, Html y CSS.
-      </p>  
-    </td>
-  </tr>
 </table>
 
 ## 1.2. Solution Profile
