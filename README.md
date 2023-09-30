@@ -4170,8 +4170,8 @@ Enlace del Trello: [Sprint Backlog 1 - Odyssey](https://trello.com/invite/b/Iea7
 | https://github.com/Odyssey-UPC/TPlanner-landing-page | main| 1b4ee5e145773061328c8dc0e468d99d415f19ca | Merge pull request #5 from Odyssey-UPC/release-1.0 | Release 1.0 | 10/09/2023 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
-|--------------------|------------|-----------------|-----------------------|----------------------|
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
 | US01/ https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%201/US01.feature | Cipriano.Bruce-feature-Sprint1-US01 | 5d22548 | feat: add gherkin US01 | add gherkin US01 | 20/09/2023 |
 | US02/ https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%201/US02.feature | Cipriano.Bruce-feature-Sprint1-US02 | c266dd3 | feat: add gherkin US02 | add gherkin US02 | 20/09/2023 |
 | US03/ https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%201/US03.feature | Cipriano.Bruce-feature-Sprint1-US03 | b3c916a | feat: add gherkin US03 | add gherkin US03 | 20/09/2023 |
