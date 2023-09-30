@@ -4485,6 +4485,19 @@ Link del API fake: [TPlanner API fake](https://7xjtrpj1-3000.brs.devtunnels.ms/)
 </table>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Para este sprint, el despliegue se realizó en la plataforma de Firebase. Para ello, se ejecutó el comando npm run build para crear una carpeta con la aplicación lista para pasar a producción. Asimismo, tuvimos que asignar recursos en Firebase y establecer una configuración con nuestra cuenta de gmail. De esta manera, se logró que nuestra aplicación pueda accederse desde cualquier parte del mundo desde un dispositivo con conexión a internet.
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627080813580380/image.png?ex=65194bbb&is=6517fa3b&hm=dc55e7205fdbbc5aabe03f5688338594e004b403dbc41e2b1b6cdfbdfe1765eb&=&width=956&height=395" alt="step 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627232781602906/image.png?ex=65194bdf&is=6517fa5f&hm=8594e1ae3c0dd153862bc6bdf81c8f21b7922c8d06ed09bc126e57baee01ee70&=&width=1440&height=596" alt="step 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627301043908678/image.png?ex=65194bf0&is=6517fa70&hm=a363214ed22740c90040dfda41981538dbe08122a930f7dd1236ff476ac9247b&=&width=891&height=337" alt="step 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 La primera versión del frontend Web Aplication fue creada aplicando la metología Gitflow, el cual ha permitido una distribución uniforme y el avance independiente de cada funcionalidad asignada a cada integrante del equipo. Además, Gitflow proporciona un marco sólido para la gestión de versiones y la implementación continua, lo que ha agilizado significativamente el proceso de desarrollo y despliegue. Gracias a esta metodología, hemos logrado mantener un flujo constante de entregas y actualizaciones, garantizando así que la El frontend Web Aplicatión esté siempre actualizada y cumpla con las expectativas de nuestros usuarios.
 * La nomenclatura para el nombre de las ramas:
