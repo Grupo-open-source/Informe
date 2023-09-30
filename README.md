@@ -4325,6 +4325,20 @@ En esta sección, se detalló el contenido del Sprint Backlog 2. Para una gesti�
 | https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from Odyssey-UPC/feature/add_navbar | feat: navbar added | 29/09/2023 |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|----------------------|---------------------|
+|US01/https://github.com/Odyssey-UPC/Acceptance-Tests/tree/main/epic-01 |Cipriamo.Bruce-feature-Sprint2-US01|cbf4ef0|feat: add gherkin US01|add gherkin US01|
+|US08/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-03/us08.feature |Cipriamo.Bruce-feature-Sprint2-US08|9d3bbdd|feat: add gherkin US08|add gherkin US08|
+|US10/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-02/us10.feature |Cipriamo.Bruce-feature-Sprint2-US10|2aa5c38|feat: add gherkin US10|add gherkin US10|
+|US13/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-07/us13.feature |Cipriamo.Bruce-feature-Sprint2-US13|7bf28f1|feat: add gherkin US13|add gherkin US13|
+|US15/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-04/us15.feature |Cipriamo.Bruce-feature-Sprint2-US15|b1a9d41|feat: add gherkin US15|add gherkin US15|
+|US16/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-07/us16.feature |Cipriamo.Bruce-feature-Sprint2-US16|e557613|feat: add gherkin US16|add gherkin US16|
+|US19/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-05/us19.feature |Cipriamo.Bruce-feature-Sprint2-US19|5b7854a|feat: add gherkin US19|add gherkin US19|
+|US20/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us20.feature |Cipriamo.Bruce-feature-Sprint2-US20|2c65b91|feat: add gherkin US20|add gherkin US20|
+|US21/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us21.feature |Cipriamo.Bruce-feature-Sprint2-US21|566584c|feat: add gherkin US21|add gherkin US21|
+
+
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 A continuación, se detallará los endpoints que se han desarollado en el API fake. De esta manera, podemo realizar las operaciones CRUD necesarias para esta primera versión, logrando una aplicación web dinámica.
