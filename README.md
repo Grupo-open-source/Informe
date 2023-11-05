@@ -5027,6 +5027,30 @@ La primera versión del backend Web Aplication fue creada aplicando la metologí
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
+* Preguntas generales:
+  * ¿Cómo te llamas?
+  * ¿Cuántos años tienes?
+  * ¿Dónde vives actualmente?
+  * ¿A qué te dedicas?
+
+* Segmento: Turista
+  * Después de explorar la aplicación Tplanner, ¿crees que te ayudará a crear itinerarios de viajes de manera efectiva y personalizada?
+  * ¿Encuentras que Tplanner facilita la planificación de tus actividades y la gestión de tu tiempo durante el viaje?
+  * ¿Crees que la aplicación te proporciona una variedad de opciones de actividades ofrecidas por los proveedores de servicios?
+  * ¿Qué opinas sobre el diseño y la facilidad de uso de la aplicación Tplanner?
+  * ¿Con qué frecuencia utilizarías la aplicación para planificar tus viajes y actividades?
+  * ¿Qué aspectos te gustan más de Tplanner, y hay alguna característica que sientas que falta en la aplicación desde la perspectiva del turista?
+  * ¿Estarías dispuesto a recomendar Tplanner a otros viajeros a través de tus redes sociales?
+
+* Segmento: Proveedor de Servicios
+  * Después de conocer Tplanner y su enfoque en ayudar a los turistas a planificar itinerarios de viaje, ¿crees que la aplicación puede ser una herramienta efectiva para promocionar tus servicios y actividades?
+  * ¿Encuentras que Tplanner te ofrece una plataforma conveniente para presentar tus servicios y actividades a los turistas?
+  * ¿Crees que la aplicación puede aumentar la visibilidad de tu negocio y atraer más clientes?
+  * ¿Qué opinas sobre el diseño de la plataforma y su facilidad de uso desde la perspectiva del proveedor de servicios?
+  * ¿Con qué frecuencia estarías dispuesto a utilizar Tplanner para promocionar tus servicios y actividades?
+  * ¿Qué aspectos te gustan más de Tplanner, y hay alguna característica que sientas que falta en la aplicación desde la perspectiva del proveedor de servicios?
+  * ¿Estarías dispuesto a recomendar Tplanner a otros proveedores de servicios turísticos a través de tus redes sociales?
+
 
 ### 5.3.2. Registro de Entrevistas.
 
