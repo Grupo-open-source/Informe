@@ -5063,7 +5063,38 @@ La primera versión del backend Web Aplication fue creada aplicando la metologí
    * Resumen de la entrevista:
      * Durante la entrevista con Gabriel, un potencial usuario de nuestra innovadora aplicación "Tplanner", quedó impresionado por su singularidad. Le atrajo la posibilidad de crear itinerarios de viaje personalizados o elegir opciones predeterminadas. Además, valoró la simplicidad y practicidad de la aplicación. Gabriel también expresó su interés en la frecuencia con la que podría depender de nuestros paquetes de actividades y apreció la adaptabilidad de la app junto con nuestros filtros para actividades. Incluso se mostró dispuesto a recomendar nuestra aplicación a través de sus redes sociales.
 
+
+
+  * **Entrevista 02**
+  * Nombres: Agustin 
+  * Apellidos:  Aguilar
+  * Edad: 21 años
+  * Distrito: lima, breña
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1146654443220242462/1170851265312460910/image.png?ex=655a8b37&is=65481637&hm=92025df59462e2ded4eb6ea212ba60f1b73cdf831e85b485d7c9e418ebb39fa2&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * En la entrevista con Agustin, se discutió la necesidad de mejorar la interfaz de la aplicación. Agustin sugirió que la interfaz debería ser más colorida y que las letras deberían ser más grandes para mejorar la usabilidad. No se proporcionó información adicional sobre otros aspectos de la aplicación en esta entrevista.
+
+
+     
+  * **Entrevista 03**
+  * Nombres: Godofredo 
+  * Apellidos: Qspe tipo
+  * Edad: 21 años
+  * Distrito: lima, san miguel
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1146654443220242462/1170851790317686976/image.png?ex=655a8bb4&is=654816b4&hm=580c2333fb7a7a267824efd3acd1a03f65bad8e953236dd6ba5150517606b07a&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * En la entrevista con Godofredo, se planteó la sugerencia de mejorar la interfaz de la aplicación. Godofredo también destacó la importancia de hacer que la interfaz sea más colorida y las letras más grandes para mejorar la usabilidad. Además, sugirió que la aplicación podría beneficiarse de una mayor variedad de iconos y una navegación más intuitiva. Estas recomendaciones apuntan a una experiencia de usuario más atractiva y fácil de usar.
 <br>
+
+
 
 * ***Segmento: Proveedor de Servicios***
   * **Entrevista 01**
@@ -5078,6 +5109,39 @@ La primera versión del backend Web Aplication fue creada aplicando la metologí
 
    * Resumen de la entrevista:
      * En la entrevista con Adrían, nos menciona del gran potencial que presenta nustra aplicación y como ello puedo potenciar los negocios del rubro turístico. Asimismo nos cuenta que le encanto la interfaz, pues presenta un diseño cálido y redondo. Por otro lado, destacó la funcionlaidad de ver varios servicios turisticos agrupados y con una descripción completa de este. Por útlimo, se mostró dispuesto a recomendar nuestra aplicación con sus colegas debido a la gran capacidad que presenta TPlanner para conectar los proveedores con los turístas. 
+
+
+
+
+
+ * **Entrevista 02**
+  * Nombres: Ray Alessandro 
+  * Apellidos: Del Carmen Zorrilla
+  * Edad: 20 años
+  * Distrito: lima puente piedra
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1146654443220242462/1170848855101804674/image.png?ex=655a88f8&is=654813f8&hm=59298b61b7a54664115b4e194bfe75d9f3b12ee0581e487ad57692b65c477212&" alt="Entrevista 1" width="90%"/>
+</div>
+
+ * Resumen de la entrevista:
+     * Ray Alessandro expresó la importancia de mejorar la interfaz de la aplicación, haciendo hincapié en que la interfaz debería ser más colorida y que las letras deberían ser más grandes. Al igual que otros entrevistados, Ray Alessandro destacó la necesidad de una experiencia de usuario más atractiva y una mejor usabilidad. Estas sugerencias se suman a la tendencia de usuarios que desean una interfaz más visualmente atractiva y fácil de leer en la aplicación "Tplanner".
+
+ * **Entrevista 03**
+  * Nombres: Anthony Brahan
+  * Apellidos: Loarte Matos
+  * Edad: 25 años
+  * Distrito: ciudad de tumbes
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1146654443220242462/1170853943316860980/image.png?ex=655a8db5&is=654818b5&hm=c05e409ec5ba5ccbb40fb9a90498c48c0db7804a39f06c1426c590171a253d20&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * En la entrevista con Anthony Brahan, se discutió la necesidad de mejorar la interfaz de la aplicación "Tplanner". Anthony compartió la sugerencia de hacer que la interfaz sea más colorida y destacó la importancia de que las letras sean más grandes. Estas recomendaciones apuntan a una experiencia de usuario más atractiva y legible en la aplicación. La opinión de Anthony se alinea con la de otros entrevistados que buscan una interfaz visualmente atractiva y fácil de usar en la aplicación.
+
+
+
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
