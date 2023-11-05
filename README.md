@@ -5066,6 +5066,180 @@ La primera versión del backend Web Aplication fue creada aplicando la metologí
      * En la entrevista con Adrían, nos menciona del gran potencial que presenta nustra aplicación y como ello puedo potenciar los negocios del rubro turístico. Asimismo nos cuenta que le encanto la interfaz, pues presenta un diseño cálido y redondo. Por otro lado, destacó la funcionlaidad de ver varios servicios turisticos agrupados y con una descripción completa de este. Por útlimo, se mostró dispuesto a recomendar nuestra aplicación con sus colegas debido a la gran capacidad que presenta TPlanner para conectar los proveedores con los turístas. 
 
 ### 5.3.3. Evaluaciones según heurísticas.
+#### <div align="center">UX Heuristics & Principles Evaluation</div>
+
+##### <div align="center">Usability – Inclusive Design – Information Architecture</div>
+
+<b> Carrera: </b> Ingeniería de Software
+<b> Curso: </b> Open Source
+<b> Sección: </b> WS52
+<b> Profesor: </b> Elio Jefferrson Navarrete Vilca
+<b> Auditor: </b> Odyssey
+
+<b> <em> SITE O APP A EVALUAR: </em> </b> <br>
+TPlanner
+
+<b> <em> TAREAS A EVALUAR: </em> </b> <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+<b>TAREAS A EVALUAR:</b> <br>
+
+- Iniciar sesion
+- Registrarse
+- Eliger preferencias
+- Ver paquetes de viaje
+- Chatear
+- Ver preguntas frecuentes
+- Ver notificaciones
+
+No están incluídas en esta versión de la evaluación las siguientes tareas:
+
+- Ver calendario
+- Crear itinerario de viaje
+
+<b> <em> ESCALA DE SEVERIDAD: </em> </b> <br>
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>
+            <b>Nivel</b>
+        </th>
+        <th>
+            Descripción
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <b>1</b>
+        </td>
+        <td align="left">
+            Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>2</b>
+        </td>
+        <td align="left">
+            Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>3</b>
+        </td>
+        <td align="left">
+            Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>4</b>
+        </td>
+        <td align="left">
+            Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+        </td>
+    </tr>
+</table>
+
+<b> <em> TABLA DE RESUMEN: </em> </b> <br>
+La siguiente tabla resume los resultados de la evaluación:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>#</th>
+        <th>Problema</th>
+        <th>Escala de severidad</th>
+        <th>Heurística/Principio violada(o)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td align="left">Falta de opciones de inicio de sesión con Google u otras plataformas</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td align="left">Registro de usuario no validado y datos no guardados</td>
+        <td>3</td>
+        <td align="left">Usability: Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td align="left">Imposibilidad de visualizar actividades como parte de paquetes y ausencia de función de reserva</td>
+        <td>4</td>
+        <td align="left">Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td align="left">Chat estático sin capacidad de interacción</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td align="left">Visualización de preguntas frecuentes sin opción para enviar preguntas propias</td>
+        <td>2</td>
+        <td align="left">Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td align="left">Notificaciones estáticas sin información relevante</td>
+        <td>2</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+</table>
+
+<b> <em> DESCRIPCIÓN DEL PROBLEMA: </em> </b> <br>
+
+**PROBLEMA #1:** Falta de opciones de inicio de sesión con Google u otras plataformas.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso.
+<b>Problema:</b>
+Los usuarios no pueden acceder de manera rápida y sencilla debido a la falta de opciones de inicio de sesión con cuentas de Google u otras plataformas.
+<b>Recomedación:</b>
+Agregar opciones de inicio de sesión con cuentas de Google u otras plataformas para optimizar la experiencia de acceso. <br>
+
+**PROBLEMA #2:** Registro de usuario no validado y datos no guardados.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Visibilidad del estado del sistema.
+<b>Problema:</b>
+La falta de validación en el registro y la no conservación de datos pueden generar confusión y desconfianza en los usuarios durante el proceso de registro.
+<b>Recomedación:</b>
+Implementar una validación efectiva del registro y proporcionar retroalimentación visual para garantizar la correcta conservación de los datos. <br>
+
+**PROBLEMA #3:** Imposibilidad de visualizar actividades como parte de paquetes y ausencia de función de reserva.
+<b>Severidad:</b> 4
+<b>Heurística violada:</b> Usability: Consistencia y estándares.
+<b>Problema:</b>
+Los usuarios no pueden planificar viajes completos al no poder ver actividades como parte de paquetes y no tener la opción de reservar actividades.
+<b>Recomedación:</b>
+Desarrollar la funcionalidad para visualizar actividades como parte de paquetes de viaje y permitir a los usuarios realizar reservas. <br>
+
+**PROBLEMA #4:** Chat estático sin capacidad de interacción.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso.
+<b>Problema:</b>
+La falta de interacción en el chat hace que esta función sea poco atractiva y no funcional para los usuarios.
+<b>Recomedación:</b>
+Implementar la capacidad de interactuar en el chat, permitiendo a los usuarios comunicarse efectivamente entre sí. <br>
+
+**PROBLEMA #5:** Visualización de preguntas frecuentes sin opción para enviar preguntas propias.
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Consistencia y estándares
+<b>Problema:</b>
+La ausencia de una opción para que los usuarios envíen sus preguntas frecuentes limita la obtención de información adicional.
+<b>Recomedación:</b>
+Agregar la funcionalidad que permita a los usuarios enviar sus propias preguntas frecuentes y recibir respuestas. <br>
+
+**PROBLEMA #6:** Notificaciones estáticas sin información relevante.
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso
+<b>Problema:</b>
+Las notificaciones estáticas carecen de información útil y actualizada para los usuarios.
+<b>Recomedación:</b>
+Implementar notificaciones dinámicas que muestren información relevante y actualizada para mejorar la utilidad de esta función.
 
 ## 5.4. Video About-the-Product.
 
