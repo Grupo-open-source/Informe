@@ -5092,20 +5092,21 @@ Nuestro equipo usó Azure para el despligue de nuestra API Restful. Por ello se 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-La primera versión del frontend Web Aplication fue creada aplicando la metología Gitflow, el cual ha permitido una distribución uniforme y el avance independiente de cada funcionalidad asignada a cada integrante del equipo. Además, Gitflow proporciona un marco sólido para la gestión de versiones y la implementación continua, lo que ha agilizado significativamente el proceso de desarrollo y despliegue. Gracias a esta metodología, hemos logrado mantener un flujo constante de entregas y actualizaciones, garantizando así que la El frontend Web Aplicatión esté siempre actualizada y cumpla con las expectativas de nuestros usuarios.
+La primera versión del backend Web Aplication fue creada aplicando la metología Gitflow, el cual ha permitido una distribución uniforme y el avance independiente de cada funcionalidad asignada a cada integrante del equipo. Además, Gitflow proporciona un marco sólido para la gestión de versiones y la implementación continua, lo que ha agilizado significativamente el proceso de desarrollo y despliegue. Gracias a esta metodología, hemos logrado mantener un flujo constante de entregas y actualizaciones, garantizando así que la El backend Web Aplicatión esté siempre actualizada y cumpla con las expectativas de nuestros usuarios.
+
 * La nomenclatura para el nombre de las ramas:
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157507726356775002/image.png?ex=6518dc93&is=65178b13&hm=66c61c76b115e15a98ac6d3b60347205068d6c2fa7b798df846b4685fa5cd4d2&" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170732563506155580/image.png?ex=655a1caa&is=6547a7aa&hm=f4cbd844c576d17dade53359dd8d5d91e963962f335155d4367311bd86a6b050&" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 * Evidencia de Gitflow durante el sprint 3:
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157616296242974781/image.png?ex=651941b0&is=6517f030&hm=8099b8c83e296dad6657ff15235e4a89181c3cb0629c39da8d17fe0f445d3bed&=&width=1102&height=531" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://media.discordapp.net/attachments/859891786825596930/1170731680147980400/image.png?ex=655a1bd7&is=6547a6d7&hm=01c6ea74aa1f8a38598fdc1905274733535498518d45854463ecadf1287fe743&=&width=721&height=210" alt="contributions" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 * Contribuciones de cada integrante del equipo:
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157615339492876398/image.png?ex=651940cc&is=6517ef4c&hm=94a7639de8d8f3fa2c2626be6b7dbda1175fbbd9fbf39de5a56b69b64c8fa241&=&width=643&height=646" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170731814466367518/image.png?ex=655a1bf7&is=6547a6f7&hm=2b41234088b986e0b421764d5989f90fa37653dae2c83d5393167c4c281913c1&" alt="contributions" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 ## 5.3. Validation Interviews.
