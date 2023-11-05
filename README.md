@@ -5068,17 +5068,26 @@ Link del API fake: [TPlanner API fake](https://7xjtrpj1-3000.brs.devtunnels.ms/)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
-Para este sprint, el despliegue se realizó en la plataforma de Firebase. Para ello, se ejecutó el comando npm run build para crear una carpeta con la aplicación lista para pasar a producción. Asimismo, tuvimos que asignar recursos en Firebase y establecer una configuración con nuestra cuenta de gmail. De esta manera, se logró que nuestra aplicación pueda accederse desde cualquier parte del mundo desde un dispositivo con conexión a internet.
+Nuestro equipo usó Azure para el despligue de nuestra API Restful. Por ello se añadió la integración continua. Esto nos brinda la facilidad de usar nuestro Github para hacer futuros despliegues automáticamente.
+
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627080813580380/image.png?ex=65194bbb&is=6517fa3b&hm=dc55e7205fdbbc5aabe03f5688338594e004b403dbc41e2b1b6cdfbdfe1765eb&=&width=956&height=395" alt="step 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170567567748907120/image.png?ex=65598300&is=65470e00&hm=d973b8a356a5aa3346f213ef88d907d9fe7002ba6a83410a2bd9d9c755eadecf&" alt="step 1" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627232781602906/image.png?ex=65194bdf&is=6517fa5f&hm=8594e1ae3c0dd153862bc6bdf81c8f21b7922c8d06ed09bc126e57baee01ee70&=&width=1440&height=596" alt="step 2" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170567594189787188/image.png?ex=65598306&is=65470e06&hm=59fc9f9387649f26964e0adb164fa0280949ce55c0c2c91fcc124aff6ec3ab64&" alt="step 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627301043908678/image.png?ex=65194bf0&is=6517fa70&hm=a363214ed22740c90040dfda41981538dbe08122a930f7dd1236ff476ac9247b&=&width=891&height=337" alt="step 3" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170567639899324498/image.png?ex=65598311&is=65470e11&hm=9829a6aff200fb658443766478661940d372f08a61240ded7b2dbc8693b654dc&" alt="step 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170567831243464856/image.png?ex=6559833f&is=65470e3f&hm=3f621acdf5b875bd8c46034cd823abec5f154276d95613d54ae0dac282bbdcad&" alt="step 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170730208366702652/image.png?ex=655a1a78&is=6547a578&hm=da6737fd3783793f86378c3e7c79b8e55a5f23636f0c44c8f392e16c9fd1237b&" alt="step 3" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
