@@ -4946,8 +4946,8 @@ En las siguientes imagenes, se mostrará las evidencias de ejecución de nuestra
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-A continuación, se detallará los endpoints que se han desarollado en el API fake. De esta manera, podemo realizar las operaciones CRUD necesarias para esta primera versión, logrando una aplicación web dinámica.
-Link del API fake: [TPlanner API fake](https://7xjtrpj1-3000.brs.devtunnels.ms/)
+A continuación, se detallará los endpoints que se han desarollado en el API Restful. De esta manera, podemo realizar las operaciones CRUD necesarias para esta primera versión, logrando una aplicación web dinámica.
+Link del API Restful: [TPlanner API RestFul](https://tplannerapi.azurewebsites.net/swagger-ui/index.html#/)
 <table>
   <thead>
     <tr>
@@ -4958,109 +4958,24 @@ Link del API fake: [TPlanner API fake](https://7xjtrpj1-3000.brs.devtunnels.ms/)
   </thead>
   <tbody>
     <tr>
-      <td>/Operation</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157554489914564678/image.png?ex=65190820&is=6517b6a0&hm=eba844c50a6b2e2446a8d5e1094ada2255eb419f3d0707ec087ab5e14fbde263&" alt="/Operation evidence"></td>
-      <td>Endpoint para acceder a las operaciones que se realizó con el itinerario.</td>
+      <td>/User</td>
+      <td><img src="https://cdn.discordapp.com/attachments/859891786825596930/1170733491542044692/image.png?ex=655a1d87&is=6547a887&hm=edd63b58680a6329928a1759a6aa60ec237a072422e0485c5e5be39533882af9&" alt="/User evidence"></td>
+      <td>Endpoint para acceder a los users.</td>
     </tr>
     <tr>
-      <td>/Product</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157554567320457226/image.png?ex=65190833&is=6517b6b3&hm=386d49adf9ce163f06f9716105b01a9adb841a54eb2edf5a586e783ff51edd32&" alt="/Product evidence"></td>
-      <td>Endpoint para acceder a los productos de la tienda promocional.</td>
-    </tr>
-    <tr>
-      <td>/Reviews</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157554620256751656/image.png?ex=6519083f&is=6517b6bf&hm=8478528861e7bf264faa00fcf69d816aa07cf027bf8ae1ac291270df72d45e29&" alt="/Reviews evidence"></td>
-      <td>Endpoint para acceder a las reseñas de cada servicio turístico.</td>
-    </tr>
-    <tr>
-      <td>/SwapiFyShop_Catalog</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157554681279692860/image.png?ex=6519084e&is=6517b6ce&hm=a5ab2de55ad00d05444011bded38555c632367360ec25798bbe2e0388418f0f9&" alt="/SwapiFyShop_Catalog evidence"></td>
-      <td>Endpoint para acceder a los catálogos de cada temporada.</td>
-    </tr>
-    <tr>
-      <td>/SwapifyShop_order</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157561774464303174/image.png?ex=65190ee9&is=6517bd69&hm=ac1d5ca99fe35466b44b1e713eed6215ab830e671ae61c417f1260d1f73765c9&" alt="/SwapifyShop_order evidence"></td>
-      <td>Endpoint para acceder a las ordenes que se llevaran a cabo en la tienda promocional.</td>
-    </tr>
-    <tr>
-      <td>/address</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157562397423312896/image.png?ex=65190f7e&is=6517bdfe&hm=f19f4e92d847ee15161fdd8fa5225efb58225b52a6b4acd05a3482897055ac47&" alt="/address evidence"></td>
-      <td>Endpoint para acceder a las direcciones.</td>
-    </tr>
-    <tr>
-      <td>/advertisement</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157563034856849462/image.png?ex=65191015&is=6517be95&hm=90b0e3c46444e155474e386b0598531f780d6c7dc795d9af2cdf4ad3350d1744&" alt="/advertisement evidence"></td>
-      <td>Endpoint para acceder a los anuncios publicitarios.</td>
-    </tr>
-    <tr>
-      <td>/chat</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157563074820177970/image.png?ex=6519101f&is=6517be9f&hm=9be3c2fd35a1363bad9046cc2cef33a686c8d6f2366e51f72d69c040cf80c668&" alt="/chat evidence"></td>
-      <td>Endpoint para acceder al chat.</td>
-    </tr>
-    <tr>
-      <td>/chat_line</td>
-      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157563118600335400/image.png?ex=65191029&is=6517bea9&hm=bfef403e2cd5e4d520c0029c692d2fb33a248cf5e756f10969b391667ef61902&" alt="/chat_line evidence"></td>
-      <td>Endpoint para acceder al contenido del chat.</td>
-    </tr>
-    <tr>
-      <td>/city</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157563956253184060/image.png?ex=651910f1&is=6517bf71&hm=b9aab41a9339f634e15e7b8dfad141418f3788257fd4028834cb2d7cc5b53e4b&=&width=348&height=231" alt="/city evidence"></td>
-      <td>Endpoint para acceder a las ciudades registradas en nuestra aplicación</td>
-    </tr>
-    <tr>
-      <td>/country</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564100843421746/image.png?ex=65191114&is=6517bf94&hm=8da3b45f8d1012c5f599d7f92347ef3523cfce2bbbb804bba61952bed0d3ffb6&=&width=477&height=198" alt="/country evidence"></td>
-      <td>Endpoint para acceder a los países registrados en nuestra aplicación.</td>
-    </tr>
-    <tr>
-      <td>/product_category</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564023219441694/image.png?ex=65191101&is=6517bf81&hm=7368ca337624a7624cc34596b789565577db152f6e2883d0d38a2dcb04e7a4ce&=&width=552&height=208" alt="/product_category evidence"></td>
-      <td>Endpoint para acceder a la categoría de nuestros productos de nuestra tienda promocional.</td>
-    </tr>
-    <tr>
-      <td>/service_category</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564272709210172/image.png?ex=6519113d&is=6517bfbd&hm=4fad5c6009a6b0316f28f59cd653bc71fbd2979ccae67bbeee7027df4667ea4a&=&width=837&height=233" alt="/service_category evidence"></td>
-      <td>Endpoint para acceder a la categoría de los servicios turísticos.</td>
-    </tr>
-    <tr>
-      <td>/suscription</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564660481003520/image.png?ex=65191199&is=6517c019&hm=53ad2114063df7b0a59132faea6ae2c4b8f37c6c7187b25a3e2f2dfdc5d08306&=&width=555&height=215" alt="/suscription evidence"></td>
-      <td>Endpoint para acceder a las suscripciones</td>
-    </tr>
-    <tr>
-      <td>/suscription_invoice</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564692458389545/image.png?ex=651911a1&is=6517c021&hm=60982a87873a0728a6d4ed253b646cb799369077614329c2b2814782ec3d7124&=&width=591&height=243" alt="/suscription_invoice evidence"></td>
-      <td>Endpoint para acceder a los pagos de suscripciones</td>
-    </tr>
-    <tr>
-      <td>/tourist</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564718924451841/image.png?ex=651911a7&is=6517c027&hm=5fe6ece4b12ad53cf9e94d36cc16782a5bdd3ad82e5b445992c0eb3c7eafa8ee&=&width=497&height=390" alt="/tourist evidence"></td>
+      <td>/Tourist</td>
+      <td><img src="https://cdn.discordapp.com/attachments/859891786825596930/1170733537054425178/image.png?ex=655a1d92&is=6547a892&hm=dd2764a35c52c553d1d91539aef2842fd293a6b7d1cd875e199abadb8dde73ad&" alt="/Tourist evidence"></td>
       <td>Endpoint para acceder a los turistas.</td>
     </tr>
     <tr>
-      <td>/tourist_provider</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564745684090910/image.png?ex=651911ad&is=6517c02d&hm=d80bdbfbbf80eadc0fe91a5bc330a464ae6b027dfd7eafb86fd078b9c4495f8c&=&width=768&height=346" alt="/tourist_provider evidence"></td>
-      <td>Endpoint para accedera a los proveedores turísticas.</td>
+      <td>/Tourist-Provider</td>
+      <td><img src="https://cdn.discordapp.com/attachments/859891786825596930/1170733566267768984/image.png?ex=655a1d99&is=6547a899&hm=fb866aba429172f57a1517b3f3016cc6836fe5eaa3e3d80bd0f6e04d20c92cc1&" alt="/Tourist-Provider evidence"></td>
+      <td>Endpoint para acceder a los proveedores turísticos.</td>
     </tr>
     <tr>
-      <td>/travel_itinerary</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157565262237814905/image.png?ex=65191229&is=6517c0a9&hm=9bd89b5afb327a90d277b474d3314bea27302f58f0bd0a6418faa973fcc88b1b&=&width=721&height=271" alt="/travel_itinerary evidence"></td>
-      <td>Endpoint para acceder a loss itinerarios de viajes.</td>
-    </tr>
-    <tr>
-      <td>/travel_itinerary_turist_service</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157565319418757150/image.png?ex=65191236&is=6517c0b6&hm=124457f1b1570c05ce2b188c5f9de46b000d75771a7128d9e02a64c1e1702105&=&width=407&height=188" alt="/travel_itinerary_turist_service evidence"></td>
-      <td>Endpoint para acceder a los itinerarios formados por los servicios turísticos.</td>
-    </tr>
-    <tr>
-      <td>/tourist_service</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157565356978749440/image.png?ex=6519123f&is=6517c0bf&hm=47481d8cb5cff4182f69950b794286ee454cc73ec1664d525e8fa8e67f0e4229&=&width=825&height=646" alt="/tourist_service evidence"></td>
-      <td>Endpoint para acceder a los servicios turísticos.</td>
-    </tr>
-    <tr>
-      <td>/tourist_service_thumbnail</td>
-      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157565404412125194/image.png?ex=6519124a&is=6517c0ca&hm=0b2783ed0499ff3d7ba80cac81e6c759f30dfbf93e6007b8affa75ab93ed1b6c&=&width=1440&height=600" alt="/tourist_service_thumbnail evidence"></td>
-      <td>Endpoint para acceder a las imagenes de los servicios.</td>
+      <td>/Chat</td>
+      <td><img src="https://cdn.discordapp.com/attachments/859891786825596930/1170733599834771577/image.png?ex=655a1da1&is=6547a8a1&hm=7498d8a6b9c8570e81bc5121dcc6ab7cdf2d15986bf517efcef9ba89f0029df2&" alt="/Chat evidence"></td>
+      <td>Endpoint para acceder a los chats.</td>
     </tr>
   </tbody>
 </table>
