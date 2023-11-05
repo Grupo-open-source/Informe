@@ -5049,10 +5049,24 @@ La primera versión del backend Web Aplication fue creada aplicando la metologí
 
 ### 5.3.2. Registro de Entrevistas.
 
-* Segmento: Turista
+* ***Segmento: Turista***
+  * **Entrevista 01**
+  * Nombres:  Gabriel Sebastian
+  * Apellidos:  Careño Campos
+  * Edad: 19 años
+  * Distrito:  Cercado de Lima
 
-* Segmento: Proveedor de Servicios
-  * **Entrevista 1**
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1170819351939649666/image.png?ex=655a6d7e&is=6547f87e&hm=b4cad670ddd35b0e96ca8ced47d1a94aaba8c6a7e11d6fa98772dacb1e01389e&&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * Durante la entrevista con Gabriel, un potencial usuario de nuestra innovadora aplicación "Tplanner", quedó impresionado por su singularidad. Le atrajo la posibilidad de crear itinerarios de viaje personalizados o elegir opciones predeterminadas. Además, valoró la simplicidad y practicidad de la aplicación. Gabriel también expresó su interés en la frecuencia con la que podría depender de nuestros paquetes de actividades y apreció la adaptabilidad de la app junto con nuestros filtros para actividades. Incluso se mostró dispuesto a recomendar nuestra aplicación a través de sus redes sociales.
+
+<br>
+
+* ***Segmento: Proveedor de Servicios***
+  * **Entrevista 01**
   * Nombres:  Adrián Martín
   * Apellidos:  Quito Igreda
   * Edad: 20 años
@@ -5065,16 +5079,17 @@ La primera versión del backend Web Aplication fue creada aplicando la metologí
    * Resumen de la entrevista:
      * En la entrevista con Adrían, nos menciona del gran potencial que presenta nustra aplicación y como ello puedo potenciar los negocios del rubro turístico. Asimismo nos cuenta que le encanto la interfaz, pues presenta un diseño cálido y redondo. Por otro lado, destacó la funcionlaidad de ver varios servicios turisticos agrupados y con una descripción completa de este. Por útlimo, se mostró dispuesto a recomendar nuestra aplicación con sus colegas debido a la gran capacidad que presenta TPlanner para conectar los proveedores con los turístas. 
 
+
 ### 5.3.3. Evaluaciones según heurísticas.
 #### <div align="center">UX Heuristics & Principles Evaluation</div>
 
 ##### <div align="center">Usability – Inclusive Design – Information Architecture</div>
 
-<b> Carrera: </b> Ingeniería de Software
-<b> Curso: </b> Open Source
-<b> Sección: </b> WS52
-<b> Profesor: </b> Elio Jefferrson Navarrete Vilca
-<b> Auditor: </b> Odyssey
+<b> Carrera: </b> Ingeniería de Software <br>
+<b> Curso: </b> Open Source <br>
+<b> Sección: </b> WS52 <br>
+<b> Profesor: </b> Elio Jefferrson Navarrete Vilca <br>
+<b> Auditor: </b> Odyssey <br>
 
 <b> <em> SITE O APP A EVALUAR: </em> </b> <br>
 TPlanner
