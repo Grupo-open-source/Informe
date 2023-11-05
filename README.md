@@ -1,4 +1,4 @@
-![image](https://github.com/Odyssey-UPC/Informe/assets/85367929/13f59db3-6dd0-41c0-8509-663f35330272)**Universidad Peruana de Ciencias Aplicadas**
+**Universidad Peruana de Ciencias Aplicadas**
 
 **Ingeniería de Software**
 
