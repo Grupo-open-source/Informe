@@ -5049,10 +5049,25 @@ La primera versión del backend Web Aplication fue creada aplicando la metologí
 
 ### 5.3.2. Registro de Entrevistas.
 
+* Segmento: Turista
+
+* Segmento: Proveedor de Servicios
+  * **Entrevista 1**
+  * Nombres:  Adrián Martín
+  * Apellidos:  Quito Igreda
+  * Edad: 20 años
+  * Distrito:  Lo Olivos, Lima
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/764720272464281612/1170775509999816836/image.png?ex=655a44a9&is=6547cfa9&hm=c63176ee95788ff7f04bbc1ea2f0cd425f7a672b63d6d781b2d20881d3d2f01d&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * En la entrevista con Adrían, nos menciona del gran potencial que presenta nustra aplicación y como ello puedo potenciar los negocios del rubro turístico. Asimismo nos cuenta que le encanto la interfaz, pues presenta un diseño cálido y redondo. Por otro lado, destacó la funcionlaidad de ver varios servicios turisticos agrupados y con una descripción completa de este. Por útlimo, se mostró dispuesto a recomendar nuestra aplicación con sus colegas debido a la gran capacidad que presenta TPlanner para conectar los proveedores con los turístas. 
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
-
 
 
 # Conclusiones
