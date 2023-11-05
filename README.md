@@ -4909,16 +4909,11 @@ En esta sección, se detalló el contenido del Sprint Backlog 3. Para una gesti�
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|----------------------|---------------------|
 | US01/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US01.feature | Cipriamo.Bruce-feature-Sprint3-US01 | c64f3d2 | feat: add gherkin US01 | add gherkin US01 |
-| US02/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US02.feature | Cipriamo.Bruce-feature-Sprint3-US02 | 
-6303f6a |feat: add gherkin US02| add gherkin US02 |
-| US09/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US09.feature | Cipriamo.Bruce-feature-Sprint3-US09 | 
-0d469d0 | feat: add gherkin US09 | add gherkin US09 |
-| US18/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US18.feature | Cipriamo.Bruce-feature-Sprint3-US18 | 
-86116cc | feat: add gherkin US18 | add gherkin US18 |
-| US22/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US22.feature | Cipriamo.Bruce-feature-Sprint3-US22 | 
-5c243b1 | feat: add gherkin US22| add gherkin US22 |
-| US24/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US24.feature | Cipriamo.Bruce-feature-Sprint3-US24 | 
-b983235 | feat: add gherkin US24 | add gherkin US24 |
+| US02/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US02.feature | Cipriamo.Bruce-feature-Sprint3-US02 | 6303f6a |feat: add gherkin US02| add gherkin US02 |
+| US09/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US09.feature | Cipriamo.Bruce-feature-Sprint3-US09 | 0d469d0 | feat: add gherkin US09 | add gherkin US09 |
+| US18/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US18.feature | Cipriamo.Bruce-feature-Sprint3-US18 | 86116cc | feat: add gherkin US18 | add gherkin US18 |
+| US22/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US22.feature | Cipriamo.Bruce-feature-Sprint3-US22 | 5c243b1 | feat: add gherkin US22| add gherkin US22 |
+| US24/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US24.feature | Cipriamo.Bruce-feature-Sprint3-US24 | b983235 | feat: add gherkin US24 | add gherkin US24 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
