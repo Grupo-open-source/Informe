@@ -4637,6 +4637,324 @@ La primera versión del frontend Web Aplication fue creada aplicando la metolog�
   <img src="https://media.discordapp.net/attachments/1037343952694685706/1157615339492876398/image.png?ex=651940cc&is=6517ef4c&hm=94a7639de8d8f3fa2c2626be6b7dbda1175fbbd9fbf39de5a56b69b64c8fa241&=&width=643&height=646" alt="contributions" style="margin-bottom: 3px;" width="1080px">
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 5.2.2.2. Sprint Backlog 4.
+En este segmento, se describen los elementos específicos incluidos en el Sprint Backlog 4. Con el fin de asegurar una administración efectiva de las responsabilidades asignadas a cada miembro del equipo, se decidió emplear Jira como la herramienta principal para el seguimiento y la organización de las actividades.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157511774506057838/image.png?ex=6518e058&is=65178ed8&hm=f5b6e30aaf050862fdf820ff7e2fea371acb5f4738cd401ac012ab9dfda489d4&" alt="Sprint Backlog 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157511877883084913/image.png?ex=6518e071&is=65178ef1&hm=bf7565e752aeb72accc07d91b7323660d69f0b56f1d250e72af310dbff60875f&" alt="Sprint Backlog 2 management" style="margin-bottom: 3px;" width="1080px">
+</p>
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Título</b></td>
+       <td><b>Id</b></td>
+       <td><b>Título</b></td>
+       <td><b>Descripción</b></td>
+       <td><b>Estimación (Horas)</b></td>
+       <td><b>Asignado a</b></td>
+       <td><b>Estado (To-do/En Proceso/Para Revisar/Hecho)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Crear perfil de turista</td>
+       <td>T01</td>
+       <td>Diseñar la interfaz de creación de perfil de turista</td>
+       <td>Diseñar la interfaz de usuario para permitir a los turistas crear su perfil, incluyendo la recopilación de datos relevantes como intereses y preferencias de viaje.</td>
+       <td>2</td>
+       <td>Aldo Baldeón</td>
+       <td>Hecho</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Implementar Registro Exitoso de Turista</td>
+       <td>Desarrollar la funcionalidad que permita a los clientes registrarse en la plataforma como turistas, proporcionando sus datos completos y creando automáticamente su perfil de turista.</td>
+       <td>3</td>
+       <td>Aldo Baldeón</td>
+       <td>En proceso</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Manejar Registro Fallido de Turista</td>
+       <td>Desarrollar la funcionalidad para manejar casos donde el cliente intenta crear un perfil de turista con datos incompletos, mostrando un mensaje de error que indica la necesidad de proporcionar todos los datos requeridos.</td>
+       <td>3</td>
+       <td>Aldo Baldeón</td>
+       <td>En proceso</td>
+    </tr>
+     <tr>
+       <td rowspan="3">US07</td>
+       <td rowspan="3">Contactar con proveedores</td>
+       <td>T01</td>
+       <td>Implementar la interfaz de centro de mensajes</td>
+       <td>Diseñar y desarrollar la interfaz de usuario del centro de mensajes donde los turistas pueden comunicarse con los proveedores.</td>
+       <td>3</td>
+       <td>Cristian Quito</td>
+       <td>En proceso</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Conectar el centro de mensajes con el backend</td>
+       <td>Establecer la conexión entre la interfaz del centro de mensajes y el backend para garantizar la transmisión efectiva de mensajes entre turistas y proveedores.</td>
+       <td>2</td>
+       <td>Cristian Quito</td>
+       <td>Para revisar</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Implementar notificaciones de mensajes</td>
+       <td>Desarrollar la funcionalidad de notificación para alertar a los usuarios sobre nuevos mensajes en el centro de mensajes.</td>
+       <td>2</td>
+       <td>Cristian Quito</td>
+       <td>To-do</td>
+    </tr>
+</table>
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+El historial de commits en GitHub proporciona una línea de tiempo clara del progreso del desarrollo. Cada commit está vinculado a una característica o tarea específica, facilitando el rastreo de cambios. La inclusión de mensajes de commit mejora aún más la comprensión.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | main | 6d1311815a38f32bc27375c5a2b816a82598404d | initial commit | initial commit | 19/09/2023 | 
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | ca649ad3fbf0163dd768b56e3920f63962ba787c | initial commit  from develop | initial commit from develop | 19/09/2023 | 
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 25/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from Odyssey-UPC/feature/add-chatting-section | feat: chatting section added | 25/09/2023 | 
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 26/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 843a170d11613b79b2108d195d57fae1e584f391 | Merge pull request #2 from Odyssey-UPC/feature/add-advertisement | feat: advertisement added | 26/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 27/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | e9170c613ab3899cd4d0bce3979a04c1e15c13d9 | Merge pull request #3 from Odyssey-UPC/feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 27/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | faq added | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 8c5114916b1af2cd1393e27c6d1d60f62f85a78d | Merge pull request #4 from Odyssey-UPC/feature/US19-Frequently-Asked-Questions | feat: faq added | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | ca792c22ac794256a9df6ee1b8bd25d67d552d52 | feat: home added | home added | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 17c4d37843a4d3a19df1df1fbf2b3106aae1c239 | Merge branch 'develop' into feature/US10 | Merge branch 'develop' into feature/US10 | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 292ee5191190e8d340dfc635e880f8a19d911e66 | Merge pull request #5 from Odyssey-UPC/feature/US10 | feat: home added | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 0cfebc55d09e920d51784b53cbd2393389900a57 | fix: faq added correctly | faq added correctly | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 52d7a68c3d3067404fb4010938cf8a766145eaf4 | Merge pull request #6 from Odyssey-UPC/feature/US19-Frequently-Asked-Questions | fix: faq added correctly | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 736f573886181d0cfabdc600491b0bc2f702223e | feat: navbar added | navbar added | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from Odyssey-UPC/feature/add_navbar | feat: navbar added | 29/09/2023 |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+La evidencia de la suite de pruebas incluye escenarios de Gherkin para varias historias de usuario. Está bien organizada y proporciona un enfoque estructurado para las pruebas. Cada característica tiene su propio conjunto de escenarios, contribuyendo a una estrategia de prueba integral.
+
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|----------------------|---------------------|
+|US01/https://github.com/Odyssey-UPC/Acceptance-Tests/tree/main/epic-01 |Cipriamo.Bruce-feature-Sprint2-US01|cbf4ef0|feat: add gherkin US01|add gherkin US01|
+|US08/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-03/us08.feature |Cipriamo.Bruce-feature-Sprint2-US08|9d3bbdd|feat: add gherkin US08|add gherkin US08|
+|US10/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-02/us10.feature |Cipriamo.Bruce-feature-Sprint2-US10|2aa5c38|feat: add gherkin US10|add gherkin US10|
+|US13/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-07/us13.feature |Cipriamo.Bruce-feature-Sprint2-US13|7bf28f1|feat: add gherkin US13|add gherkin US13|
+|US15/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-04/us15.feature |Cipriamo.Bruce-feature-Sprint2-US15|b1a9d41|feat: add gherkin US15|add gherkin US15|
+|US16/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-07/us16.feature |Cipriamo.Bruce-feature-Sprint2-US16|e557613|feat: add gherkin US16|add gherkin US16|
+|US19/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-05/us19.feature |Cipriamo.Bruce-feature-Sprint2-US19|5b7854a|feat: add gherkin US19|add gherkin US19|
+|US20/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us20.feature |Cipriamo.Bruce-feature-Sprint2-US20|2c65b91|feat: add gherkin US20|add gherkin US20|
+|US21/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us21.feature |Cipriamo.Bruce-feature-Sprint2-US21|566584c|feat: add gherkin US21|add gherkin US21|
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+La evidencia de ejecución incluye capturas de pantalla de la aplicación web implementada, mostrando diferentes características como inicio de sesión, página de inicio, chat y publicidad. Las imágenes proporcionan una visión rápida de la funcionalidad implementada.
+
+* Web Aplication Deployment: https://tplanner-2220e.web.app/login
+* Web Aplication Repository: https://github.com/Odyssey-UPC/TPlanner-Frontend
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157620808785608754/image.png?ex=651945e4&is=6517f464&hm=d8271c88587f039f9af8dd0f123d2758833cd7ec15e62aa202d9aa909d89da5e&" alt="evidence 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621073630740580/image.png?ex=65194623&is=6517f4a3&hm=2811b6021dacb2d0acc721bad41327de6384fbe5c07de52b91cd76f535c4833c&" alt="evidence 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621686523404338/image.png?ex=651946b5&is=6517f535&hm=1bc4d1c4ce1f9bd1d04da26a0fe3978d412b9b51dcd6d70bb4d7d684ca547d82&" alt="evidence 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621516599574619/image.png?ex=6519468d&is=6517f50d&hm=400079c011102c9c575a2a6e571bbaab1c5fbe45fb47221630de9e7b17f9b394&" alt="evidence 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621569284214855/image.png?ex=65194699&is=6517f519&hm=1ce753f9f9111dc801982d0c93f90b9580301b51e537bbc0693dd45c017ec21f&" alt="evidence 5" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+La documentación de los puntos finales de la API está bien estructurada, proporcionando una comprensión clara de cada servicio. La inclusión de imágenes mejora la explicación, facilitando la comprensión de las funcionalidades de la API.
+
+Link del API fake: [TPlanner API fake](https://7xjtrpj1-3000.brs.devtunnels.ms/)
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Evidencia</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/Operation</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157554489914564678/image.png?ex=65190820&is=6517b6a0&hm=eba844c50a6b2e2446a8d5e1094ada2255eb419f3d0707ec087ab5e14fbde263&" alt="/Operation evidence"></td>
+      <td>Endpoint para acceder a las operaciones que se realizó con el itinerario.</td>
+    </tr>
+    <tr>
+      <td>/Product</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157554567320457226/image.png?ex=65190833&is=6517b6b3&hm=386d49adf9ce163f06f9716105b01a9adb841a54eb2edf5a586e783ff51edd32&" alt="/Product evidence"></td>
+      <td>Endpoint para acceder a los productos de la tienda promocional.</td>
+    </tr>
+    <tr>
+      <td>/Reviews</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157554620256751656/image.png?ex=6519083f&is=6517b6bf&hm=8478528861e7bf264faa00fcf69d816aa07cf027bf8ae1ac291270df72d45e29&" alt="/Reviews evidence"></td>
+      <td>Endpoint para acceder a las reseñas de cada servicio turístico.</td>
+    </tr>
+    <tr>
+      <td>/SwapiFyShop_Catalog</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157554681279692860/image.png?ex=6519084e&is=6517b6ce&hm=a5ab2de55ad00d05444011bded38555c632367360ec25798bbe2e0388418f0f9&" alt="/SwapiFyShop_Catalog evidence"></td>
+      <td>Endpoint para acceder a los catálogos de cada temporada.</td>
+    </tr>
+    <tr>
+      <td>/SwapifyShop_order</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157561774464303174/image.png?ex=65190ee9&is=6517bd69&hm=ac1d5ca99fe35466b44b1e713eed6215ab830e671ae61c417f1260d1f73765c9&" alt="/SwapifyShop_order evidence"></td>
+      <td>Endpoint para acceder a las ordenes que se llevaran a cabo en la tienda promocional.</td>
+    </tr>
+    <tr>
+      <td>/address</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157562397423312896/image.png?ex=65190f7e&is=6517bdfe&hm=f19f4e92d847ee15161fdd8fa5225efb58225b52a6b4acd05a3482897055ac47&" alt="/address evidence"></td>
+      <td>Endpoint para acceder a las direcciones.</td>
+    </tr>
+    <tr>
+      <td>/advertisement</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157563034856849462/image.png?ex=65191015&is=6517be95&hm=90b0e3c46444e155474e386b0598531f780d6c7dc795d9af2cdf4ad3350d1744&" alt="/advertisement evidence"></td>
+      <td>Endpoint para acceder a los anuncios publicitarios.</td>
+    </tr>
+    <tr>
+      <td>/chat</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157563074820177970/image.png?ex=6519101f&is=6517be9f&hm=9be3c2fd35a1363bad9046cc2cef33a686c8d6f2366e51f72d69c040cf80c668&" alt="/chat evidence"></td>
+      <td>Endpoint para acceder al chat.</td>
+    </tr>
+    <tr>
+      <td>/chat_line</td>
+      <td><img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157563118600335400/image.png?ex=65191029&is=6517bea9&hm=bfef403e2cd5e4d520c0029c692d2fb33a248cf5e756f10969b391667ef61902&" alt="/chat_line evidence"></td>
+      <td>Endpoint para acceder al contenido del chat.</td>
+    </tr>
+    <tr>
+      <td>/city</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157563956253184060/image.png?ex=651910f1&is=6517bf71&hm=b9aab41a9339f634e15e7b8dfad141418f3788257fd4028834cb2d7cc5b53e4b&=&width=348&height=231" alt="/city evidence"></td>
+      <td>Endpoint para acceder a las ciudades registradas en nuestra aplicación</td>
+    </tr>
+    <tr>
+      <td>/country</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564100843421746/image.png?ex=65191114&is=6517bf94&hm=8da3b45f8d1012c5f599d7f92347ef3523cfce2bbbb804bba61952bed0d3ffb6&=&width=477&height=198" alt="/country evidence"></td>
+      <td>Endpoint para acceder a los países registrados en nuestra aplicación.</td>
+    </tr>
+    <tr>
+      <td>/product_category</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564023219441694/image.png?ex=65191101&is=6517bf81&hm=7368ca337624a7624cc34596b789565577db152f6e2883d0d38a2dcb04e7a4ce&=&width=552&height=208" alt="/product_category evidence"></td>
+      <td>Endpoint para acceder a la categoría de nuestros productos de nuestra tienda promocional.</td>
+    </tr>
+    <tr>
+      <td>/service_category</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564272709210172/image.png?ex=6519113d&is=6517bfbd&hm=4fad5c6009a6b0316f28f59cd653bc71fbd2979ccae67bbeee7027df4667ea4a&=&width=837&height=233" alt="/service_category evidence"></td>
+      <td>Endpoint para acceder a la categoría de los servicios turísticos.</td>
+    </tr>
+    <tr>
+      <td>/suscription</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564660481003520/image.png?ex=65191199&is=6517c019&hm=53ad2114063df7b0a59132faea6ae2c4b8f37c6c7187b25a3e2f2dfdc5d08306&=&width=555&height=215" alt="/suscription evidence"></td>
+      <td>Endpoint para acceder a las suscripciones</td>
+    </tr>
+    <tr>
+      <td>/suscription_invoice</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564692458389545/image.png?ex=651911a1&is=6517c021&hm=60982a87873a0728a6d4ed253b646cb799369077614329c2b2814782ec3d7124&=&width=591&height=243" alt="/suscription_invoice evidence"></td>
+      <td>Endpoint para acceder a los pagos de suscripciones</td>
+    </tr>
+    <tr>
+      <td>/tourist</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564718924451841/image.png?ex=651911a7&is=6517c027&hm=5fe6ece4b12ad53cf9e94d36cc16782a5bdd3ad82e5b445992c0eb3c7eafa8ee&=&width=497&height=390" alt="/tourist evidence"></td>
+      <td>Endpoint para acceder a los turistas.</td>
+    </tr>
+    <tr>
+      <td>/tourist_provider</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157564745684090910/image.png?ex=651911ad&is=6517c02d&hm=d80bdbfbbf80eadc0fe91a5bc330a464ae6b027dfd7eafb86fd078b9c4495f8c&=&width=768&height=346" alt="/tourist_provider evidence"></td>
+      <td>Endpoint para accedera a los proveedores turísticas.</td>
+    </tr>
+    <tr>
+      <td>/travel_itinerary</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157565262237814905/image.png?ex=65191229&is=6517c0a9&hm=9bd89b5afb327a90d277b474d3314bea27302f58f0bd0a6418faa973fcc88b1b&=&width=721&height=271" alt="/travel_itinerary evidence"></td>
+      <td>Endpoint para acceder a loss itinerarios de viajes.</td>
+    </tr>
+    <tr>
+      <td>/travel_itinerary_turist_service</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157565319418757150/image.png?ex=65191236&is=6517c0b6&hm=124457f1b1570c05ce2b188c5f9de46b000d75771a7128d9e02a64c1e1702105&=&width=407&height=188" alt="/travel_itinerary_turist_service evidence"></td>
+      <td>Endpoint para acceder a los itinerarios formados por los servicios turísticos.</td>
+    </tr>
+    <tr>
+      <td>/tourist_service</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157565356978749440/image.png?ex=6519123f&is=6517c0bf&hm=47481d8cb5cff4182f69950b794286ee454cc73ec1664d525e8fa8e67f0e4229&=&width=825&height=646" alt="/tourist_service evidence"></td>
+      <td>Endpoint para acceder a los servicios turísticos.</td>
+    </tr>
+    <tr>
+      <td>/tourist_service_thumbnail</td>
+      <td><img src="https://media.discordapp.net/attachments/1037343952694685706/1157565404412125194/image.png?ex=6519124a&is=6517c0ca&hm=0b2783ed0499ff3d7ba80cac81e6c759f30dfbf93e6007b8affa75ab93ed1b6c&=&width=1440&height=600" alt="/tourist_service_thumbnail evidence"></td>
+      <td>Endpoint para acceder a las imagenes de los servicios.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Para este sprint, el despliegue se realizó en la plataforma de Firebase. Para ello, se ejecutó el comando npm run build para crear una carpeta con la aplicación lista para pasar a producción. Asimismo, tuvimos que asignar recursos en Firebase y establecer una configuración con nuestra cuenta de gmail. De esta manera, se logró que nuestra aplicación pueda accederse desde cualquier parte del mundo desde un dispositivo con conexión a internet.
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627080813580380/image.png?ex=65194bbb&is=6517fa3b&hm=dc55e7205fdbbc5aabe03f5688338594e004b403dbc41e2b1b6cdfbdfe1765eb&=&width=956&height=395" alt="step 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627232781602906/image.png?ex=65194bdf&is=6517fa5f&hm=8594e1ae3c0dd153862bc6bdf81c8f21b7922c8d06ed09bc126e57baee01ee70&=&width=1440&height=596" alt="step 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157627301043908678/image.png?ex=65194bf0&is=6517fa70&hm=a363214ed22740c90040dfda41981538dbe08122a930f7dd1236ff476ac9247b&=&width=891&height=337" alt="step 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 4, se observaron varios aspectos positivos en cuanto a la colaboración del equipo. El uso eficiente de las herramientas de comunicación, como Slack y reuniones regulares, ha contribuido significativamente al flujo de información y al intercambio de ideas.
+
+* La nomenclatura para el nombre de las ramas:
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157507726356775002/image.png?ex=6518dc93&is=65178b13&hm=66c61c76b115e15a98ac6d3b60347205068d6c2fa7b798df846b4685fa5cd4d2&" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+* Evidencia de Gitflow durante el sprint 2:
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157616296242974781/image.png?ex=651941b0&is=6517f030&hm=8099b8c83e296dad6657ff15235e4a89181c3cb0629c39da8d17fe0f445d3bed&=&width=1102&height=531" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+* Contribuciones de cada integrante del equipo:
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1037343952694685706/1157615339492876398/image.png?ex=651940cc&is=6517ef4c&hm=94a7639de8d8f3fa2c2626be6b7dbda1175fbbd9fbf39de5a56b69b64c8fa241&=&width=643&height=646" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+
 # Conclusiones
 ## Conclusiones y recomendaciones.
 * Los diagramas C4, tanto el de base de datos como el de clases, ofrecen una perspectiva a alto y bajo nivel de las diversas entidades en nuestra aplicación y cómo están interconectadas entre sí.
