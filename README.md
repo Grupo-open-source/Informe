@@ -115,7 +115,23 @@
       - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)  
+    + [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint 3](#5233-development-evidence-sprint-3)
+      - [5.2.3.4. Testing Suite Evidence for Sprint 3](#5234-testing-suite-evidence-sprint-3)
+      - [5.2.3.5. Execution Evidence for Sprint 3](#5235-execution-evidence-sprint-3)
+      - [5.2.3.6. Services Documentation Evidence for Sprint 3](#5236-services-documentation-evidence-sprint-3)
+      - [5.2.3.7. Software Deployment Evidence for Sprint 3](#5237-software-deployment-evidence-sprint-3)
+      - [5.2.3.8. Team Collaboration Insights during Sprint 3](#5238-team-collaboration-insights-sprint-3)
+  * [5.3. Validation Interviews](#53-validation-interviews)
+    + [5.3.1. Design of Interviews](#531-design-of-interviews)
+    + [5.3.2. Interview Records](#532-interview-records)
+    + [5.3.3. Heuristic Evaluations](#533-heuristic-evaluations)
+  * [5.4. Video About-the-Product](#54-video-about-the-product)
+
+
 - [Conclusiones](#conclusiones)
   * [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
   * [Video About-the-Team.](#video-about-the-team)
@@ -4636,6 +4652,676 @@ La primera versión del frontend Web Aplication fue creada aplicando la metolog�
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1037343952694685706/1157615339492876398/image.png?ex=651940cc&is=6517ef4c&hm=94a7639de8d8f3fa2c2626be6b7dbda1175fbbd9fbf39de5a56b69b64c8fa241&=&width=643&height=646" alt="contributions" style="margin-bottom: 3px;" width="1080px">
 </p>
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3.
+
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2023-10-25</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>9:30 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>En el servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Quito Igreda, Cristian Andrés</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Esquivel Aguayo, Diego Martín </br> Baldeon Fabian, Aldo Alberto </br> Cipriano Chumbes, Bruce Andres</br> Quito Igreda, Cristian Andrés</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Review Summary</td>
+    <td> Se realizaron correcciones a los artefactos entregados previamente, abordando cualquier retroalimentación o problemas identificados en las entregas anteriores. Además, se completaron las partes faltantes del informe de proyecto, asegurando que esté completo y bien estructurado. Uno de los logros más destacados de este sprint fue el desarrollo y despliegue de nuestro landing page en Github Pages. Esto marca un hito importante en el proyecto, ya que proporciona una plataforma en línea para presentar nuestra propuesta. El equipo continúa avanzando de manera constante en el desarrollo del proyecto, y el Sprint 3 ha sido un paso significativo en esa dirección.</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Retrospective Summary</td>
+    <td> El equipo continuó trabajando en su coordinación y colaboración para mejorar la entrega de los resultados. Se reconoció que, a pesar de los esfuerzos, todavía se presentaron desafíos en el cumplimiento de las fechas establecidas para las entregas asignadas a cada miembro. Para abordar este problema, se tomaron medidas específicas para extender los plazos, bajo condiciones acordadas por el equipo. Estas condiciones se establecieron con el objetivo de garantizar que las entregas finales sean de alta calidad y cumplan con los estándares del proyecto. A pesar de estos desafíos, el equipo sigue comprometido con el éxito del proyecto y se esfuerza por mejorar constantemente en futuros sprints.</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Goal</td>
+    <td> Nuestro equipo se enfocará en mejorar la experiencia del usuario en nuestra aplicación web, refinando el diseño y la funcionalidad del frontend. Planeamos abordar los comentarios de los usuarios y realizar mejoras iterativas basadas en las lecciones aprendidas desde el despliegue inicial. Además, continuaremos optimizando el rendimiento de nuestra aplicación web y su compatibilidad con varios navegadores y dispositivos. Al finalizar este sprint, nuestro objetivo es tener una versión mejorada y más amigable para el usuario de nuestra aplicación web, con todos los problemas identificados resueltos, y garantizar su accesibilidad sin problemas para todos los usuarios a través de Internet.</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>36</td>
+  </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+En esta sección, se detalló el contenido del Sprint Backlog 3. Para una gestión adecuada de las tareas asignadas a cada miembro del equipo, se optó por utilizar Jira como la plataforma principal de seguimiento y organización de las actividades.
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1170567128500404234/image.png?ex=65598297&is=65470d97&hm=d9fac65acae2c9d97b4762b8e5bd749a50b8b45ebaaa90c6af5433f7fd5e2dba&" alt="Sprint Backlog 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1170567629568745582/image.png?ex=6559830e&is=65470e0e&hm=77ea5014bffbfc0c81b87ee8d897d7d9b2bceaac29cfa68d38b2641b870f9401&" alt="Sprint Backlog 3 management" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>    
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td rowspan="3">US01</td>
+    <td rowspan="3">Crear perfil de turista</td>
+    <td>T04</td>
+    <td>Validar datos de registro</td>
+    <td>Desarrollar la función de validación de datos ingresados por el usuario durante el registro para asegurar que sean válidos antes de crear el perfil.</td>
+    <td>3</td>    
+    <td>Aldo Baldeón</td>
+    <td>To do</td>
+  </tr>
+  <tr>
+    <td>T05</td>    
+    <td>Enviar email de confirmación</td>
+    <td>Implementar el envío automático de un email de confirmación cuando el usuario complete el registro exitosamente.</td>
+    <td>2</td>
+    <td>Aldo Baldeón</td>
+    <td>To do</td>
+  </tr>
+  <tr>
+    <td>T06</td>
+    <td>Permitir editar perfil</td>
+    <td>Desarrollar la funcionalidad para que los usuarios puedan editar la información de su perfil después del registro inicial.</td>
+    <td>3</td>
+    <td>Aldo Baldeón</td>
+    <td>To do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">US02</td>
+    <td rowspan="3">Crear perfil de negocio</td>
+    <td>T01</td>
+    <td>Diseñar formulario de registro</td>
+    <td>Diseñar el formulario de registro para proveedores con campos para ingresar información del negocio.</td>
+    <td>2</td>
+    <td>Cristian Quito</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementar registro de negocios</td>
+    <td>Desarrollar la funcionalidad de registro para proveedores, creando el perfil del negocio con los datos ingresados.</td>
+    <td>3</td>
+    <td>Cristian Quito</td>
+    <td>In process</td>
+  </tr>
+  <tr>
+    <td>T03</td>
+    <td>Validar información de negocios</td>
+    <td>Implementar validación de campos requeridos e información provista durante el registro de perfiles de negocios.</td>
+    <td>2</td>
+    <td>Cristian Quito</td>
+    <td>To do</td>
+  </tr>
+  
+  <tr>
+    <td rowspan="3">US09</td>
+    <td rowspan="3">Calificar y comentar sobre servicios</td>
+    <td>T01</td>
+    <td>Diseñar formulario de calificación</td>
+    <td>Diseñar el formulario que permitirá a los usuarios ingresar una calificación numérica y comentarios sobre un servicio.</td>
+    <td>2</td>
+    <td>Bruce Cipriano</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementar envío de calificaciones</td>
+    <td>Desarrollar la funcionalidad para que las calificaciones y comentarios sean enviados y vinculados al servicio correspondiente.</td>
+    <td>3</td>
+    <td>Bruce Cipriano</td>
+    <td>In process</td>
+  </tr>
+  <tr>
+    <td>T03</td>
+    <td>Mostrar promedio de calificaciones</td>
+    <td>Implementar el cálculo y visualización del promedio de las calificaciones de cada servicio.</td>
+    <td>2</td>
+    <td>Bruce Cipriano</td>
+    <td>To do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">US18</td>
+    <td rowspan="3">Notificar sobre eventos repentinos</td>
+    <td>T01</td>
+    <td>Diseñar alertas emergentes</td>
+    <td>Diseñar la interfaz de las alertas emergentes que se mostrarán ante eventos repentinos como cancelaciones.</td>
+    <td>1</td>
+    <td>Diego Esquivel</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementar alertas por email</td>
+    <td>Desarrollar el envío automático de emails de alerta cuando ocurran eventos repentinos que afecten al usuario.</td>
+    <td>3</td>
+    <td>Diego Esquivel</td>
+    <td>In process</td>
+  </tr>
+  <tr>
+    <td>T03</td>
+    <td>Implementar alertas en app móvil</td>
+    <td>Desarrollar la funcionalidad de alertas push en la app móvil ante eventos repentinos.</td>
+    <td>5</td>
+    <td>Diego Esquivel</td>
+    <td>To do</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US22</td>
+    <td rowspan="2">Publicar servicios de la empresa turística</td>
+    <td>T01</td>
+    <td>Diseñar formulario de publicación</td>
+    <td>Diseñar el formulario que permitirá a los proveedores publicar sus servicios turísticos en la plataforma.</td>
+    <td>2</td>
+    <td>Cristian Quito</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementar publicación de servicios</td>
+    <td>Desarrollar la funcionalidad para que los proveedores puedan publicar sus servicios turísticos de manera exitosa.</td>
+    <td>3</td>
+    <td>Cristian Quito</td>
+    <td>In process</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US24</td> 
+    <td rowspan="2">Compartir Itinerarios</td>
+    <td>T01</td>
+    <td>Generar enlace compartible</td>
+    <td>Desarrollar la funcionalidad para generar un enlace único para cada itinerario que permita compartirlo.</td>
+    <td>2</td>
+    <td>Bruce Cipriano</td>
+    <td>To do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Integrar con redes sociales</td>
+    <td>Implementar opciones para compartir el itinerario directamente en redes sociales como Facebook y Twitter.</td>
+    <td>3</td>
+    <td>Bruce Cipriano</td>
+    <td>To do</td>
+  </tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | f4378e54c6e0b16593071b34c2635d68e4f91c10 | feat: user profile page | Added user profile page feature. | 23/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 3c1a19935cf4772c53b2e3ca821f6b59c4b430891 | Merge pull request #8 from Odyssey-UPC/feature/US08-User-Profile | Merged user profile page feature. | 23/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 22f2b1ce4a3e77d65a1e0d53c99ecba2eb8e94e2 | feat: notifications | Implemented notifications feature. | 24/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | d72bce495f1687b16d8a9ad6d8574eaa1427c3e9 | Merge pull request #9 from Odyssey-UPC/feature/US12-Notifications | Merged notifications feature. | 24/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | e1d62a6dcd1e2a2840599d3f5e19325ca574de18 | feat: map integration | Integrated maps feature into the application. | 25/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 071a337950b741c238f361e10c4827f0e140166eb | Merge pull request #10 from Odyssey-UPC/feature/US14-Map-Integration | Merged map integration feature. | 25/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 7c19344121e441f3a2bf0ffada05b0d5fdef4b29 | feat: search functionality | Added search functionality to the application. | 26/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 64284ae4151621c3e24e8d9110169a0f02e496493 | Merge pull request #11 from Odyssey-UPC/feature/US18-Search-Functionality | Merged search functionality feature. | 26/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 9140d1c64ccfe406a52b317b41812f1c148179c80 | feat: itinerary sharing | Implemented itinerary sharing feature. | 27/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | a2a5e0008eb2ec2a126efcd1a3c30d769cb5ef07 | Merge pull request #12 from Odyssey-UPC/feature/US24-Itinerary-Sharing | Merged itinerary sharing feature. | 27/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 4a209c12f818d0a8c0b2cfe3f53e91ef027c01d2e | fix: minor UI improvements | Made minor UI improvements for a better user experience. | 28/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 8a02fc7a39f0f19e6ca2ab4a8d68887fc394b084 | Merge pull request #13 from Odyssey-UPC/fixes/minor-UI-improvements | Merged minor UI improvements. | 28/10/2023 |
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|----------------------|---------------------|
+| US01/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US01.feature | Cipriamo.Bruce-feature-Sprint3-US01 | c64f3d2 | feat: add gherkin US01 | add gherkin US01 |
+| US02/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US02.feature | Cipriamo.Bruce-feature-Sprint3-US02 | 6303f6a |feat: add gherkin US02| add gherkin US02 |
+| US09/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US09.feature | Cipriamo.Bruce-feature-Sprint3-US09 | 0d469d0 | feat: add gherkin US09 | add gherkin US09 |
+| US18/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US18.feature | Cipriamo.Bruce-feature-Sprint3-US18 | 86116cc | feat: add gherkin US18 | add gherkin US18 |
+| US22/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US22.feature | Cipriamo.Bruce-feature-Sprint3-US22 | 5c243b1 | feat: add gherkin US22| add gherkin US22 |
+| US24/https://github.com/Odyssey-UPC/Testing/blob/main/Sprint%203/US24.feature | Cipriamo.Bruce-feature-Sprint3-US24 | b983235 | feat: add gherkin US24 | add gherkin US24 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En el Sprint 3, se han logrado importantes avances en la aplicación web TPlanner. El equipo de desarrollo ha trabajado en varias características clave que mejoran la funcionalidad y la experiencia del usuario.
+* API TPlanner: https://tplannerapi.azurewebsites.net/api/v1/
+* Repositorio de nuestra API TPlanner: https://github.com/Odyssey-UPC/TPlanner-Backend
+
+En las siguientes imagenes, se mostrará las evidencias de ejecución de nuestra API Restful desplegada en Azure.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170633019216887848/image.png?ex=6559bff5&is=65474af5&hm=6ec9b4112364ca9278f53403a0b663c619c45aabf5aa119ba081a76c0ab51753&" alt="evidence 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170633170329272441/image.png?ex=6559c019&is=65474b19&hm=a67382a8f41fdbd70780dc8db77e73bc59f36d468ac9a5e0ce2f4e346ad84ee8&" alt="evidence 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170633293088182282/image.png?ex=6559c036&is=65474b36&hm=d2f77f42055bf70bea57d6c8e07e250b0f6bd288041d543700da21d6984c8443&" alt="evidence 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170635177073061908/image.png?ex=6559c1f7&is=65474cf7&hm=fd1ecfea4c4bde4525de25a0403fdeadd1a7c0f0fcf8bd29aafb9e5b78ede34b&" alt="evidence 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+A continuación, se detallará los endpoints que se han desarollado en el API Restful. De esta manera, podemo realizar las operaciones CRUD necesarias para esta primera versión, logrando una aplicación web dinámica.
+Link del API Restful: [TPlanner API RestFul](https://tplannerapi.azurewebsites.net/swagger-ui/index.html#/)
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Evidencia</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/User</td>
+      <td><img src="https://cdn.discordapp.com/attachments/859891786825596930/1170733491542044692/image.png?ex=655a1d87&is=6547a887&hm=edd63b58680a6329928a1759a6aa60ec237a072422e0485c5e5be39533882af9&" alt="/User evidence"></td>
+      <td>Endpoint para acceder a los users.</td>
+    </tr>
+    <tr>
+      <td>/Tourist</td>
+      <td><img src="https://cdn.discordapp.com/attachments/859891786825596930/1170733537054425178/image.png?ex=655a1d92&is=6547a892&hm=dd2764a35c52c553d1d91539aef2842fd293a6b7d1cd875e199abadb8dde73ad&" alt="/Tourist evidence"></td>
+      <td>Endpoint para acceder a los turistas.</td>
+    </tr>
+    <tr>
+      <td>/Tourist-Provider</td>
+      <td><img src="https://cdn.discordapp.com/attachments/859891786825596930/1170733566267768984/image.png?ex=655a1d99&is=6547a899&hm=fb866aba429172f57a1517b3f3016cc6836fe5eaa3e3d80bd0f6e04d20c92cc1&" alt="/Tourist-Provider evidence"></td>
+      <td>Endpoint para acceder a los proveedores turísticos.</td>
+    </tr>
+    <tr>
+      <td>/Chat</td>
+      <td><img src="https://cdn.discordapp.com/attachments/859891786825596930/1170733599834771577/image.png?ex=655a1da1&is=6547a8a1&hm=7498d8a6b9c8570e81bc5121dcc6ab7cdf2d15986bf517efcef9ba89f0029df2&" alt="/Chat evidence"></td>
+      <td>Endpoint para acceder a los chats.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Nuestro equipo usó Azure para el despligue de nuestra API Restful. Por ello se añadió la integración continua. Esto nos brinda la facilidad de usar nuestro Github para hacer futuros despliegues automáticamente.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170567567748907120/image.png?ex=65598300&is=65470e00&hm=d973b8a356a5aa3346f213ef88d907d9fe7002ba6a83410a2bd9d9c755eadecf&" alt="step 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170567594189787188/image.png?ex=65598306&is=65470e06&hm=59fc9f9387649f26964e0adb164fa0280949ce55c0c2c91fcc124aff6ec3ab64&" alt="step 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170567639899324498/image.png?ex=65598311&is=65470e11&hm=9829a6aff200fb658443766478661940d372f08a61240ded7b2dbc8693b654dc&" alt="step 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170567831243464856/image.png?ex=6559833f&is=65470e3f&hm=3f621acdf5b875bd8c46034cd823abec5f154276d95613d54ae0dac282bbdcad&" alt="step 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170730208366702652/image.png?ex=655a1a78&is=6547a578&hm=da6737fd3783793f86378c3e7c79b8e55a5f23636f0c44c8f392e16c9fd1237b&" alt="step 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+La primera versión del backend Web Aplication fue creada aplicando la metología Gitflow, el cual ha permitido una distribución uniforme y el avance independiente de cada funcionalidad asignada a cada integrante del equipo. Además, Gitflow proporciona un marco sólido para la gestión de versiones y la implementación continua, lo que ha agilizado significativamente el proceso de desarrollo y despliegue. Gracias a esta metodología, hemos logrado mantener un flujo constante de entregas y actualizaciones, garantizando así que la El backend Web Aplicatión esté siempre actualizada y cumpla con las expectativas de nuestros usuarios.
+
+* La nomenclatura para el nombre de las ramas:
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170732563506155580/image.png?ex=655a1caa&is=6547a7aa&hm=f4cbd844c576d17dade53359dd8d5d91e963962f335155d4367311bd86a6b050&" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+* Evidencia de Gitflow durante el sprint 3:
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/859891786825596930/1170731680147980400/image.png?ex=655a1bd7&is=6547a6d7&hm=01c6ea74aa1f8a38598fdc1905274733535498518d45854463ecadf1287fe743&=&width=721&height=210" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+* Contribuciones de cada integrante del equipo:
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/859891786825596930/1170731814466367518/image.png?ex=655a1bf7&is=6547a6f7&hm=2b41234088b986e0b421764d5989f90fa37653dae2c83d5393167c4c281913c1&" alt="contributions" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+* Preguntas generales:
+  * ¿Cómo te llamas?
+  * ¿Cuántos años tienes?
+  * ¿Dónde vives actualmente?
+  * ¿A qué te dedicas?
+
+* Segmento: Turista
+  * Después de explorar la aplicación Tplanner, ¿crees que te ayudará a crear itinerarios de viajes de manera efectiva y personalizada?
+  * ¿Encuentras que Tplanner facilita la planificación de tus actividades y la gestión de tu tiempo durante el viaje?
+  * ¿Crees que la aplicación te proporciona una variedad de opciones de actividades ofrecidas por los proveedores de servicios?
+  * ¿Qué opinas sobre el diseño y la facilidad de uso de la aplicación Tplanner?
+  * ¿Con qué frecuencia utilizarías la aplicación para planificar tus viajes y actividades?
+  * ¿Qué aspectos te gustan más de Tplanner, y hay alguna característica que sientas que falta en la aplicación desde la perspectiva del turista?
+  * ¿Estarías dispuesto a recomendar Tplanner a otros viajeros a través de tus redes sociales?
+
+* Segmento: Proveedor de Servicios
+  * Después de conocer Tplanner y su enfoque en ayudar a los turistas a planificar itinerarios de viaje, ¿crees que la aplicación puede ser una herramienta efectiva para promocionar tus servicios y actividades?
+  * ¿Encuentras que Tplanner te ofrece una plataforma conveniente para presentar tus servicios y actividades a los turistas?
+  * ¿Crees que la aplicación puede aumentar la visibilidad de tu negocio y atraer más clientes?
+  * ¿Qué opinas sobre el diseño de la plataforma y su facilidad de uso desde la perspectiva del proveedor de servicios?
+  * ¿Con qué frecuencia estarías dispuesto a utilizar Tplanner para promocionar tus servicios y actividades?
+  * ¿Qué aspectos te gustan más de Tplanner, y hay alguna característica que sientas que falta en la aplicación desde la perspectiva del proveedor de servicios?
+  * ¿Estarías dispuesto a recomendar Tplanner a otros proveedores de servicios turísticos a través de tus redes sociales?
+
+
+### 5.3.2. Registro de Entrevistas.
+
+* ***Segmento: Turista***
+  * **Entrevista 01**
+  * Nombres:  Gabriel Sebastian
+  * Apellidos:  Careño Campos
+  * Edad: 19 años
+  * Distrito:  Cercado de Lima
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1120134585896939531/1170819351939649666/image.png?ex=655a6d7e&is=6547f87e&hm=b4cad670ddd35b0e96ca8ced47d1a94aaba8c6a7e11d6fa98772dacb1e01389e&&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * Durante la entrevista con Gabriel, un potencial usuario de nuestra innovadora aplicación "Tplanner", quedó impresionado por su singularidad. Le atrajo la posibilidad de crear itinerarios de viaje personalizados o elegir opciones predeterminadas. Además, valoró la simplicidad y practicidad de la aplicación. Gabriel también expresó su interés en la frecuencia con la que podría depender de nuestros paquetes de actividades y apreció la adaptabilidad de la app junto con nuestros filtros para actividades. Incluso se mostró dispuesto a recomendar nuestra aplicación a través de sus redes sociales.
+
+
+
+  * **Entrevista 02**
+  * Nombres: Agustin 
+  * Apellidos:  Aguilar
+  * Edad: 21 años
+  * Distrito: lima, breña
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1146654443220242462/1170851265312460910/image.png?ex=655a8b37&is=65481637&hm=92025df59462e2ded4eb6ea212ba60f1b73cdf831e85b485d7c9e418ebb39fa2&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * En la entrevista con Agustin, se discutió la necesidad de mejorar la interfaz de la aplicación. Agustin sugirió que la interfaz debería ser más colorida y que las letras deberían ser más grandes para mejorar la usabilidad. No se proporcionó información adicional sobre otros aspectos de la aplicación en esta entrevista.
+
+
+     
+  * **Entrevista 03**
+  * Nombres: Godofredo 
+  * Apellidos: Qspe tipo
+  * Edad: 21 años
+  * Distrito: lima, san miguel
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1146654443220242462/1170851790317686976/image.png?ex=655a8bb4&is=654816b4&hm=580c2333fb7a7a267824efd3acd1a03f65bad8e953236dd6ba5150517606b07a&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * En la entrevista con Godofredo, se planteó la sugerencia de mejorar la interfaz de la aplicación. Godofredo también destacó la importancia de hacer que la interfaz sea más colorida y las letras más grandes para mejorar la usabilidad. Además, sugirió que la aplicación podría beneficiarse de una mayor variedad de iconos y una navegación más intuitiva. Estas recomendaciones apuntan a una experiencia de usuario más atractiva y fácil de usar.
+<br>
+
+
+
+* ***Segmento: Proveedor de Servicios***
+  * **Entrevista 01**
+  * Nombres:  Adrián Martín
+  * Apellidos:  Quito Igreda
+  * Edad: 20 años
+  * Distrito:  Lo Olivos, Lima
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/764720272464281612/1170775509999816836/image.png?ex=655a44a9&is=6547cfa9&hm=c63176ee95788ff7f04bbc1ea2f0cd425f7a672b63d6d781b2d20881d3d2f01d&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * En la entrevista con Adrían, nos menciona del gran potencial que presenta nustra aplicación y como ello puedo potenciar los negocios del rubro turístico. Asimismo nos cuenta que le encanto la interfaz, pues presenta un diseño cálido y redondo. Por otro lado, destacó la funcionlaidad de ver varios servicios turisticos agrupados y con una descripción completa de este. Por útlimo, se mostró dispuesto a recomendar nuestra aplicación con sus colegas debido a la gran capacidad que presenta TPlanner para conectar los proveedores con los turístas. 
+
+
+
+
+
+ * **Entrevista 02**
+  * Nombres: Ray Alessandro 
+  * Apellidos: Del Carmen Zorrilla
+  * Edad: 20 años
+  * Distrito: lima puente piedra
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1146654443220242462/1170848855101804674/image.png?ex=655a88f8&is=654813f8&hm=59298b61b7a54664115b4e194bfe75d9f3b12ee0581e487ad57692b65c477212&" alt="Entrevista 1" width="90%"/>
+</div>
+
+ * Resumen de la entrevista:
+     * Ray Alessandro expresó la importancia de mejorar la interfaz de la aplicación, haciendo hincapié en que la interfaz debería ser más colorida y que las letras deberían ser más grandes. Al igual que otros entrevistados, Ray Alessandro destacó la necesidad de una experiencia de usuario más atractiva y una mejor usabilidad. Estas sugerencias se suman a la tendencia de usuarios que desean una interfaz más visualmente atractiva y fácil de leer en la aplicación "Tplanner".
+
+ * **Entrevista 03**
+  * Nombres: Anthony Brahan
+  * Apellidos: Loarte Matos
+  * Edad: 25 años
+  * Distrito: ciudad de tumbes
+
+<div align=center>
+<img src="https://cdn.discordapp.com/attachments/1146654443220242462/1170853943316860980/image.png?ex=655a8db5&is=654818b5&hm=c05e409ec5ba5ccbb40fb9a90498c48c0db7804a39f06c1426c590171a253d20&" alt="Entrevista 1" width="90%"/>
+</div>
+
+   * Resumen de la entrevista:
+     * En la entrevista con Anthony Brahan, se discutió la necesidad de mejorar la interfaz de la aplicación "Tplanner". Anthony compartió la sugerencia de hacer que la interfaz sea más colorida y destacó la importancia de que las letras sean más grandes. Estas recomendaciones apuntan a una experiencia de usuario más atractiva y legible en la aplicación. La opinión de Anthony se alinea con la de otros entrevistados que buscan una interfaz visualmente atractiva y fácil de usar en la aplicación.
+
+
+
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+#### <div align="center">UX Heuristics & Principles Evaluation</div>
+
+##### <div align="center">Usability – Inclusive Design – Information Architecture</div>
+
+<b> Carrera: </b> Ingeniería de Software <br>
+<b> Curso: </b> Open Source <br>
+<b> Sección: </b> WS52 <br>
+<b> Profesor: </b> Elio Jefferrson Navarrete Vilca <br>
+<b> Auditor: </b> Odyssey <br>
+
+<b> <em> SITE O APP A EVALUAR: </em> </b> <br>
+TPlanner
+
+<b> <em> TAREAS A EVALUAR: </em> </b> <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+<b>TAREAS A EVALUAR:</b> <br>
+
+- Iniciar sesion
+- Registrarse
+- Eliger preferencias
+- Ver paquetes de viaje
+- Chatear
+- Ver preguntas frecuentes
+- Ver notificaciones
+
+No están incluídas en esta versión de la evaluación las siguientes tareas:
+
+- Ver calendario
+- Crear itinerario de viaje
+
+<b> <em> ESCALA DE SEVERIDAD: </em> </b> <br>
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>
+            <b>Nivel</b>
+        </th>
+        <th>
+            Descripción
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <b>1</b>
+        </td>
+        <td align="left">
+            Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>2</b>
+        </td>
+        <td align="left">
+            Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>3</b>
+        </td>
+        <td align="left">
+            Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>4</b>
+        </td>
+        <td align="left">
+            Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+        </td>
+    </tr>
+</table>
+
+<b> <em> TABLA DE RESUMEN: </em> </b> <br>
+La siguiente tabla resume los resultados de la evaluación:
+
+<table align="center" border="1" width="100%" style="text-align:center;">
+    <tr>
+        <th>#</th>
+        <th>Problema</th>
+        <th>Escala de severidad</th>
+        <th>Heurística/Principio violada(o)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td align="left">Falta de opciones de inicio de sesión con Google u otras plataformas</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td align="left">Registro de usuario no validado y datos no guardados</td>
+        <td>3</td>
+        <td align="left">Usability: Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td align="left">Imposibilidad de visualizar actividades como parte de paquetes y ausencia de función de reserva</td>
+        <td>4</td>
+        <td align="left">Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td align="left">Chat estático sin capacidad de interacción</td>
+        <td>3</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td align="left">Visualización de preguntas frecuentes sin opción para enviar preguntas propias</td>
+        <td>2</td>
+        <td align="left">Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td align="left">Notificaciones estáticas sin información relevante</td>
+        <td>2</td>
+        <td align="left">Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+</table>
+
+<b> <em> DESCRIPCIÓN DEL PROBLEMA: </em> </b> <br>
+
+**PROBLEMA #1:** Falta de opciones de inicio de sesión con Google u otras plataformas.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso.
+<b>Problema:</b>
+Los usuarios no pueden acceder de manera rápida y sencilla debido a la falta de opciones de inicio de sesión con cuentas de Google u otras plataformas.
+<b>Recomedación:</b>
+Agregar opciones de inicio de sesión con cuentas de Google u otras plataformas para optimizar la experiencia de acceso. <br>
+
+**PROBLEMA #2:** Registro de usuario no validado y datos no guardados.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Visibilidad del estado del sistema.
+<b>Problema:</b>
+La falta de validación en el registro y la no conservación de datos pueden generar confusión y desconfianza en los usuarios durante el proceso de registro.
+<b>Recomedación:</b>
+Implementar una validación efectiva del registro y proporcionar retroalimentación visual para garantizar la correcta conservación de los datos. <br>
+
+**PROBLEMA #3:** Imposibilidad de visualizar actividades como parte de paquetes y ausencia de función de reserva.
+<b>Severidad:</b> 4
+<b>Heurística violada:</b> Usability: Consistencia y estándares.
+<b>Problema:</b>
+Los usuarios no pueden planificar viajes completos al no poder ver actividades como parte de paquetes y no tener la opción de reservar actividades.
+<b>Recomedación:</b>
+Desarrollar la funcionalidad para visualizar actividades como parte de paquetes de viaje y permitir a los usuarios realizar reservas. <br>
+
+**PROBLEMA #4:** Chat estático sin capacidad de interacción.
+<b>Severidad:</b> 3
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso.
+<b>Problema:</b>
+La falta de interacción en el chat hace que esta función sea poco atractiva y no funcional para los usuarios.
+<b>Recomedación:</b>
+Implementar la capacidad de interactuar en el chat, permitiendo a los usuarios comunicarse efectivamente entre sí. <br>
+
+**PROBLEMA #5:** Visualización de preguntas frecuentes sin opción para enviar preguntas propias.
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Consistencia y estándares
+<b>Problema:</b>
+La ausencia de una opción para que los usuarios envíen sus preguntas frecuentes limita la obtención de información adicional.
+<b>Recomedación:</b>
+Agregar la funcionalidad que permita a los usuarios enviar sus propias preguntas frecuentes y recibir respuestas. <br>
+
+**PROBLEMA #6:** Notificaciones estáticas sin información relevante.
+<b>Severidad:</b> 2
+<b>Heurística violada:</b> Usability: Flexibilidad y eficiencia de uso
+<b>Problema:</b>
+Las notificaciones estáticas carecen de información útil y actualizada para los usuarios.
+<b>Recomedación:</b>
+Implementar notificaciones dinámicas que muestren información relevante y actualizada para mejorar la utilidad de esta función.
+
+## 5.4. Video About-the-Product.
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones.
