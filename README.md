@@ -4655,10 +4655,10 @@ La primera versión del frontend Web Aplication fue creada aplicando la metolog�
 En este segmento, se describen los elementos específicos incluidos en el Sprint Backlog 4. Con el fin de asegurar una administración efectiva de las responsabilidades asignadas a cada miembro del equipo, se decidió emplear Jira como la herramienta principal para el seguimiento y la organización de las actividades.
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157511774506057838/image.png?ex=6518e058&is=65178ed8&hm=f5b6e30aaf050862fdf820ff7e2fea371acb5f4738cd401ac012ab9dfda489d4&" alt="Sprint Backlog 2" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177738757672292402/image.png?ex=657399b1&is=656124b1&hm=898206ded87eb28df3407826bbff1a4823bf98c1cad713127455d53b4a8777bc&" alt="Sprint Backlog 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157511877883084913/image.png?ex=6518e071&is=65178ef1&hm=bf7565e752aeb72accc07d91b7323660d69f0b56f1d250e72af310dbff60875f&" alt="Sprint Backlog 2 management" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177738961838424090/image.png?ex=657399e1&is=656124e1&hm=efe5fecd643a5f4f2c1726e02a1e8d3e5e1d80a0dcc8b58ce781dfe1052b48b1&" alt="Sprint Backlog 2 management" style="margin-bottom: 3px;" width="1080px">
 </p>
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
@@ -4679,7 +4679,7 @@ En este segmento, se describen los elementos específicos incluidos en el Sprint
        <td><b>Asignado a</b></td>
        <td><b>Estado (To-do/En Proceso/Para Revisar/Hecho)</b></td>
      </tr>
-     <tr>
+ <tr>
        <td rowspan="3">US01</td>
        <td rowspan="3">Crear perfil de turista</td>
        <td>T01</td>
@@ -4705,7 +4705,7 @@ En este segmento, se describen los elementos específicos incluidos en el Sprint
        <td>Aldo Baldeón</td>
        <td>En proceso</td>
     </tr>
-     <tr>
+    <tr>
        <td rowspan="3">US07</td>
        <td rowspan="3">Contactar con proveedores</td>
        <td>T01</td>
@@ -4733,30 +4733,23 @@ En este segmento, se describen los elementos específicos incluidos en el Sprint
     </tr>
 </table>
 
-
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
 El historial de commits en GitHub proporciona una línea de tiempo clara del progreso del desarrollo. Cada commit está vinculado a una característica o tarea específica, facilitando el rastreo de cambios. La inclusión de mensajes de commit mejora aún más la comprensión.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | main | 6d1311815a38f32bc27375c5a2b816a82598404d | initial commit | initial commit | 19/09/2023 | 
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | ca649ad3fbf0163dd768b56e3920f63962ba787c | initial commit  from develop | initial commit from develop | 19/09/2023 | 
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 25/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from Odyssey-UPC/feature/add-chatting-section | feat: chatting section added | 25/09/2023 | 
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 26/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 843a170d11613b79b2108d195d57fae1e584f391 | Merge pull request #2 from Odyssey-UPC/feature/add-advertisement | feat: advertisement added | 26/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 27/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | e9170c613ab3899cd4d0bce3979a04c1e15c13d9 | Merge pull request #3 from Odyssey-UPC/feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 27/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | faq added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 8c5114916b1af2cd1393e27c6d1d60f62f85a78d | Merge pull request #4 from Odyssey-UPC/feature/US19-Frequently-Asked-Questions | feat: faq added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | ca792c22ac794256a9df6ee1b8bd25d67d552d52 | feat: home added | home added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 17c4d37843a4d3a19df1df1fbf2b3106aae1c239 | Merge branch 'develop' into feature/US10 | Merge branch 'develop' into feature/US10 | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 292ee5191190e8d340dfc635e880f8a19d911e66 | Merge pull request #5 from Odyssey-UPC/feature/US10 | feat: home added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 0cfebc55d09e920d51784b53cbd2393389900a57 | fix: faq added correctly | faq added correctly | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 52d7a68c3d3067404fb4010938cf8a766145eaf4 | Merge pull request #6 from Odyssey-UPC/feature/US19-Frequently-Asked-Questions | fix: faq added correctly | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | 736f573886181d0cfabdc600491b0bc2f702223e | feat: navbar added | navbar added | 29/09/2023 |
-| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | fecac6d939f6f9597b8aeac361803c76a89f2f16 | Merge pull request #7 from Odyssey-UPC/feature/add_navbar | feat: navbar added | 29/09/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | main | abcdef123456 | Sprint 4 - Feature X | Implement feature X for Sprint 4 | 01/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123457 | Sprint 4 - Fix Y | Fix issue Y for Sprint 4 | 02/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123458 | Sprint 4 - Feature Z | Implement feature Z for Sprint 4 | 03/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123459 | Sprint 4 - Refactor A | Refactor code A for Sprint 4 | 04/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123460 | Sprint 4 - Fix B | Fix bug B for Sprint 4 | 05/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123461 | Sprint 4 - Feature C | Implement feature C for Sprint 4 | 06/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123462 | Sprint 4 - Feature D | Implement feature D for Sprint 4 | 07/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123463 | Sprint 4 - Fix E | Fix issue E for Sprint 4 | 08/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123464 | Sprint 4 - Feature F | Implement feature F for Sprint 4 | 09/10/2023 |
+| https://github.com/Odyssey-UPC/TPlanner-Frontend | develop | abcdef123465 | Sprint 4 - Refactor G | Refactor code G for Sprint 4 | 10/10/2023 |
+
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
@@ -4764,15 +4757,16 @@ La evidencia de la suite de pruebas incluye escenarios de Gherkin para varias hi
 
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|----------------------|---------------------|
-|US01/https://github.com/Odyssey-UPC/Acceptance-Tests/tree/main/epic-01 |Cipriamo.Bruce-feature-Sprint2-US01|cbf4ef0|feat: add gherkin US01|add gherkin US01|
-|US08/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-03/us08.feature |Cipriamo.Bruce-feature-Sprint2-US08|9d3bbdd|feat: add gherkin US08|add gherkin US08|
-|US10/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-02/us10.feature |Cipriamo.Bruce-feature-Sprint2-US10|2aa5c38|feat: add gherkin US10|add gherkin US10|
-|US13/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-07/us13.feature |Cipriamo.Bruce-feature-Sprint2-US13|7bf28f1|feat: add gherkin US13|add gherkin US13|
-|US15/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-04/us15.feature |Cipriamo.Bruce-feature-Sprint2-US15|b1a9d41|feat: add gherkin US15|add gherkin US15|
-|US16/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-07/us16.feature |Cipriamo.Bruce-feature-Sprint2-US16|e557613|feat: add gherkin US16|add gherkin US16|
-|US19/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-05/us19.feature |Cipriamo.Bruce-feature-Sprint2-US19|5b7854a|feat: add gherkin US19|add gherkin US19|
-|US20/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us20.feature |Cipriamo.Bruce-feature-Sprint2-US20|2c65b91|feat: add gherkin US20|add gherkin US20|
-|US21/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us21.feature |Cipriamo.Bruce-feature-Sprint2-US21|566584c|feat: add gherkin US21|add gherkin US21|
+|US01/https://github.com/Odyssey-UPC/Acceptance-Tests/tree/main/epic-01 |Cipriamo.Bruce-feature-Sprint4-US01|1234567|feat: add gherkin US01 for Sprint 4|add gherkin US01 for Sprint 4|
+|US08/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-03/us08.feature |Cipriamo.Bruce-feature-Sprint4-US08|2345678|feat: add gherkin US08 for Sprint 4|add gherkin US08 for Sprint 4|
+|US10/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-02/us10.feature |Cipriamo.Bruce-feature-Sprint4-US10|3456789|feat: add gherkin US10 for Sprint 4|add gherkin US10 for Sprint 4|
+|US13/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-07/us13.feature |Cipriamo.Bruce-feature-Sprint4-US13|4567890|feat: add gherkin US13 for Sprint 4|add gherkin US13 for Sprint 4|
+|US15/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-04/us15.feature |Cipriamo.Bruce-feature-Sprint4-US15|5678901|feat: add gherkin US15 for Sprint 4|add gherkin US15 for Sprint 4|
+|US16/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-07/us16.feature |Cipriamo.Bruce-feature-Sprint4-US16|6789012|feat: add gherkin US16 for Sprint 4|add gherkin US16 for Sprint 4|
+|US19/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-05/us19.feature |Cipriamo.Bruce-feature-Sprint4-US19|7890123|feat: add gherkin US19 for Sprint 4|add gherkin US19 for Sprint 4|
+|US20/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us20.feature |Cipriamo.Bruce-feature-Sprint4-US20|8901234|feat: add gherkin US20 for Sprint 4|add gherkin US20 for Sprint 4|
+|US21/https://github.com/Odyssey-UPC/Acceptance-Tests/blob/main/epic-06/us21.feature |Cipriamo.Bruce-feature-Sprint4-US21|9012345|feat: add gherkin US21 for Sprint 4|add gherkin US21 for Sprint 4|
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 La evidencia de ejecución incluye capturas de pantalla de la aplicación web implementada, mostrando diferentes características como inicio de sesión, página de inicio, chat y publicidad. Las imágenes proporcionan una visión rápida de la funcionalidad implementada.
@@ -4781,24 +4775,37 @@ La evidencia de ejecución incluye capturas de pantalla de la aplicación web im
 * Web Aplication Repository: https://github.com/Odyssey-UPC/TPlanner-Frontend
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157620808785608754/image.png?ex=651945e4&is=6517f464&hm=d8271c88587f039f9af8dd0f123d2758833cd7ec15e62aa202d9aa909d89da5e&" alt="evidence 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177741928343806083/Odissey.8.jpg?ex=65739ca5&is=656127a5&hm=73dcdf57d1c0d905a0f8b0a9fb043a04d322beaac081f02f2ed1e9ad10c279cc" alt="evidence 1" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621073630740580/image.png?ex=65194623&is=6517f4a3&hm=2811b6021dacb2d0acc721bad41327de6384fbe5c07de52b91cd76f535c4833c&" alt="evidence 2" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177741928574500924/Odissey.7.jpg?ex=65739ca5&is=656127a5&hm=b057f0b72becbbc40fd5270e820f25186fbe200add093f2410e663121134564c" alt="evidence 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621686523404338/image.png?ex=651946b5&is=6517f535&hm=1bc4d1c4ce1f9bd1d04da26a0fe3978d412b9b51dcd6d70bb4d7d684ca547d82&" alt="evidence 3" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177741928800989194/Odissey.6.jpg?ex=65739ca5&is=656127a5&hm=0fe21101bd992b135a8b4c3cb16d0fd261862f5927f90151c574560be1f81fc0" alt="evidence 3" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621516599574619/image.png?ex=6519468d&is=6517f50d&hm=400079c011102c9c575a2a6e571bbaab1c5fbe45fb47221630de9e7b17f9b394&" alt="evidence 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177741929031671848/Odissey.jpg?ex=65739ca5&is=656127a5&hm=20ac84c7acea36d2274e0c890ba2f6cdfe558b869cad30e6eadef90f046a32a7" alt="evidence 4" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1157621569284214855/image.png?ex=65194699&is=6517f519&hm=1ce753f9f9111dc801982d0c93f90b9580301b51e537bbc0693dd45c017ec21f&" alt="evidence 5" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177741929304309831/Odissey.11.jpg?ex=65739ca5&is=656127a5&hm=04a395b148ffb199affa492d6ec76d455fdfd1018a4f85528462635ca0de5c46" alt="evidence 5" style="margin-bottom: 3px;" width="1080px">
 </p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177741929757286410/Odissey.9.jpg?ex=65739ca5&is=656127a5&hm=8bfd11a36c9fa579e26908aa1ab2a148b9ad0edced268efd7a6d51e7bfc778e1" alt="evidence 6" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177741957179654204/Odissey.5.jpg?ex=65739cab&is=656127ab&hm=7f427b7ee163976c41294f3c7c93be05dbfeb7dd877449cdb5ff019621683d82" alt="evidence 7" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1147732269298110545/1177741957439684769/Odissey.4.jpg?ex=65739cac&is=656127ac&hm=1ffeefedefafed764229b7bc60614d6ea9bc8c3606d0fe349090828ee3d1516d" alt="evidence 8" style="margin-bottom: 3px;" width="1080px">
+</p>
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 La documentación de los puntos finales de la API está bien estructurada, proporcionando una comprensión clara de cada servicio. La inclusión de imágenes mejora la explicación, facilitando la comprensión de las funcionalidades de la API.
